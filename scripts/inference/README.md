@@ -58,7 +58,8 @@ boltz predict INPUT.yaml \
 
 The essential command was:
 
-```boltz predict INPUT.yaml \
+```bash
+boltz predict INPUT.yaml \
     --model boltz2 \
     --accelerator cpu \
     --devices 1 \
@@ -105,4 +106,4 @@ The calculations used:
 - CPU inference;
 - memory allocated according to system size;
 - the batch partition on Iridis.
-Exact software versions will be documented under `environments/`.
+Exact software versions will be documented under `environment/`.
