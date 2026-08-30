@@ -52,6 +52,7 @@ boltz predict INPUT.yaml \
     --seed 12345 \
     --override \
     --out_dir OUTPUT_DIRECTORY
+```
 
 ## Boltz-2 command
 
@@ -70,6 +71,7 @@ The essential command was:
     --seed 12345 \
     --override \
     --out_dir OUTPUT_DIRECTORY
+```
 
 ## Inputs and outputs
 
