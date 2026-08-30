@@ -1,0 +1,331 @@
+#!/usr/bin/env python3
+
+import argparse
+import gzip
+import json
+from pathlib import Path
+
+import pandas as pd
+from plinder.core import get_config
+from plinder.core.scores import query_index
+
+
+MODEL_CUTOFFS = {
+    "boltz1": pd.Timestamp("2021-09-30"),
+    "boltz2": pd.Timestamp("2023-06-01"),
+}
+
+EXPECTED_SYSTEM_COUNTS = {
+    "boltz1": 167_997,
+    "boltz2": 200_678,
+}
+
+
+def split_system_id(system_id):
+    """
+    Parse a PLINDER system identifier of the form:
+
+    PDB__BIOASSEMBLY__PROTEIN_CHAINS__LIGAND_CHAINS
+    """
+
+    parts = str(system_id).split("__", 3)
+
+    if len(parts) != 4:
+        return pd.Series({
+            "pdb_id_from_system": "",
+            "biological_assembly": "",
+            "protein_chains": "",
+            "ligand_chains": "",
+        })
+
+    return pd.Series({
+        "pdb_id_from_system": parts[0],
+        "biological_assembly": parts[1],
+        "protein_chains": parts[2],
+        "ligand_chains": parts[3],
+    })
+
+
+def load_plinder_index():
+    required_columns = [
+        "system_id",
+        "entry_pdb_id",
+        "entry_release_date",
+    ]
+
+    optional_columns = [
+        "system_proper_unique_ccd_codes",
+    ]
+
+    try:
+        index = query_index(
+            columns=required_columns + optional_columns,
+            splits=["train", "val"],
+        )
+    except Exception as error:
+        print(
+            "WARNING: ligand CCD metadata could not be loaded:",
+            error,
+        )
+
+        index = query_index(
+            columns=required_columns,
+            splits=["train", "val"],
+        )
+
+        index["system_proper_unique_ccd_codes"] = ""
+
+    index = index.drop_duplicates(
+        subset=["system_id"]
+    ).copy()
+
+    index["entry_release_date"] = pd.to_datetime(
+        index["entry_release_date"],
+        errors="coerce",
+    )
+
+    missing_release_dates = int(
+    		index["entry_release_date"].isna().sum()
+	)
+
+	if missing_release_dates:
+    		print(
+        		"WARNING:",
+        		missing_release_dates,
+        		"train/val systems have no valid release date "
+        		"and will be excluded.",
+    		)
+
+	index = index.loc[
+    		index["entry_release_date"].notna()
+	].copy()
+
+	index.attrs[
+    		"systems_missing_release_date"
+	] = missing_release_dates
+
+	return index	
+
+def make_manifest(index, model, cutoff):
+    manifest = index.loc[
+        index["entry_release_date"].lt(cutoff)
+    ].copy()
+
+    parsed = manifest["system_id"].apply(
+        split_system_id
+    )
+
+    manifest = pd.concat(
+        [
+            manifest.reset_index(drop=True),
+            parsed.reset_index(drop=True),
+        ],
+        axis=1,
+    )
+
+    manifest["model"] = model
+    manifest["cutoff_date_exclusive"] = (
+        cutoff.strftime("%Y-%m-%d")
+    )
+
+    if "split" not in manifest.columns:
+        manifest["split"] = ""
+
+    manifest["pdb_id"] = (
+        manifest["entry_pdb_id"]
+        .fillna(manifest["pdb_id_from_system"])
+        .astype(str)
+        .str.lower()
+    )
+
+    manifest["release_date"] = (
+        manifest["entry_release_date"]
+        .dt.strftime("%Y-%m-%d")
+    )
+
+    manifest = manifest.rename(
+        columns={
+            "system_id": "plinder_system_id",
+            "split": "plinder_split",
+            "system_proper_unique_ccd_codes":
+                "ligand_ccd_codes",
+        }
+    )
+
+    output_columns = [
+        "model",
+        "plinder_system_id",
+        "pdb_id",
+        "biological_assembly",
+        "protein_chains",
+        "ligand_chains",
+        "ligand_ccd_codes",
+        "release_date",
+        "plinder_split",
+        "cutoff_date_exclusive",
+    ]
+
+    for column in output_columns:
+        if column not in manifest.columns:
+            manifest[column] = ""
+
+    return (
+        manifest[output_columns]
+        .sort_values("plinder_system_id")
+        .reset_index(drop=True)
+    )
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description=(
+            "Generate PLINDER-derived training-set proxy "
+            "manifests for Boltz-1 and Boltz-2."
+        )
+    )
+
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        required=True,
+    )
+
+    args = parser.parse_args()
+    args.output_dir.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    config = get_config()
+
+    print("PLINDER local directory:", config.data.plinder_dir)
+    print("PLINDER remote directory:", config.data.plinder_remote)
+
+    index = load_plinder_index()
+
+    print("Unique train/val systems loaded:", len(index))
+    print(
+        "Release-date range:",
+        index["entry_release_date"].min(),
+        "to",
+        index["entry_release_date"].max(),
+    )
+
+    count_records = []
+
+    for model, cutoff in MODEL_CUTOFFS.items():
+        manifest = make_manifest(
+            index=index,
+            model=model,
+            cutoff=cutoff,
+        )
+
+        expected = EXPECTED_SYSTEM_COUNTS[model]
+        observed = len(manifest)
+
+        print()
+        print(model)
+        print("  cutoff rule: release <", cutoff.date())
+        print("  systems:", observed)
+        print("  expected:", expected)
+        print("  unique PDB entries:", manifest["pdb_id"].nunique())
+
+        if observed != expected:
+            raise RuntimeError(
+                f"{model}: expected {expected} systems, "
+                f"but generated {observed}. "
+                "Do not publish this manifest until the "
+                "difference is resolved."
+            )
+
+        output_path = (
+            args.output_dir
+            / f"{model}_training_systems.csv.gz"
+        )
+
+        manifest.to_csv(
+            output_path,
+            index=False,
+            compression="gzip",
+        )
+
+        print("  written:", output_path)
+
+        count_records.append({
+            "model": model,
+            "cutoff_rule": (
+                f"entry_release_date < "
+                f"{cutoff.strftime('%Y-%m-%d')}"
+            ),
+            "plinder_systems": observed,
+            "unique_pdb_entries": int(
+                manifest["pdb_id"].nunique()
+            ),
+            "output_file": output_path.name,
+        })
+
+    counts = pd.DataFrame(count_records)
+
+    counts_path = (
+        args.output_dir
+        / "training_set_counts.csv"
+    )
+
+    counts.to_csv(
+        counts_path,
+        index=False,
+    )
+
+    metadata = {
+        "description": (
+            "PLINDER-derived proxies for the structures "
+            "available before each model training cutoff."
+        ),
+        "included_plinder_splits": [
+            "train",
+            "val",
+        ],
+        "cutoff_operator": "<",
+	"systems_excluded_missing_release_date": int(
+	    index.attrs.get(
+        	"systems_missing_release_date",
+        	0,
+    		)
+	),
+        "model_cutoffs": {
+            model: cutoff.strftime("%Y-%m-%d")
+            for model, cutoff in MODEL_CUTOFFS.items()
+        },
+        "expected_system_counts": (
+            EXPECTED_SYSTEM_COUNTS
+        ),
+        "plinder_local_directory": str(
+            config.data.plinder_dir
+        ),
+        "plinder_remote_directory": str(
+            config.data.plinder_remote
+        ),
+    }
+
+    metadata_path = (
+        args.output_dir
+        / "training_set_metadata.json"
+    )
+
+    metadata_path.write_text(
+        json.dumps(
+            metadata,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+    print()
+    print("Written:", counts_path)
+    print("Written:", metadata_path)
+    print("Training manifests completed successfully.")
+
+
+if __name__ == "__main__":
+    main()
