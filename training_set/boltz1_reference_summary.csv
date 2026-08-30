@@ -1,0 +1,9 @@
+item,value
+reference_definition,PLINDER-based Boltz-1 reference universe
+source_file,all_similarity_scores.parquet
+cutoff,2021-09-30
+cutoff_operator,<
+reference_systems,167997
+reference_pdb_ids,53487
+minimum_release_date,1976-05-19 00:00:00
+maximum_release_date,2021-09-29 00:00:00

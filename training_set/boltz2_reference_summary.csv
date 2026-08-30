@@ -1,0 +1,12 @@
+item,value
+reference_definition,PLINDER-based Boltz-2 reference universe
+source_file,all_similarity_scores.parquet
+cutoff,2023-06-01
+cutoff_operator,<
+reference_systems,200678
+reference_pdb_ids,62659
+reused_boltz1_pdb_ids,53487
+additional_pdb_ids,9172
+boltz1_ids_missing_from_boltz2,0
+minimum_release_date,1976-05-19 00:00:00
+maximum_release_date,2023-05-31 00:00:00
