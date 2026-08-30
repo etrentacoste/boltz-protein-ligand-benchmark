@@ -171,3 +171,4 @@ scripts/      Inference, evaluation, and benchmark-processing scripts
 similarity/   Processed PLINDER similarity, threshold, and density tables
 environment/  Software versions and installation notes
 figures/      Selected final benchmark, similarity, and PyMOL figures
+```
