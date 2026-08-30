@@ -86,23 +86,26 @@ A complex was classified as:
 - best-of-five successful when at least one of the five generated poses
   satisfied both thresholds.
 
-Aggregate results
-Across the 100-complex benchmark:
-Model	Top-1 success	Best-of-five success
-Boltz-1	39/100 (39%)	43/100 (43%)
-Boltz-2	42/100 (42%)	46/100 (46%)
+## Aggregate results
 
+Across the 100-complex benchmark, the following structural success rates were obtained:
 
-These values describe structural pose-prediction success on the benchmark
-defined in [`benchmark/`](../benchmark/).
-Reproducibility
-The inference settings, example YAML inputs and execution commands are
-documented under:
+| Model | Top-1 success | Best-of-five success |
+|:------|--------------:|---------------------:|
+| Boltz-1 | 39/100 (39%) | 43/100 (43%) |
+| Boltz-2 | 42/100 (42%) | 46/100 (46%) |
+
+These values describe structural pose-prediction success on the benchmark defined in the [`benchmark/`](../benchmark/) directory.
+
+## Reproducibility
+
+The inference settings, example YAML inputs and execution commands are documented in:
+
 - [`scripts/inference/`](../scripts/inference/)
 - [`inputs/`](../inputs/)
-The OpenStructure evaluation and result-summarisation scripts are documented
-under:
+
+The OpenStructure evaluation and result-summarisation scripts are documented in:
+
 - [`scripts/evaluation/`](../scripts/evaluation/)
-No experimental structure was used to select the model-ranked top-1
-prediction. Experimental structures were used only during retrospective
-evaluation.
+
+The experimental structures were not used to select the model-ranked top-1 predictions. They were used only for retrospective structural evaluation.
