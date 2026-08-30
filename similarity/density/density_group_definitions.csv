@@ -1,0 +1,37 @@
+model,metric,threshold,density_group,minimum_density,maximum_density,n_queries
+Boltz-1,Protein sequence,50.0,No neighbours,0,0,9
+Boltz-1,Protein sequence,50.0,Low density,1,62,42
+Boltz-1,Protein sequence,50.0,High density,63,2359,39
+Boltz-1,Protein structure,70.0,No neighbours,0,0,7
+Boltz-1,Protein structure,70.0,Low density,1,268,42
+Boltz-1,Protein structure,70.0,High density,269,2641,41
+Boltz-1,Pocket,70.0,No neighbours,0,0,9
+Boltz-1,Pocket,70.0,Low density,1,235,39
+Boltz-1,Pocket,70.0,High density,236,4516,39
+Boltz-1,Interaction,50.0,No neighbours,0,0,13
+Boltz-1,Interaction,50.0,Low density,1,51,37
+Boltz-1,Interaction,50.0,High density,52,2235,36
+Boltz-1,Ligand pose,50.0,No neighbours,0,0,21
+Boltz-1,Ligand pose,50.0,Low density,1,71,35
+Boltz-1,Ligand pose,50.0,High density,72,4660,34
+Boltz-1,Ligand chemistry,50.0,No neighbours,0,0,71
+Boltz-1,Ligand chemistry,50.0,Low density,1,23,10
+Boltz-1,Ligand chemistry,50.0,High density,24,2056,9
+Boltz-2,Protein sequence,50.0,No neighbours,0,0,9
+Boltz-2,Protein sequence,50.0,Low density,1,66,42
+Boltz-2,Protein sequence,50.0,High density,67,2537,39
+Boltz-2,Protein structure,70.0,No neighbours,0,0,7
+Boltz-2,Protein structure,70.0,Low density,1,302,42
+Boltz-2,Protein structure,70.0,High density,303,2833,41
+Boltz-2,Pocket,70.0,No neighbours,0,0,8
+Boltz-2,Pocket,70.0,Low density,1,243,40
+Boltz-2,Pocket,70.0,High density,244,4938,39
+Boltz-2,Interaction,50.0,No neighbours,0,0,12
+Boltz-2,Interaction,50.0,Low density,1,57,37
+Boltz-2,Interaction,50.0,High density,58,2436,37
+Boltz-2,Ligand pose,50.0,No neighbours,0,0,21
+Boltz-2,Ligand pose,50.0,Low density,1,76,35
+Boltz-2,Ligand pose,50.0,High density,77,5011,34
+Boltz-2,Ligand chemistry,50.0,No neighbours,0,0,70
+Boltz-2,Ligand chemistry,50.0,Low density,1,19,10
+Boltz-2,Ligand chemistry,50.0,High density,20,2319,10

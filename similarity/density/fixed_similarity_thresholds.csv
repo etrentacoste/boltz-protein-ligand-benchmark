@@ -1,0 +1,7 @@
+metric_column,metric,threshold
+protein_fident_max,Protein sequence,50
+protein_lddt_max,Protein structure,70
+pocket_qcov,Pocket,70
+pli_qcov,Interaction,50
+sucos_shape,Ligand pose,50
+morgan_tanimoto,Ligand chemistry,50

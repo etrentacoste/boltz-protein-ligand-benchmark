@@ -1,0 +1,2133 @@
+pdb_id,model,success,best_similarity,neighbour_density,mean_neighbour_similarity,visualisation_similarity,density_group,metric,metric_column,threshold,success_percent,similarity_quantile,similarity_quantile_label
+9rv0,Boltz-1,0.0,100.0,107,83.17757009345794,83.17757009345794,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+9tfa,Boltz-1,0.0,64.0,202,53.2970297029703,53.2970297029703,High density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+9y56,Boltz-1,1.0,100.0,124,71.64516129032258,71.64516129032258,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.5"
+10qv,Boltz-1,0.0,100.0,98,99.42857142857143,99.42857142857143,High density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9rmf,Boltz-1,1.0,100.0,24,94.45833333333333,94.45833333333333,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+9vo8,Boltz-1,0.0,100.0,30,97.66666666666667,97.66666666666667,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+94.0–98.0"
+9vq5,Boltz-1,0.0,33.0,0,,33.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+21ln,Boltz-1,0.0,98.0,62,96.2741935483871,96.2741935483871,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+94.0–98.0"
+13lw,Boltz-1,0.4,99.0,2,99.0,99.0,Low density,Protein sequence,protein_fident_max,50.0,40.0,Q5,"Q5
+98.0–100.0"
+11ue,Boltz-1,1.0,59.0,139,52.856115107913666,52.856115107913666,High density,Protein sequence,protein_fident_max,50.0,100.0,Q1,"Q1
+12.0–66.9"
+11uc,Boltz-1,1.0,100.0,242,96.60743801652893,96.60743801652893,High density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+11lj,Boltz-1,0.0,100.0,28,98.60714285714286,98.60714285714286,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+10pj,Boltz-1,0.0,100.0,259,79.76061776061776,79.76061776061776,High density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+24uh,Boltz-1,0.0,100.0,4,100.0,100.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+29mo,Boltz-1,0.0,99.0,56,72.60714285714286,72.60714285714286,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+9ymo,Boltz-1,0.2,99.0,668,91.48353293413173,91.48353293413173,High density,Protein sequence,protein_fident_max,50.0,20.0,Q3,"Q3
+80.5–92.9"
+9i9e,Boltz-1,0.0,85.0,68,75.55882352941177,75.55882352941177,High density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+9rc9,Boltz-1,1.0,100.0,212,88.16037735849056,88.16037735849056,High density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.5–92.9"
+9tk2,Boltz-1,0.0,100.0,107,98.38317757009345,98.38317757009345,High density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9tku,Boltz-1,0.0,100.0,64,94.28125,94.28125,High density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+94.0–98.0"
+9vcz,Boltz-1,0.0,100.0,256,91.2265625,91.2265625,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+9vbq,Boltz-1,0.0,100.0,173,98.13872832369943,98.13872832369943,High density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9t43,Boltz-1,1.0,100.0,78,98.87179487179488,98.87179487179488,High density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+9rfl,Boltz-1,1.0,100.0,114,65.89473684210526,65.89473684210526,High density,Protein sequence,protein_fident_max,50.0,100.0,Q1,"Q1
+12.0–66.9"
+9p09,Boltz-1,0.0,29.0,0,,29.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+9zo9,Boltz-1,0.0,99.0,668,90.61676646706587,90.61676646706587,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+9hz3,Boltz-1,0.0,12.0,0,,12.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+31wa,Boltz-1,1.0,100.0,30,97.96666666666667,97.96666666666667,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+31wb,Boltz-1,0.0,100.0,30,97.96666666666667,97.96666666666667,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+94.0–98.0"
+32pp,Boltz-1,0.0,100.0,256,91.21875,91.21875,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+35wf,Boltz-1,1.0,100.0,23,97.30434782608695,97.30434782608695,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+35wg,Boltz-1,1.0,99.0,23,96.82608695652173,96.82608695652173,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+9psq,Boltz-1,0.0,12.0,0,,12.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+31hp,Boltz-1,0.8,99.0,10,89.5,89.5,Low density,Protein sequence,protein_fident_max,50.0,80.0,Q3,"Q3
+80.5–92.9"
+32ql,Boltz-1,0.0,46.0,0,,46.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+32qm,Boltz-1,0.0,47.0,0,,47.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+9rzo,Boltz-1,0.6,100.0,2359,80.51250529885544,80.51250529885544,High density,Protein sequence,protein_fident_max,50.0,60.0,Q2,"Q2
+67.1–80.5"
+9rzp,Boltz-1,0.6,100.0,2359,80.51759220008478,80.51759220008478,High density,Protein sequence,protein_fident_max,50.0,60.0,Q3,"Q3
+80.5–92.9"
+9vzg,Boltz-1,0.0,100.0,41,85.02439024390245,85.02439024390245,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+9hvs,Boltz-1,1.0,100.0,56,92.16071428571429,92.16071428571429,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.5–92.9"
+9hvt,Boltz-1,1.0,100.0,56,92.16071428571429,92.16071428571429,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.5–92.9"
+9tf9,Boltz-1,0.0,65.0,189,53.53968253968254,53.53968253968254,High density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+9tfb,Boltz-1,0.0,63.0,180,52.96111111111111,52.96111111111111,High density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+9y57,Boltz-1,1.0,100.0,124,71.64516129032258,71.64516129032258,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.5"
+9y5a,Boltz-1,1.0,100.0,124,71.64516129032258,71.64516129032258,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.5"
+9hm1,Boltz-1,1.0,100.0,143,95.5944055944056,95.5944055944056,High density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+9rqw,Boltz-1,1.0,100.0,55,97.6,97.6,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+9rqx,Boltz-1,1.0,100.0,55,97.6,97.6,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+9ppl,Boltz-1,0.0,99.0,41,87.09756097560975,87.09756097560975,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+24wc,Boltz-1,1.0,100.0,4,100.0,100.0,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+13lx,Boltz-1,0.4,98.0,2,98.0,98.0,Low density,Protein sequence,protein_fident_max,50.0,40.0,Q5,"Q5
+98.0–100.0"
+9suv,Boltz-1,1.0,97.0,336,66.875,66.875,High density,Protein sequence,protein_fident_max,50.0,100.0,Q1,"Q1
+12.0–66.9"
+9vzs,Boltz-1,1.0,99.0,587,67.31345826235093,67.31345826235093,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.5"
+9vzt,Boltz-1,0.0,99.0,595,67.10252100840336,67.10252100840336,High density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+9zme,Boltz-1,1.0,100.0,33,99.39393939393939,99.39393939393939,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+9szn,Boltz-1,0.0,96.0,34,95.1470588235294,95.1470588235294,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+94.0–98.0"
+9zmg,Boltz-1,0.0,100.0,33,99.39393939393939,99.39393939393939,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9o7r,Boltz-1,0.6,27.0,0,,27.0,No neighbours,Protein sequence,protein_fident_max,50.0,60.0,Q1,"Q1
+12.0–66.9"
+9ole,Boltz-1,0.0,97.0,62,78.74193548387096,78.74193548387096,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+9orm,Boltz-1,1.0,98.0,12,74.58333333333333,74.58333333333333,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.5"
+9uau,Boltz-1,1.0,100.0,222,94.0,94.0,High density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+9y8k,Boltz-1,0.0,99.0,6,98.66666666666667,98.66666666666667,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9ugf,Boltz-1,1.0,95.0,222,87.92792792792793,87.92792792792793,High density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.5–92.9"
+9y8l,Boltz-1,0.0,99.0,6,98.66666666666667,98.66666666666667,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9zxm,Boltz-1,0.0,97.0,3,97.0,97.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+94.0–98.0"
+9zxn,Boltz-1,0.0,97.0,3,97.0,97.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+94.0–98.0"
+9qdy,Boltz-1,0.0,96.0,7,95.14285714285714,95.14285714285714,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+94.0–98.0"
+9z1l,Boltz-1,1.0,99.0,169,59.071005917159766,59.071005917159766,High density,Protein sequence,protein_fident_max,50.0,100.0,Q1,"Q1
+12.0–66.9"
+10kz,Boltz-1,1.0,99.0,54,68.92592592592592,68.92592592592592,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.5"
+22mj,Boltz-1,0.0,16.0,0,,16.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+9q8d,Boltz-1,1.0,100.0,23,98.30434782608695,98.30434782608695,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+9z2s,Boltz-1,1.0,96.0,141,60.08510638297872,60.08510638297872,High density,Protein sequence,protein_fident_max,50.0,100.0,Q1,"Q1
+12.0–66.9"
+9r1c,Boltz-1,0.0,100.0,60,99.2,99.2,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9n3l,Boltz-1,0.0,18.0,0,,18.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+9i9g,Boltz-1,0.0,76.0,3,76.0,76.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+9r6i,Boltz-1,0.0,100.0,575,84.17565217391305,84.17565217391305,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+9t08,Boltz-1,0.8,95.0,33,90.45454545454545,90.45454545454545,Low density,Protein sequence,protein_fident_max,50.0,80.0,Q3,"Q3
+80.5–92.9"
+9t0d,Boltz-1,0.0,97.0,32,92.875,92.875,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+9ngp,Boltz-1,1.0,98.0,234,92.63675213675214,92.63675213675214,High density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.5–92.9"
+8znn,Boltz-1,1.0,100.0,575,71.72,71.72,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.5"
+9uzt,Boltz-1,0.0,70.0,33,68.78787878787878,68.78787878787878,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+9i3y,Boltz-1,0.0,100.0,23,98.26086956521739,98.26086956521739,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9s1u,Boltz-1,0.0,100.0,148,98.0,98.0,High density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9si4,Boltz-1,1.0,100.0,99,97.9090909090909,97.9090909090909,High density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+94.0–98.0"
+9nwx,Boltz-1,0.0,94.0,124,75.91129032258064,75.91129032258064,High density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+9htr,Boltz-1,1.0,76.0,3,76.0,76.0,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.5"
+9kly,Boltz-1,0.0,100.0,63,92.12698412698413,92.12698412698413,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.5–92.9"
+9nd3,Boltz-1,1.0,99.0,4,98.75,98.75,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+9x53,Boltz-1,0.0,78.0,9,77.22222222222223,77.22222222222223,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.5"
+9ogw,Boltz-1,0.0,97.0,27,55.074074074074076,55.074074074074076,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+12.0–66.9"
+9rv0,Boltz-1,0.0,100.0,340,82.92941176470588,82.92941176470588,High density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.1"
+9tfa,Boltz-1,0.0,87.0,1520,74.50723684210526,74.50723684210526,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+9y56,Boltz-1,1.0,96.0,1565,75.1776357827476,75.1776357827476,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.5–77.7"
+10qv,Boltz-1,0.0,100.0,98,98.62244897959184,98.62244897959184,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+9rmf,Boltz-1,1.0,98.0,29,92.06896551724138,92.06896551724138,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.7–98.6"
+9vo8,Boltz-1,0.0,96.0,233,76.21030042918454,76.21030042918454,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+9vq5,Boltz-1,0.0,66.0,0,,66.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.3"
+21ln,Boltz-1,0.0,98.0,267,84.7378277153558,84.7378277153558,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+13lw,Boltz-1,0.4,93.0,146,70.76027397260275,70.76027397260275,Low density,Protein structure,protein_lddt_max,70.0,40.0,Q1,"Q1
+40.0–74.3"
+11ue,Boltz-1,1.0,89.0,1181,73.94834885690094,73.94834885690094,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.3"
+11uc,Boltz-1,1.0,98.0,483,83.15734989648033,83.15734989648033,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+11lj,Boltz-1,0.0,98.0,99,84.04040404040404,84.04040404040404,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+10pj,Boltz-1,0.0,96.0,1186,76.08263069139966,76.08263069139966,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+24uh,Boltz-1,0.0,96.0,4,96.0,96.0,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+29mo,Boltz-1,0.0,97.0,268,77.6231343283582,77.6231343283582,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+9ymo,Boltz-1,0.2,98.0,1527,82.77013752455795,82.77013752455795,High density,Protein structure,protein_lddt_max,70.0,20.0,Q3,"Q3
+77.8–83.1"
+9i9e,Boltz-1,0.0,84.0,48,78.0625,78.0625,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.1"
+9rc9,Boltz-1,1.0,100.0,665,80.50526315789473,80.50526315789473,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.1"
+9tk2,Boltz-1,0.0,100.0,107,93.6355140186916,93.6355140186916,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+9tku,Boltz-1,0.0,96.0,153,78.7124183006536,78.7124183006536,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.1"
+9vcz,Boltz-1,0.0,99.0,614,83.05211726384364,83.05211726384364,High density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.1"
+9vbq,Boltz-1,0.0,91.0,554,76.63357400722022,76.63357400722022,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+9t43,Boltz-1,1.0,99.0,80,96.8875,96.8875,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.7–98.6"
+9rfl,Boltz-1,1.0,100.0,344,82.40988372093024,82.40988372093024,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.1"
+9p09,Boltz-1,0.0,59.0,0,,59.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.3"
+9zo9,Boltz-1,0.0,97.0,1557,82.75080282594733,82.75080282594733,High density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.1"
+9hz3,Boltz-1,0.0,40.0,0,,40.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.3"
+31wa,Boltz-1,1.0,91.0,181,75.2486187845304,75.2486187845304,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.5–77.7"
+31wb,Boltz-1,0.0,91.0,173,74.89595375722543,74.89595375722543,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+32pp,Boltz-1,0.0,98.0,668,81.59730538922156,81.59730538922156,High density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.1"
+35wf,Boltz-1,1.0,94.0,484,72.66115702479338,72.66115702479338,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.3"
+35wg,Boltz-1,1.0,97.0,512,72.25390625,72.25390625,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.3"
+9psq,Boltz-1,0.0,57.0,0,,57.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.3"
+31hp,Boltz-1,0.8,95.0,111,79.93693693693693,79.93693693693693,Low density,Protein structure,protein_lddt_max,70.0,80.0,Q3,"Q3
+77.8–83.1"
+32ql,Boltz-1,0.0,87.0,12,84.75,84.75,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+32qm,Boltz-1,0.0,87.0,12,83.83333333333333,83.83333333333333,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9rzo,Boltz-1,0.6,100.0,2641,93.02536917834153,93.02536917834153,High density,Protein structure,protein_lddt_max,70.0,60.0,Q5,"Q5
+91.7–98.6"
+9rzp,Boltz-1,0.6,100.0,2641,92.7126088602802,92.7126088602802,High density,Protein structure,protein_lddt_max,70.0,60.0,Q5,"Q5
+91.7–98.6"
+9vzg,Boltz-1,0.0,95.0,46,87.67391304347827,87.67391304347827,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9hvs,Boltz-1,1.0,100.0,57,96.94736842105263,96.94736842105263,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.7–98.6"
+9hvt,Boltz-1,1.0,100.0,57,96.94736842105263,96.94736842105263,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.7–98.6"
+9tf9,Boltz-1,0.0,85.0,1456,73.88804945054945,73.88804945054945,High density,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.3"
+9tfb,Boltz-1,0.0,86.0,1455,74.25223367697595,74.25223367697595,High density,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.3"
+9y57,Boltz-1,1.0,96.0,1539,75.2722547108512,75.2722547108512,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.5–77.7"
+9y5a,Boltz-1,1.0,96.0,1574,75.18932655654383,75.18932655654383,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.5–77.7"
+9hm1,Boltz-1,1.0,96.0,609,76.72085385878489,76.72085385878489,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.5–77.7"
+9rqw,Boltz-1,1.0,100.0,394,81.48223350253807,81.48223350253807,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.1"
+9rqx,Boltz-1,1.0,100.0,394,81.41370558375634,81.41370558375634,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.1"
+9ppl,Boltz-1,0.0,99.0,46,87.56521739130434,87.56521739130434,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+24wc,Boltz-1,1.0,96.0,4,95.5,95.5,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.7–98.6"
+13lx,Boltz-1,0.4,94.0,218,70.66055045871559,70.66055045871559,Low density,Protein structure,protein_lddt_max,70.0,40.0,Q1,"Q1
+40.0–74.3"
+9suv,Boltz-1,1.0,94.0,347,86.97694524495677,86.97694524495677,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+9vzs,Boltz-1,1.0,98.0,582,86.74570446735395,86.74570446735395,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+9vzt,Boltz-1,0.0,98.0,588,86.6938775510204,86.6938775510204,High density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9zme,Boltz-1,1.0,98.0,138,78.94202898550725,78.94202898550725,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.1"
+9szn,Boltz-1,0.0,95.0,34,93.88235294117646,93.88235294117646,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+9zmg,Boltz-1,0.0,96.0,138,78.51449275362319,78.51449275362319,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.1"
+9o7r,Boltz-1,0.6,68.0,0,,68.0,No neighbours,Protein structure,protein_lddt_max,70.0,60.0,Q1,"Q1
+40.0–74.3"
+9ole,Boltz-1,0.0,94.0,62,91.66129032258064,91.66129032258064,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+9orm,Boltz-1,1.0,98.0,73,73.65753424657534,73.65753424657534,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.3"
+9uau,Boltz-1,1.0,86.0,457,76.77024070021882,76.77024070021882,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.5–77.7"
+9y8k,Boltz-1,0.0,96.0,67,87.31343283582089,87.31343283582089,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9ugf,Boltz-1,1.0,92.0,947,76.33262935586062,76.33262935586062,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.5–77.7"
+9y8l,Boltz-1,0.0,96.0,67,87.71641791044776,87.71641791044776,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9zxm,Boltz-1,0.0,94.0,3,94.0,94.0,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+9zxn,Boltz-1,0.0,94.0,3,93.66666666666667,93.66666666666667,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+9qdy,Boltz-1,0.0,91.0,8,86.125,86.125,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9z1l,Boltz-1,1.0,90.0,901,72.97447280799112,72.97447280799112,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.3"
+10kz,Boltz-1,1.0,94.0,1767,79.18845500848896,79.18845500848896,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.1"
+22mj,Boltz-1,0.0,43.0,0,,43.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.3"
+9q8d,Boltz-1,1.0,97.0,24,92.54166666666667,92.54166666666667,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.7–98.6"
+9z2s,Boltz-1,1.0,86.0,893,72.996640537514,72.996640537514,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.3"
+9r1c,Boltz-1,0.0,100.0,67,96.92537313432835,96.92537313432835,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+9n3l,Boltz-1,0.0,64.0,0,,64.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.3"
+9i9g,Boltz-1,0.0,78.0,14,74.92857142857143,74.92857142857143,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+9r6i,Boltz-1,0.0,94.0,590,87.81694915254238,87.81694915254238,High density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9t08,Boltz-1,0.8,89.0,1574,75.67534942820839,75.67534942820839,High density,Protein structure,protein_lddt_max,70.0,80.0,Q2,"Q2
+74.5–77.7"
+9t0d,Boltz-1,0.0,88.0,1446,75.02351313969571,75.02351313969571,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+9ngp,Boltz-1,1.0,98.0,1679,77.76116736152471,77.76116736152471,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.1"
+8znn,Boltz-1,1.0,97.0,621,87.03703703703704,87.03703703703704,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+9uzt,Boltz-1,0.0,95.0,141,80.61702127659575,80.61702127659575,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.1"
+9i3y,Boltz-1,0.0,96.0,27,89.74074074074075,89.74074074074075,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9s1u,Boltz-1,0.0,95.0,148,93.82432432432432,93.82432432432432,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.7–98.6"
+9si4,Boltz-1,1.0,99.0,1742,78.83639494833524,78.83639494833524,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.1"
+9nwx,Boltz-1,0.0,92.0,1743,77.16810097532989,77.16810097532989,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+9htr,Boltz-1,1.0,97.0,3,95.33333333333333,95.33333333333333,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.7–98.6"
+9kly,Boltz-1,0.0,95.0,578,77.66782006920415,77.66782006920415,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.5–77.7"
+9nd3,Boltz-1,1.0,93.0,479,71.92066805845512,71.92066805845512,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.3"
+9x53,Boltz-1,0.0,88.0,9,85.77777777777777,85.77777777777777,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9ogw,Boltz-1,0.0,92.0,32,83.71875,83.71875,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9rv0,Boltz-1,0.0,96.0,265,81.76603773584905,81.76603773584905,High density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+78.7–82.8"
+9tfa,Boltz-1,0.0,94.0,1115,75.34170403587444,75.34170403587444,High density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.8–76.4"
+9y56,Boltz-1,1.0,89.0,176,75.30681818181819,75.30681818181819,Low density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+10qv,Boltz-1,0.0,100.0,94,88.48936170212765,88.48936170212765,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+9rmf,Boltz-1,1.0,81.0,20,75.2,75.2,Low density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+9vo8,Boltz-1,0.0,100.0,4491,85.41327098641727,85.41327098641727,High density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+21ln,Boltz-1,0.0,95.0,72,87.61111111111111,87.61111111111111,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+13lw,Boltz-1,0.4,97.0,2005,76.13017456359103,76.13017456359103,High density,Pocket,pocket_qcov,70.0,40.0,Q2,"Q2
+74.8–76.4"
+11ue,Boltz-1,1.0,97.0,658,76.98480243161094,76.98480243161094,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.5–78.7"
+11uc,Boltz-1,1.0,100.0,3273,77.89428658722885,77.89428658722885,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.5–78.7"
+11lj,Boltz-1,0.0,92.0,86,79.11627906976744,79.11627906976744,Low density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+78.7–82.8"
+10pj,Boltz-1,0.0,91.0,1484,75.04177897574124,75.04177897574124,High density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.8–76.4"
+24uh,Boltz-1,0.0,96.0,1702,78.13866039952997,78.13866039952997,High density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+29mo,Boltz-1,0.0,100.0,3317,76.69490503466989,76.69490503466989,High density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9ymo,Boltz-1,0.2,100.0,1763,91.87748156551334,91.87748156551334,High density,Pocket,pocket_qcov,70.0,20.0,Q5,"Q5
+83.5–91.9"
+9i9e,Boltz-1,0.0,96.0,49,77.51020408163265,77.51020408163265,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9rc9,Boltz-1,1.0,80.0,16,73.375,73.375,Low density,Pocket,pocket_qcov,70.0,100.0,Q1,"Q1
+6.0–74.7"
+9tk2,Boltz-1,0.0,100.0,32,85.28125,85.28125,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+9tku,Boltz-1,0.0,93.0,32,88.25,88.25,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+9vcz,Boltz-1,0.0,96.0,111,78.1981981981982,78.1981981981982,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9vbq,Boltz-1,0.0,87.0,169,74.4733727810651,74.4733727810651,Low density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9t43,Boltz-1,1.0,96.0,43,86.83720930232558,86.83720930232558,Low density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.5–91.9"
+9rfl,Boltz-1,1.0,100.0,309,86.6957928802589,86.6957928802589,High density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.5–91.9"
+9p09,Boltz-1,0.0,17.0,0,,17.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9zo9,Boltz-1,0.0,100.0,1851,91.54294975688816,91.54294975688816,High density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+31wa,Boltz-1,1.0,100.0,4246,81.85704192180876,81.85704192180876,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+78.7–82.8"
+31wb,Boltz-1,0.0,96.0,3868,80.21096173733196,80.21096173733196,High density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+78.7–82.8"
+32pp,Boltz-1,0.0,100.0,661,88.04689863842663,88.04689863842663,High density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+35wf,Boltz-1,1.0,100.0,3928,82.81491853360488,82.81491853360488,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+78.7–82.8"
+35wg,Boltz-1,1.0,100.0,3026,79.4897554527429,79.4897554527429,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+78.7–82.8"
+9psq,Boltz-1,0.0,6.0,0,,6.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+31hp,Boltz-1,0.8,100.0,4136,82.33002901353966,82.33002901353966,High density,Pocket,pocket_qcov,70.0,80.0,Q4,"Q4
+78.7–82.8"
+32ql,Boltz-1,0.0,52.0,0,,52.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+32qm,Boltz-1,0.0,52.0,0,,52.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9rzo,Boltz-1,0.6,100.0,284,79.8943661971831,79.8943661971831,High density,Pocket,pocket_qcov,70.0,60.0,Q4,"Q4
+78.7–82.8"
+9rzp,Boltz-1,0.6,100.0,230,79.5304347826087,79.5304347826087,Low density,Pocket,pocket_qcov,70.0,60.0,Q4,"Q4
+78.7–82.8"
+9vzg,Boltz-1,0.0,93.0,7,85.85714285714286,85.85714285714286,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+9hvs,Boltz-1,1.0,97.0,272,81.86764705882354,81.86764705882354,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+78.7–82.8"
+9hvt,Boltz-1,1.0,97.0,257,78.21789883268482,78.21789883268482,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.5–78.7"
+9tf9,Boltz-1,0.0,97.0,2162,75.69888991674375,75.69888991674375,High density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.8–76.4"
+9tfb,Boltz-1,0.0,91.0,1183,73.51986475063399,73.51986475063399,High density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9y57,Boltz-1,1.0,92.0,351,75.08262108262109,75.08262108262109,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+9y5a,Boltz-1,1.0,90.0,143,76.76223776223776,76.76223776223776,Low density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.5–78.7"
+9hm1,Boltz-1,1.0,100.0,4516,84.84610274579273,84.84610274579273,High density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.5–91.9"
+9rqw,Boltz-1,1.0,100.0,84,82.29761904761905,82.29761904761905,Low density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+78.7–82.8"
+9rqx,Boltz-1,1.0,100.0,112,82.28571428571429,82.28571428571429,Low density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+78.7–82.8"
+9ppl,Boltz-1,0.0,100.0,12,81.5,81.5,Low density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+78.7–82.8"
+24wc,Boltz-1,1.0,91.0,443,74.30248306997743,74.30248306997743,High density,Pocket,pocket_qcov,70.0,100.0,Q1,"Q1
+6.0–74.7"
+13lx,Boltz-1,0.4,97.0,1578,76.33967046894803,76.33967046894803,High density,Pocket,pocket_qcov,70.0,40.0,Q2,"Q2
+74.8–76.4"
+9suv,Boltz-1,1.0,94.0,591,75.89001692047377,75.89001692047377,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+9vzs,Boltz-1,1.0,95.0,213,78.71361502347418,78.71361502347418,Low density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.5–78.7"
+9vzt,Boltz-1,0.0,95.0,221,78.02714932126698,78.02714932126698,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9zme,Boltz-1,1.0,100.0,78,83.47435897435898,83.47435897435898,Low density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.5–91.9"
+9szn,Boltz-1,0.0,87.0,26,77.8076923076923,77.8076923076923,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9zmg,Boltz-1,0.0,100.0,81,89.87654320987654,89.87654320987654,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+9o7r,Boltz-1,0.6,79.0,40,74.7,74.7,Low density,Pocket,pocket_qcov,70.0,60.0,Q1,"Q1
+6.0–74.7"
+9ole,Boltz-1,0.0,89.0,9,78.55555555555556,78.55555555555556,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9orm,Boltz-1,1.0,62.0,0,,62.0,No neighbours,Pocket,pocket_qcov,70.0,100.0,Q1,"Q1
+6.0–74.7"
+9uau,Boltz-1,1.0,97.0,1594,75.30050188205772,75.30050188205772,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+9y8k,Boltz-1,0.0,100.0,52,87.61538461538461,87.61538461538461,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+9ugf,Boltz-1,1.0,91.0,906,74.76600441501104,74.76600441501104,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+9y8l,Boltz-1,0.0,100.0,52,87.61538461538461,87.61538461538461,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+9zxm,Boltz-1,0.0,44.0,0,,44.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9zxn,Boltz-1,0.0,48.0,0,,48.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9qdy,Boltz-1,0.0,90.0,5,78.0,78.0,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9z1l,Boltz-1,1.0,100.0,4367,79.22853217311656,79.22853217311656,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+78.7–82.8"
+10kz,Boltz-1,1.0,92.0,241,75.91286307053942,75.91286307053942,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+9q8d,Boltz-1,1.0,97.0,11,90.45454545454545,90.45454545454545,Low density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.5–91.9"
+9z2s,Boltz-1,1.0,90.0,1222,73.65548281505728,73.65548281505728,High density,Pocket,pocket_qcov,70.0,100.0,Q1,"Q1
+6.0–74.7"
+9r1c,Boltz-1,0.0,90.0,42,78.61904761904762,78.61904761904762,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9n3l,Boltz-1,0.0,78.0,5,73.2,73.2,Low density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9i9g,Boltz-1,0.0,29.0,0,,29.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9r6i,Boltz-1,0.0,97.0,204,78.72549019607843,78.72549019607843,Low density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+78.7–82.8"
+9t08,Boltz-1,0.8,92.0,363,76.27548209366391,76.27548209366391,High density,Pocket,pocket_qcov,70.0,80.0,Q2,"Q2
+74.8–76.4"
+9t0d,Boltz-1,0.0,85.0,204,74.40196078431373,74.40196078431373,Low density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9ngp,Boltz-1,1.0,94.0,2480,75.03427419354838,75.03427419354838,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+8znn,Boltz-1,1.0,100.0,218,78.96330275229357,78.96330275229357,Low density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+78.7–82.8"
+9uzt,Boltz-1,0.0,91.0,78,81.28205128205128,81.28205128205128,Low density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+78.7–82.8"
+9i3y,Boltz-1,0.0,81.0,11,76.36363636363636,76.36363636363636,Low density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.8–76.4"
+9s1u,Boltz-1,0.0,85.0,42,75.42857142857143,75.42857142857143,Low density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.8–76.4"
+9si4,Boltz-1,1.0,96.0,477,76.97274633123689,76.97274633123689,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.5–78.7"
+9nwx,Boltz-1,0.0,90.0,640,74.590625,74.590625,High density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9htr,Boltz-1,1.0,77.0,3,75.66666666666667,75.66666666666667,Low density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.8–76.4"
+9kly,Boltz-1,0.0,100.0,484,83.74173553719008,83.74173553719008,High density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.5–91.9"
+9nd3,Boltz-1,1.0,100.0,3390,77.9613569321534,77.9613569321534,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.5–78.7"
+9x53,Boltz-1,0.0,82.0,11,76.54545454545455,76.54545454545455,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.5–78.7"
+9ogw,Boltz-1,0.0,56.0,0,,56.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.7"
+9rv0,Boltz-1,0.0,100.0,323,61.45510835913313,61.45510835913313,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+9tfa,Boltz-1,0.0,75.0,510,51.733333333333334,51.733333333333334,High density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–52.8"
+9y56,Boltz-1,1.0,69.0,286,52.12237762237762,52.12237762237762,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+10qv,Boltz-1,0.0,95.0,108,73.92592592592592,73.92592592592592,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+9rmf,Boltz-1,1.0,64.0,8,54.25,54.25,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+9vo8,Boltz-1,0.0,100.0,1504,65.40159574468085,65.40159574468085,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+21ln,Boltz-1,0.0,50.0,4,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+13lw,Boltz-1,0.4,100.0,1599,56.579111944965604,56.579111944965604,High density,Interaction,pli_qcov,50.0,40.0,Q3,"Q3
+53.0–56.6"
+11ue,Boltz-1,1.0,73.0,162,56.882716049382715,56.882716049382715,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.6–60.0"
+11uc,Boltz-1,1.0,75.0,200,52.42,52.42,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+11lj,Boltz-1,0.0,86.0,15,62.666666666666664,62.666666666666664,Low density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+10pj,Boltz-1,0.0,86.0,889,58.483689538807646,58.483689538807646,High density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+24uh,Boltz-1,0.0,71.0,270,59.074074074074076,59.074074074074076,High density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+29mo,Boltz-1,0.0,73.0,296,56.79391891891892,56.79391891891892,High density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+9ymo,Boltz-1,0.2,91.0,1713,65.07355516637477,65.07355516637477,High density,Interaction,pli_qcov,50.0,20.0,Q5,"Q5
+60.3–73.9"
+9i9e,Boltz-1,0.0,86.0,13,59.84615384615385,59.84615384615385,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+9rc9,Boltz-1,1.0,75.0,100,54.79,54.79,High density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+9tk2,Boltz-1,0.0,83.0,15,62.13333333333333,62.13333333333333,Low density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+9tku,Boltz-1,0.0,89.0,20,65.35,65.35,Low density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+9vcz,Boltz-1,0.0,73.0,17,59.76470588235294,59.76470588235294,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+9vbq,Boltz-1,0.0,46.0,0,,46.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9t43,Boltz-1,1.0,65.0,28,55.25,55.25,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+9rfl,Boltz-1,1.0,90.0,61,60.32786885245902,60.32786885245902,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.3–73.9"
+9p09,Boltz-1,0.0,0.0,0,,0.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9zo9,Boltz-1,0.0,78.0,1233,56.78832116788321,56.78832116788321,High density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+31wa,Boltz-1,1.0,73.0,417,57.201438848920866,57.201438848920866,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.6–60.0"
+31wb,Boltz-1,0.0,78.0,842,58.73040380047506,58.73040380047506,High density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+32pp,Boltz-1,0.0,82.0,207,63.95652173913044,63.95652173913044,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+35wf,Boltz-1,1.0,53.0,1,53.0,53.0,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+35wg,Boltz-1,1.0,53.0,5,53.0,53.0,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+31hp,Boltz-1,0.8,78.0,284,57.58802816901409,57.58802816901409,High density,Interaction,pli_qcov,50.0,80.0,Q4,"Q4
+56.6–60.0"
+32ql,Boltz-1,0.0,14.0,0,,14.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+32qm,Boltz-1,0.0,0.0,0,,0.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9rzo,Boltz-1,0.6,67.0,12,52.833333333333336,52.833333333333336,Low density,Interaction,pli_qcov,50.0,60.0,Q2,"Q2
+50.0–52.8"
+9rzp,Boltz-1,0.6,54.0,4,54.0,54.0,Low density,Interaction,pli_qcov,50.0,60.0,Q3,"Q3
+53.0–56.6"
+9vzg,Boltz-1,0.0,57.0,4,53.5,53.5,Low density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.6"
+9hvs,Boltz-1,1.0,100.0,219,63.17351598173516,63.17351598173516,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.3–73.9"
+9hvt,Boltz-1,1.0,94.0,229,65.00436681222708,65.00436681222708,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.3–73.9"
+9tf9,Boltz-1,0.0,50.0,8,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9tfb,Boltz-1,0.0,54.0,5,54.0,54.0,Low density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.6"
+9y57,Boltz-1,1.0,56.0,51,50.35294117647059,50.35294117647059,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+9y5a,Boltz-1,1.0,55.0,14,50.357142857142854,50.357142857142854,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+9hm1,Boltz-1,1.0,78.0,583,58.62264150943396,58.62264150943396,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.6–60.0"
+9rqw,Boltz-1,1.0,75.0,18,52.72222222222222,52.72222222222222,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+9rqx,Boltz-1,1.0,75.0,18,52.72222222222222,52.72222222222222,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+9ppl,Boltz-1,0.0,70.0,4,66.5,66.5,Low density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+24wc,Boltz-1,1.0,62.0,2,58.0,58.0,Low density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.6–60.0"
+13lx,Boltz-1,0.4,100.0,2235,55.889485458612974,55.889485458612974,High density,Interaction,pli_qcov,50.0,40.0,Q3,"Q3
+53.0–56.6"
+9suv,Boltz-1,1.0,65.0,25,55.16,55.16,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+9vzs,Boltz-1,1.0,73.0,60,57.85,57.85,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.6–60.0"
+9vzt,Boltz-1,0.0,57.0,11,51.27272727272727,51.27272727272727,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–52.8"
+9zme,Boltz-1,1.0,88.0,77,64.49350649350649,64.49350649350649,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.3–73.9"
+9szn,Boltz-1,0.0,67.0,5,60.0,60.0,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+9zmg,Boltz-1,0.0,72.0,66,56.621212121212125,56.621212121212125,High density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+9o7r,Boltz-1,0.6,40.0,0,,40.0,No neighbours,Interaction,pli_qcov,50.0,60.0,Q1,"Q1
+0.0–50.0"
+9ole,Boltz-1,0.0,75.0,8,56.875,56.875,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.6–60.0"
+9orm,Boltz-1,1.0,11.0,0,,11.0,No neighbours,Interaction,pli_qcov,50.0,100.0,Q1,"Q1
+0.0–50.0"
+9uau,Boltz-1,1.0,53.0,2,53.0,53.0,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+9y8k,Boltz-1,0.0,50.0,2,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9ugf,Boltz-1,1.0,69.0,34,55.38235294117647,55.38235294117647,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+9y8l,Boltz-1,0.0,50.0,2,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9zxm,Boltz-1,0.0,33.0,0,,33.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9zxn,Boltz-1,0.0,42.0,0,,42.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9qdy,Boltz-1,0.0,40.0,0,,40.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9z1l,Boltz-1,1.0,70.0,301,51.19601328903654,51.19601328903654,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+10kz,Boltz-1,1.0,75.0,216,52.675925925925924,52.675925925925924,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+9q8d,Boltz-1,1.0,70.0,14,55.0,55.0,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.6"
+9z2s,Boltz-1,1.0,50.0,2,50.0,50.0,Low density,Interaction,pli_qcov,50.0,100.0,Q1,"Q1
+0.0–50.0"
+9r1c,Boltz-1,0.0,52.0,4,52.0,52.0,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–52.8"
+9n3l,Boltz-1,0.0,50.0,1,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–52.8"
+9i9g,Boltz-1,0.0,10.0,0,,10.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9r6i,Boltz-1,0.0,50.0,5,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–52.8"
+9t08,Boltz-1,0.8,64.0,116,52.6551724137931,52.6551724137931,High density,Interaction,pli_qcov,50.0,80.0,Q2,"Q2
+50.0–52.8"
+9t0d,Boltz-1,0.0,67.0,56,54.875,54.875,High density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.6"
+9ngp,Boltz-1,1.0,80.0,696,61.92528735632184,61.92528735632184,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.3–73.9"
+8znn,Boltz-1,1.0,100.0,66,69.62121212121212,69.62121212121212,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.3–73.9"
+9uzt,Boltz-1,0.0,60.0,50,53.4,53.4,Low density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.6"
+9i3y,Boltz-1,0.0,50.0,1,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–52.8"
+9s1u,Boltz-1,0.0,73.0,93,61.774193548387096,61.774193548387096,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+9si4,Boltz-1,1.0,82.0,32,58.9375,58.9375,Low density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.6–60.0"
+9nwx,Boltz-1,0.0,80.0,823,53.41433778857837,53.41433778857837,High density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.6"
+9htr,Boltz-1,1.0,38.0,0,,38.0,No neighbours,Interaction,pli_qcov,50.0,100.0,Q1,"Q1
+0.0–50.0"
+9kly,Boltz-1,0.0,100.0,279,61.55913978494624,61.55913978494624,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.3–73.9"
+9nd3,Boltz-1,1.0,75.0,143,52.23776223776224,52.23776223776224,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–52.8"
+9x53,Boltz-1,0.0,42.0,0,,42.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9ogw,Boltz-1,0.0,0.0,0,,0.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9rv0,Boltz-1,0.0,45.69989442284357,0,,45.69989442284357,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9tfa,Boltz-1,0.0,52.796279896533605,1,52.796279896533605,52.796279896533605,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9y56,Boltz-1,1.0,44.77738933557297,0,,44.77738933557297,No neighbours,Ligand pose,sucos_shape,50.0,100.0,Q1,"Q1
+29.3–48.1"
+10qv,Boltz-1,0.0,92.86527964231317,182,70.99461699617673,70.99461699617673,High density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.0–91.1"
+9rmf,Boltz-1,1.0,60.435462839728785,23,54.26763722638634,54.26763722638634,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+9vo8,Boltz-1,0.0,62.46986966103763,132,54.074594344176894,54.074594344176894,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+53.3–55.3"
+9vq5,Boltz-1,0.0,29.297109085609947,0,,29.297109085609947,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+21ln,Boltz-1,0.0,61.896838361034476,26,56.5984254480315,56.5984254480315,Low density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.9"
+13lw,Boltz-1,0.4,66.48570827244235,1045,54.67534122624028,54.67534122624028,High density,Ligand pose,sucos_shape,50.0,40.0,Q3,"Q3
+53.3–55.3"
+11ue,Boltz-1,1.0,59.89390953025148,56,53.11739525851494,53.11739525851494,Low density,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–53.1"
+11uc,Boltz-1,1.0,74.09583524088399,36,59.894921606710554,59.894921606710554,Low density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.9"
+11lj,Boltz-1,0.0,54.395230554737395,1,54.395230554737395,54.395230554737395,Low density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+53.3–55.3"
+10pj,Boltz-1,0.0,56.20156735924835,10,52.803821282615516,52.803821282615516,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+24uh,Boltz-1,0.0,75.41361964290626,791,58.89608109316893,58.89608109316893,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.9"
+29mo,Boltz-1,0.0,52.16341326728748,2,51.59837136914705,51.59837136914705,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9ymo,Boltz-1,0.2,98.16517557621216,2061,85.81238373480743,85.81238373480743,High density,Ligand pose,sucos_shape,50.0,20.0,Q5,"Q5
+60.0–91.1"
+9i9e,Boltz-1,0.0,65.85401037486214,17,52.86096594501841,52.86096594501841,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9rc9,Boltz-1,1.0,88.6851700162262,177,70.63018928353982,70.63018928353982,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.0–91.1"
+9tk2,Boltz-1,0.0,82.33113190410215,20,64.84766057970236,64.84766057970236,Low density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.0–91.1"
+9tku,Boltz-1,0.0,98.33310877832876,384,57.82803678826997,57.82803678826997,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.9"
+9vcz,Boltz-1,0.0,55.06430988900315,18,52.74765930200021,52.74765930200021,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9vbq,Boltz-1,0.0,99.8730964467005,1115,55.276191052226054,55.276191052226054,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+53.3–55.3"
+9t43,Boltz-1,1.0,97.5526666559819,718,86.72405926901068,86.72405926901068,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.0–91.1"
+9rfl,Boltz-1,1.0,67.71529324424648,33,56.074672157872165,56.074672157872165,Low density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.9"
+9p09,Boltz-1,0.0,49.67703246729076,0,,49.67703246729076,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9zo9,Boltz-1,0.0,98.33278696215052,2066,87.21084104997901,87.21084104997901,High density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.0–91.1"
+9hz3,Boltz-1,0.0,44.212155410862394,0,,44.212155410862394,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+31wa,Boltz-1,1.0,60.30991442676037,316,52.2745405303845,52.2745405303845,High density,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–53.1"
+31wb,Boltz-1,0.0,57.41428324019768,65,53.42659443583259,53.42659443583259,Low density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+53.3–55.3"
+32pp,Boltz-1,0.0,66.06442427201074,161,54.54331108021167,54.54331108021167,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+53.3–55.3"
+35wf,Boltz-1,1.0,99.01423877327491,3228,58.365446774802834,58.365446774802834,High density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.9"
+35wg,Boltz-1,1.0,99.34055502098319,4566,56.707424317145076,56.707424317145076,High density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.9"
+9psq,Boltz-1,0.0,39.03913755523771,0,,39.03913755523771,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+31hp,Boltz-1,0.8,85.61327612323004,1924,55.869265853195486,55.869265853195486,High density,Ligand pose,sucos_shape,50.0,80.0,Q4,"Q4
+55.3–59.9"
+32ql,Boltz-1,0.0,31.915879764533706,0,,31.915879764533706,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+32qm,Boltz-1,0.0,33.587908171898164,0,,33.587908171898164,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9rzo,Boltz-1,0.6,89.36697417965533,4579,57.53528093668185,57.53528093668185,High density,Ligand pose,sucos_shape,50.0,60.0,Q4,"Q4
+55.3–59.9"
+9rzp,Boltz-1,0.6,93.11106231389546,4660,54.240540075182246,54.240540075182246,High density,Ligand pose,sucos_shape,50.0,60.0,Q3,"Q3
+53.3–55.3"
+9vzg,Boltz-1,0.0,77.42138273210901,2,64.0509244795352,64.0509244795352,Low density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.0–91.1"
+9hvs,Boltz-1,1.0,95.75690258600588,306,83.6944727919558,83.6944727919558,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.0–91.1"
+9hvt,Boltz-1,1.0,93.81904892265884,298,79.93416598461187,79.93416598461187,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.0–91.1"
+9tf9,Boltz-1,0.0,48.09782047938394,0,,48.09782047938394,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9tfb,Boltz-1,0.0,47.63648800708172,0,,47.63648800708172,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9y57,Boltz-1,1.0,44.97245188789258,0,,44.97245188789258,No neighbours,Ligand pose,sucos_shape,50.0,100.0,Q1,"Q1
+29.3–48.1"
+9y5a,Boltz-1,1.0,99.58440201245675,4493,56.67608483785117,56.67608483785117,High density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.9"
+9hm1,Boltz-1,1.0,67.6680405002876,389,53.2521150985223,53.2521150985223,High density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+9rqw,Boltz-1,1.0,75.10847196253067,249,52.11110212141608,52.11110212141608,High density,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–53.1"
+9rqx,Boltz-1,1.0,71.09620761040996,267,51.977753776882146,51.977753776882146,High density,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–53.1"
+9ppl,Boltz-1,0.0,92.37836111216251,4,91.05108621406454,91.05108621406454,Low density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.0–91.1"
+24wc,Boltz-1,1.0,78.5968643098329,805,60.17014739618793,60.17014739618793,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.0–91.1"
+13lx,Boltz-1,0.4,70.2606535390445,942,55.87864502707477,55.87864502707477,High density,Ligand pose,sucos_shape,50.0,40.0,Q4,"Q4
+55.3–59.9"
+9suv,Boltz-1,1.0,49.275110399182395,0,,49.275110399182395,No neighbours,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–53.1"
+9vzs,Boltz-1,1.0,67.6816345086884,465,54.88648689492989,54.88648689492989,High density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+9vzt,Boltz-1,0.0,66.43234779602966,458,55.29404116485508,55.29404116485508,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.9"
+9zme,Boltz-1,1.0,51.92222230324557,7,51.02193593355561,51.02193593355561,Low density,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–53.1"
+9szn,Boltz-1,0.0,69.98955367681592,6,62.48877275628271,62.48877275628271,Low density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.0–91.1"
+9zmg,Boltz-1,0.0,64.67440975004506,34,56.91967008146958,56.91967008146958,Low density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.9"
+9o7r,Boltz-1,0.6,59.90322003208026,5,54.66975912124637,54.66975912124637,Low density,Ligand pose,sucos_shape,50.0,60.0,Q3,"Q3
+53.3–55.3"
+9ole,Boltz-1,0.0,66.8246946163396,1,66.8246946163396,66.8246946163396,Low density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.0–91.1"
+9orm,Boltz-1,1.0,72.6206054982215,66,54.97558721753159,54.97558721753159,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+9uau,Boltz-1,1.0,82.64619848538388,71,54.02599975625685,54.02599975625685,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+9y8k,Boltz-1,0.0,54.39000649402084,7,51.432267518254626,51.432267518254626,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9ugf,Boltz-1,1.0,62.199398531796945,3,54.660102459900166,54.660102459900166,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+9y8l,Boltz-1,0.0,53.5354933702201,8,51.186570902059394,51.186570902059394,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9zxm,Boltz-1,0.0,52.055443257883915,1,52.055443257883915,52.055443257883915,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9zxn,Boltz-1,0.0,49.31263673649831,0,,49.31263673649831,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9qdy,Boltz-1,0.0,42.46347982553886,0,,42.46347982553886,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9z1l,Boltz-1,1.0,69.62084621874632,927,54.347562698065325,54.347562698065325,High density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+10kz,Boltz-1,1.0,60.932702714342405,5,59.11514194495594,59.11514194495594,Low density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.9"
+22mj,Boltz-1,0.0,42.19744323899317,0,,42.19744323899317,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9q8d,Boltz-1,1.0,62.95466323811074,19,55.36900735938034,55.36900735938034,Low density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.9"
+9z2s,Boltz-1,1.0,99.40132495223637,3082,66.10752492240921,66.10752492240921,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.0–91.1"
+9r1c,Boltz-1,0.0,95.6515904151664,815,62.68211630440446,62.68211630440446,High density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.0–91.1"
+9n3l,Boltz-1,0.0,46.0036044655863,0,,46.0036044655863,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9i9g,Boltz-1,0.0,44.408952322208236,0,,44.408952322208236,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9r6i,Boltz-1,0.0,90.10278935772574,1614,55.55595964303307,55.55595964303307,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.9"
+9t08,Boltz-1,0.8,72.67578078677103,11,60.04825761686395,60.04825761686395,Low density,Ligand pose,sucos_shape,50.0,80.0,Q5,"Q5
+60.0–91.1"
+9t0d,Boltz-1,0.0,62.08675872444884,8,55.87771951421062,55.87771951421062,Low density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.9"
+9ngp,Boltz-1,1.0,56.989395480895524,4,53.4090679290667,53.4090679290667,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+8znn,Boltz-1,1.0,85.92321394317757,93,60.50831897000951,60.50831897000951,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.0–91.1"
+9uzt,Boltz-1,0.0,54.485114836979,3,51.786307695599,51.786307695599,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9i3y,Boltz-1,0.0,55.85330218837876,13,52.56524153812241,52.56524153812241,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–53.1"
+9s1u,Boltz-1,0.0,44.8429958515372,0,,44.8429958515372,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9si4,Boltz-1,1.0,81.6012348894017,9,76.16566036448744,76.16566036448744,Low density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.0–91.1"
+9nwx,Boltz-1,0.0,61.050084219338196,74,54.404942867031565,54.404942867031565,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+53.3–55.3"
+9htr,Boltz-1,1.0,36.69816063234493,0,,36.69816063234493,No neighbours,Ligand pose,sucos_shape,50.0,100.0,Q1,"Q1
+29.3–48.1"
+9kly,Boltz-1,0.0,85.31716331689306,147,59.47117651333714,59.47117651333714,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.9"
+9nd3,Boltz-1,1.0,72.05257845557833,46,54.27121307569924,54.27121307569924,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+53.3–55.3"
+9x53,Boltz-1,0.0,44.83761523275386,0,,44.83761523275386,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9ogw,Boltz-1,0.0,45.29354865559625,0,,45.29354865559625,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.1"
+9rv0,Boltz-1,0.0,18.75,0,,18.75,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9tfa,Boltz-1,0.0,31.76470588235294,0,,31.76470588235294,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9y56,Boltz-1,1.0,25.961538461538463,0,,25.961538461538463,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+10qv,Boltz-1,0.0,100.0,218,75.19911281379171,75.19911281379171,High density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+50.0–93.7"
+9rmf,Boltz-1,1.0,40.38461538461539,0,,40.38461538461539,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9vo8,Boltz-1,0.0,32.97872340425532,0,,32.97872340425532,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9vq5,Boltz-1,0.0,11.578947368421053,0,,11.578947368421053,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+21ln,Boltz-1,0.0,24.444444444444443,0,,24.444444444444443,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+13lw,Boltz-1,0.4,23.52941176470588,0,,23.52941176470588,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,40.0,Q2,"Q2
+20.0–27.6"
+11ue,Boltz-1,1.0,29.47368421052631,0,,29.47368421052631,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+11uc,Boltz-1,1.0,33.33333333333333,0,,33.33333333333333,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+11lj,Boltz-1,0.0,19.101123595505616,0,,19.101123595505616,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+10pj,Boltz-1,0.0,31.25,0,,31.25,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+24uh,Boltz-1,0.0,18.269230769230766,0,,18.269230769230766,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+29mo,Boltz-1,0.0,40.0,0,,40.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9ymo,Boltz-1,0.2,100.0,2053,92.80536586199288,92.80536586199288,High density,Ligand chemistry,morgan_tanimoto,50.0,20.0,Q5,"Q5
+50.0–93.7"
+9i9e,Boltz-1,0.0,28.000000000000004,0,,28.000000000000004,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9rc9,Boltz-1,1.0,64.7887323943662,60,59.02332909456686,59.02332909456686,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9tk2,Boltz-1,0.0,30.303030303030305,0,,30.303030303030305,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9tku,Boltz-1,0.0,37.83783783783784,0,,37.83783783783784,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9vcz,Boltz-1,0.0,76.92307692307693,2,76.92307692307693,76.92307692307693,Low density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+50.0–93.7"
+9vbq,Boltz-1,0.0,24.050632911392405,0,,24.050632911392405,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9t43,Boltz-1,1.0,100.0,579,63.19552498278458,63.19552498278458,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9rfl,Boltz-1,1.0,34.0,0,,34.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+9p09,Boltz-1,0.0,17.72151898734177,0,,17.72151898734177,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9zo9,Boltz-1,0.0,100.0,2056,92.78764259491241,92.78764259491241,High density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+50.0–93.7"
+9hz3,Boltz-1,0.0,8.421052631578947,0,,8.421052631578947,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+31wa,Boltz-1,1.0,35.36585365853659,0,,35.36585365853659,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+31wb,Boltz-1,0.0,35.714285714285715,0,,35.714285714285715,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+32pp,Boltz-1,0.0,28.30188679245283,0,,28.30188679245283,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+35wf,Boltz-1,1.0,35.714285714285715,0,,35.714285714285715,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+35wg,Boltz-1,1.0,50.0,1,50.0,50.0,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9psq,Boltz-1,0.0,6.779661016949152,0,,6.779661016949152,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+31hp,Boltz-1,0.8,43.103448275862064,0,,43.103448275862064,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,80.0,Q4,"Q4
+35.4–50.0"
+32ql,Boltz-1,0.0,8.13953488372093,0,,8.13953488372093,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+32qm,Boltz-1,0.0,7.547169811320755,0,,7.547169811320755,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9rzo,Boltz-1,0.6,100.0,61,93.71136791185167,93.71136791185167,High density,Ligand chemistry,morgan_tanimoto,50.0,60.0,Q5,"Q5
+50.0–93.7"
+9rzp,Boltz-1,0.6,53.333333333333336,8,53.333333333333336,53.333333333333336,Low density,Ligand chemistry,morgan_tanimoto,50.0,60.0,Q5,"Q5
+50.0–93.7"
+9vzg,Boltz-1,0.0,24.65753424657534,0,,24.65753424657534,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9hvs,Boltz-1,1.0,100.0,213,66.92688344292664,66.92688344292664,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9hvt,Boltz-1,1.0,73.07692307692307,213,65.47988158304321,65.47988158304321,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9tf9,Boltz-1,0.0,25.333333333333336,0,,25.333333333333336,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9tfb,Boltz-1,0.0,31.521739130434785,0,,31.521739130434785,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9y57,Boltz-1,1.0,26.666666666666668,0,,26.666666666666668,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+9y5a,Boltz-1,1.0,50.0,1,50.0,50.0,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9hm1,Boltz-1,1.0,46.96969696969697,0,,46.96969696969697,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9rqw,Boltz-1,1.0,56.060606060606055,16,54.85043301519971,54.85043301519971,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9rqx,Boltz-1,1.0,52.112676056338024,12,51.93661971830986,51.93661971830986,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9ppl,Boltz-1,0.0,57.14285714285714,2,57.14285714285714,57.14285714285714,Low density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+50.0–93.7"
+24wc,Boltz-1,1.0,33.80281690140845,0,,33.80281690140845,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+13lx,Boltz-1,0.4,23.52941176470588,0,,23.52941176470588,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,40.0,Q2,"Q2
+20.0–27.6"
+9suv,Boltz-1,1.0,30.097087378640776,0,,30.097087378640776,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+9vzs,Boltz-1,1.0,70.83333333333334,27,68.74791458124793,68.74791458124793,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9vzt,Boltz-1,0.0,85.0,23,85.0,85.0,Low density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+50.0–93.7"
+9zme,Boltz-1,1.0,33.33333333333333,0,,33.33333333333333,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+9szn,Boltz-1,0.0,34.31372549019608,0,,34.31372549019608,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9zmg,Boltz-1,0.0,27.55102040816326,0,,27.55102040816326,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9o7r,Boltz-1,0.6,20.77922077922078,0,,20.77922077922078,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,60.0,Q2,"Q2
+20.0–27.6"
+9ole,Boltz-1,0.0,42.22222222222222,0,,42.22222222222222,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9orm,Boltz-1,1.0,24.719101123595504,0,,24.719101123595504,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+9uau,Boltz-1,1.0,44.18604651162791,0,,44.18604651162791,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9y8k,Boltz-1,0.0,21.428571428571427,0,,21.428571428571427,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9ugf,Boltz-1,1.0,38.775510204081634,0,,38.775510204081634,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9y8l,Boltz-1,0.0,23.376623376623375,0,,23.376623376623375,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9zxm,Boltz-1,0.0,20.0,0,,20.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9zxn,Boltz-1,0.0,19.230769230769234,0,,19.230769230769234,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9qdy,Boltz-1,0.0,9.90990990990991,0,,9.90990990990991,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9z1l,Boltz-1,1.0,33.33333333333333,0,,33.33333333333333,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+10kz,Boltz-1,1.0,25.842696629213485,0,,25.842696629213485,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+22mj,Boltz-1,0.0,8.108108108108109,0,,8.108108108108109,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9q8d,Boltz-1,1.0,32.18390804597701,0,,32.18390804597701,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+9z2s,Boltz-1,1.0,39.130434782608695,0,,39.130434782608695,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9r1c,Boltz-1,0.0,61.29032258064516,6,59.77092099111735,59.77092099111735,Low density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+50.0–93.7"
+9n3l,Boltz-1,0.0,16.483516483516482,0,,16.483516483516482,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9i9g,Boltz-1,0.0,9.090909090909092,0,,9.090909090909092,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9r6i,Boltz-1,0.0,39.682539682539684,0,,39.682539682539684,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9t08,Boltz-1,0.8,47.474747474747474,0,,47.474747474747474,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,80.0,Q4,"Q4
+35.4–50.0"
+9t0d,Boltz-1,0.0,34.234234234234236,0,,34.234234234234236,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9ngp,Boltz-1,1.0,27.102803738317753,0,,27.102803738317753,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+8znn,Boltz-1,1.0,49.333333333333336,0,,49.333333333333336,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9uzt,Boltz-1,0.0,15.909090909090908,0,,15.909090909090908,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9i3y,Boltz-1,0.0,26.96629213483146,0,,26.96629213483146,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9s1u,Boltz-1,0.0,20.0,0,,20.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9si4,Boltz-1,1.0,43.47826086956522,0,,43.47826086956522,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9nwx,Boltz-1,0.0,27.722772277227726,0,,27.722772277227726,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9htr,Boltz-1,1.0,9.022556390977442,0,,9.022556390977442,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q1,"Q1
+6.8–19.2"
+9kly,Boltz-1,0.0,42.3728813559322,0,,42.3728813559322,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9nd3,Boltz-1,1.0,61.76470588235294,3,61.76470588235295,61.76470588235295,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+50.0–93.7"
+9x53,Boltz-1,0.0,14.285714285714285,0,,14.285714285714285,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9ogw,Boltz-1,0.0,12.941176470588237,0,,12.941176470588237,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+6.8–19.2"
+9rv0,Boltz-2,0.0,100.0,123,82.78048780487805,82.78048780487805,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.3–93.1"
+9tfa,Boltz-2,0.0,64.0,213,53.178403755868544,53.178403755868544,High density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9y56,Boltz-2,1.0,100.0,127,72.28346456692914,72.28346456692914,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+10qv,Boltz-2,0.0,100.0,90,99.68888888888888,99.68888888888888,High density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9rmf,Boltz-2,0.0,100.0,28,95.0,95.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+93.3–97.8"
+9vo8,Boltz-2,0.0,100.0,53,97.79245283018868,97.79245283018868,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+93.3–97.8"
+9vq5,Boltz-2,0.0,33.0,0,,33.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+21ln,Boltz-2,0.0,99.0,86,96.32558139534883,96.32558139534883,High density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+93.3–97.8"
+13lw,Boltz-2,1.0,99.0,10,97.3,97.3,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+11ue,Boltz-2,1.0,59.0,146,52.76712328767123,52.76712328767123,High density,Protein sequence,protein_fident_max,50.0,100.0,Q1,"Q1
+11.0–66.9"
+11uc,Boltz-2,1.0,100.0,261,96.73946360153256,96.73946360153256,High density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+11lj,Boltz-2,0.0,100.0,30,98.63333333333334,98.63333333333334,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+10pj,Boltz-2,0.0,100.0,271,78.75645756457564,78.75645756457564,High density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.3"
+24uh,Boltz-2,0.0,100.0,4,100.0,100.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+29mo,Boltz-2,0.0,99.0,56,72.60714285714286,72.60714285714286,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.3"
+9ymo,Boltz-2,1.0,99.0,794,92.10831234256926,92.10831234256926,High density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.3–93.1"
+9i9e,Boltz-2,0.0,85.0,52,76.11538461538461,76.11538461538461,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.3"
+9rc9,Boltz-2,1.0,100.0,223,88.4798206278027,88.4798206278027,High density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.3–93.1"
+9tk2,Boltz-2,1.0,100.0,112,98.16964285714286,98.16964285714286,High density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+9tku,Boltz-2,1.0,100.0,83,94.855421686747,94.855421686747,High density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+9vcz,Boltz-2,0.8,100.0,345,90.33623188405797,90.33623188405797,High density,Protein sequence,protein_fident_max,50.0,80.0,Q3,"Q3
+80.3–93.1"
+9vbq,Boltz-2,0.0,100.0,176,98.13068181818181,98.13068181818181,High density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9t43,Boltz-2,1.0,100.0,118,99.11016949152543,99.11016949152543,High density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+9rfl,Boltz-2,0.4,100.0,130,67.6,67.6,High density,Protein sequence,protein_fident_max,50.0,40.0,Q2,"Q2
+67.1–80.3"
+9p09,Boltz-2,0.0,29.0,0,,29.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9zo9,Boltz-2,1.0,99.0,794,91.25188916876574,91.25188916876574,High density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.3–93.1"
+9hz3,Boltz-2,0.0,11.0,0,,11.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+31wa,Boltz-2,0.8,100.0,53,98.24528301886792,98.24528301886792,Low density,Protein sequence,protein_fident_max,50.0,80.0,Q5,"Q5
+98.0–100.0"
+31wb,Boltz-2,0.6,100.0,53,98.28301886792453,98.28301886792453,Low density,Protein sequence,protein_fident_max,50.0,60.0,Q5,"Q5
+98.0–100.0"
+32pp,Boltz-2,0.0,100.0,345,90.34492753623188,90.34492753623188,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.3–93.1"
+35wf,Boltz-2,1.0,100.0,25,97.04,97.04,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+35wg,Boltz-2,1.0,99.0,25,96.6,96.6,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+9psq,Boltz-2,0.0,13.0,0,,13.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+31hp,Boltz-2,1.0,99.0,18,92.05555555555556,92.05555555555556,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.3–93.1"
+32ql,Boltz-2,0.0,46.0,0,,46.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+32qm,Boltz-2,0.0,47.0,0,,47.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9rzo,Boltz-2,0.0,100.0,2537,80.30114308238076,80.30114308238076,High density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.3"
+9rzp,Boltz-2,0.0,100.0,2537,80.3058730784391,80.3058730784391,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.3–93.1"
+9vzg,Boltz-2,0.4,100.0,58,88.0,88.0,Low density,Protein sequence,protein_fident_max,50.0,40.0,Q3,"Q3
+80.3–93.1"
+9hvs,Boltz-2,1.0,100.0,66,93.34848484848484,93.34848484848484,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+9hvt,Boltz-2,1.0,100.0,66,93.34848484848484,93.34848484848484,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+9tf9,Boltz-2,0.0,65.0,199,53.42211055276382,53.42211055276382,High density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9tfb,Boltz-2,0.0,63.0,189,52.84656084656085,52.84656084656085,High density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9y57,Boltz-2,1.0,100.0,127,72.28346456692914,72.28346456692914,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+9y5a,Boltz-2,1.0,100.0,127,72.28346456692914,72.28346456692914,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+9hm1,Boltz-2,1.0,100.0,163,95.76687116564418,95.76687116564418,High density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+9rqw,Boltz-2,1.0,100.0,55,97.6,97.6,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+9rqx,Boltz-2,1.0,100.0,55,97.6,97.6,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q4,"Q4
+93.3–97.8"
+9ppl,Boltz-2,0.0,99.0,58,89.82758620689656,89.82758620689656,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.3–93.1"
+24wc,Boltz-2,0.0,100.0,4,100.0,100.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+13lx,Boltz-2,0.8,98.0,10,97.4,97.4,Low density,Protein sequence,protein_fident_max,50.0,80.0,Q4,"Q4
+93.3–97.8"
+9suv,Boltz-2,1.0,97.0,336,66.875,66.875,High density,Protein sequence,protein_fident_max,50.0,100.0,Q1,"Q1
+11.0–66.9"
+9vzs,Boltz-2,1.0,99.0,633,67.08372827804108,67.08372827804108,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+9vzt,Boltz-2,0.0,99.0,641,66.88299531981279,66.88299531981279,High density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9zme,Boltz-2,1.0,100.0,43,99.48837209302326,99.48837209302326,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+9szn,Boltz-2,0.0,96.0,36,95.16666666666667,95.16666666666667,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+93.3–97.8"
+9zmg,Boltz-2,0.0,100.0,43,99.48837209302326,99.48837209302326,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9o7r,Boltz-2,0.0,27.0,0,,27.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9ole,Boltz-2,1.0,97.0,93,76.58064516129032,76.58064516129032,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+9orm,Boltz-2,0.2,98.0,16,80.4375,80.4375,Low density,Protein sequence,protein_fident_max,50.0,20.0,Q3,"Q3
+80.3–93.1"
+9uau,Boltz-2,0.8,100.0,239,93.1297071129707,93.1297071129707,High density,Protein sequence,protein_fident_max,50.0,80.0,Q3,"Q3
+80.3–93.1"
+9y8k,Boltz-2,0.0,99.0,6,98.66666666666667,98.66666666666667,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9ugf,Boltz-2,0.0,98.0,239,87.16317991631799,87.16317991631799,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.3–93.1"
+9y8l,Boltz-2,0.0,99.0,6,98.66666666666667,98.66666666666667,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9zxm,Boltz-2,0.0,97.0,3,97.0,97.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+93.3–97.8"
+9zxn,Boltz-2,0.0,97.0,3,97.0,97.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+93.3–97.8"
+9qdy,Boltz-2,0.0,98.0,12,95.66666666666667,95.66666666666667,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q4,"Q4
+93.3–97.8"
+9z1l,Boltz-2,0.0,99.0,179,58.59217877094972,58.59217877094972,High density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+10kz,Boltz-2,1.0,99.0,54,68.92592592592592,68.92592592592592,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+22mj,Boltz-2,0.0,16.0,0,,16.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9q8d,Boltz-2,0.6,100.0,23,98.30434782608695,98.30434782608695,Low density,Protein sequence,protein_fident_max,50.0,60.0,Q5,"Q5
+98.0–100.0"
+9z2s,Boltz-2,0.2,96.0,150,59.5,59.5,High density,Protein sequence,protein_fident_max,50.0,20.0,Q1,"Q1
+11.0–66.9"
+9r1c,Boltz-2,0.0,100.0,65,99.18461538461538,99.18461538461538,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9n3l,Boltz-2,0.0,18.0,0,,18.0,No neighbours,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9i9g,Boltz-2,0.0,76.0,3,76.0,76.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.3"
+9r6i,Boltz-2,0.0,100.0,621,84.06763285024155,84.06763285024155,High density,Protein sequence,protein_fident_max,50.0,0.0,Q3,"Q3
+80.3–93.1"
+9t08,Boltz-2,1.0,95.0,35,90.65714285714286,90.65714285714286,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.3–93.1"
+9t0d,Boltz-2,0.4,97.0,34,93.0,93.0,Low density,Protein sequence,protein_fident_max,50.0,40.0,Q3,"Q3
+80.3–93.1"
+9ngp,Boltz-2,1.0,98.0,266,93.02631578947368,93.02631578947368,High density,Protein sequence,protein_fident_max,50.0,100.0,Q3,"Q3
+80.3–93.1"
+8znn,Boltz-2,1.0,100.0,621,72.08856682769726,72.08856682769726,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+9uzt,Boltz-2,0.2,70.0,43,68.83720930232558,68.83720930232558,Low density,Protein sequence,protein_fident_max,50.0,20.0,Q2,"Q2
+67.1–80.3"
+9i3y,Boltz-2,0.0,100.0,23,98.26086956521739,98.26086956521739,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9s1u,Boltz-2,0.0,100.0,200,97.97,97.97,High density,Protein sequence,protein_fident_max,50.0,0.0,Q5,"Q5
+98.0–100.0"
+9si4,Boltz-2,1.0,100.0,121,98.2892561983471,98.2892561983471,High density,Protein sequence,protein_fident_max,50.0,100.0,Q5,"Q5
+98.0–100.0"
+9nwx,Boltz-2,1.0,94.0,127,75.4724409448819,75.4724409448819,High density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+9htr,Boltz-2,0.0,76.0,3,76.0,76.0,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.3"
+9kly,Boltz-2,0.8,100.0,65,92.36923076923077,92.36923076923077,Low density,Protein sequence,protein_fident_max,50.0,80.0,Q3,"Q3
+80.3–93.1"
+9nd3,Boltz-2,1.0,99.0,19,78.73684210526316,78.73684210526316,Low density,Protein sequence,protein_fident_max,50.0,100.0,Q2,"Q2
+67.1–80.3"
+9x53,Boltz-2,0.0,78.0,8,77.25,77.25,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q2,"Q2
+67.1–80.3"
+9ogw,Boltz-2,0.0,97.0,28,54.892857142857146,54.892857142857146,Low density,Protein sequence,protein_fident_max,50.0,0.0,Q1,"Q1
+11.0–66.9"
+9rv0,Boltz-2,0.0,100.0,397,82.58438287153652,82.58438287153652,High density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.2"
+9tfa,Boltz-2,0.0,87.0,1627,74.51690227412415,74.51690227412415,High density,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+9y56,Boltz-2,1.0,96.0,1674,75.15412186379929,75.15412186379929,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.7–77.5"
+10qv,Boltz-2,0.0,100.0,90,98.63333333333334,98.63333333333334,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9rmf,Boltz-2,0.0,98.0,33,92.63636363636364,92.63636363636364,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9vo8,Boltz-2,0.0,96.0,279,77.50179211469533,77.50179211469533,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.7–77.5"
+9vq5,Boltz-2,0.0,66.0,0,,66.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+21ln,Boltz-2,0.0,98.0,295,85.36949152542373,85.36949152542373,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+13lw,Boltz-2,1.0,93.0,174,71.6896551724138,71.6896551724138,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.5"
+11ue,Boltz-2,1.0,89.0,1269,73.92513790386131,73.92513790386131,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.5"
+11uc,Boltz-2,1.0,99.0,520,83.225,83.225,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+11lj,Boltz-2,0.0,98.0,103,84.2135922330097,84.2135922330097,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+10pj,Boltz-2,0.0,96.0,1278,75.9358372456964,75.9358372456964,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.7–77.5"
+24uh,Boltz-2,0.0,96.0,4,96.0,96.0,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+29mo,Boltz-2,0.0,97.0,302,77.29139072847683,77.29139072847683,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.7–77.5"
+9ymo,Boltz-2,1.0,98.0,1723,83.30295995356936,83.30295995356936,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+9i9e,Boltz-2,0.0,84.0,48,78.0625,78.0625,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.2"
+9rc9,Boltz-2,1.0,100.0,700,80.43571428571428,80.43571428571428,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+9tk2,Boltz-2,1.0,100.0,112,93.5625,93.5625,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.0–98.6"
+9tku,Boltz-2,1.0,97.0,184,79.79347826086956,79.79347826086956,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+9vcz,Boltz-2,0.8,99.0,785,83.35031847133757,83.35031847133757,High density,Protein structure,protein_lddt_max,70.0,80.0,Q4,"Q4
+83.2–89.7"
+9vbq,Boltz-2,0.0,91.0,569,76.6115992970123,76.6115992970123,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.7–77.5"
+9t43,Boltz-2,1.0,99.0,120,97.28333333333333,97.28333333333333,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.0–98.6"
+9rfl,Boltz-2,0.4,100.0,440,81.35227272727273,81.35227272727273,High density,Protein structure,protein_lddt_max,70.0,40.0,Q3,"Q3
+77.8–83.2"
+9p09,Boltz-2,0.0,59.0,0,,59.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+9zo9,Boltz-2,1.0,97.0,1760,83.21704545454546,83.21704545454546,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+9hz3,Boltz-2,0.0,40.0,0,,40.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+31wa,Boltz-2,0.8,91.0,222,75.6891891891892,75.6891891891892,Low density,Protein structure,protein_lddt_max,70.0,80.0,Q2,"Q2
+74.7–77.5"
+31wb,Boltz-2,0.6,91.0,214,75.24299065420561,75.24299065420561,Low density,Protein structure,protein_lddt_max,70.0,60.0,Q2,"Q2
+74.7–77.5"
+32pp,Boltz-2,0.0,99.0,841,82.05350772889417,82.05350772889417,High density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.2"
+35wf,Boltz-2,1.0,94.0,522,72.65134099616859,72.65134099616859,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.5"
+35wg,Boltz-2,1.0,97.0,536,72.31156716417911,72.31156716417911,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.5"
+9psq,Boltz-2,0.0,57.0,0,,57.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+31hp,Boltz-2,1.0,96.0,150,80.48666666666666,80.48666666666666,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+32ql,Boltz-2,0.0,87.0,28,82.53571428571429,82.53571428571429,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.2"
+32qm,Boltz-2,0.0,87.0,28,81.57142857142857,81.57142857142857,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.2"
+9rzo,Boltz-2,0.0,100.0,2833,93.00564772326156,93.00564772326156,High density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9rzp,Boltz-2,0.0,100.0,2832,92.70621468926554,92.70621468926554,High density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9vzg,Boltz-2,0.4,95.0,63,88.14285714285714,88.14285714285714,Low density,Protein structure,protein_lddt_max,70.0,40.0,Q4,"Q4
+83.2–89.7"
+9hvs,Boltz-2,1.0,100.0,67,97.40298507462687,97.40298507462687,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.0–98.6"
+9hvt,Boltz-2,1.0,100.0,67,97.40298507462687,97.40298507462687,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.0–98.6"
+9tf9,Boltz-2,0.0,85.0,1558,73.90564826700898,73.90564826700898,High density,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+9tfb,Boltz-2,0.0,86.0,1558,74.2625160462131,74.2625160462131,High density,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+9y57,Boltz-2,1.0,96.0,1647,75.25075895567699,75.25075895567699,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.7–77.5"
+9y5a,Boltz-2,1.0,96.0,1683,75.1711229946524,75.1711229946524,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.7–77.5"
+9hm1,Boltz-2,1.0,96.0,666,76.93093093093093,76.93093093093093,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.7–77.5"
+9rqw,Boltz-2,1.0,100.0,421,81.48218527315915,81.48218527315915,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+9rqx,Boltz-2,1.0,100.0,421,81.40380047505938,81.40380047505938,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+9ppl,Boltz-2,0.0,99.0,63,87.80952380952381,87.80952380952381,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+24wc,Boltz-2,0.0,96.0,4,95.5,95.5,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+13lx,Boltz-2,0.8,95.0,247,71.37246963562752,71.37246963562752,Low density,Protein structure,protein_lddt_max,70.0,80.0,Q1,"Q1
+40.0–74.5"
+9suv,Boltz-2,1.0,94.0,347,86.97694524495677,86.97694524495677,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+9vzs,Boltz-2,1.0,98.0,628,86.6624203821656,86.6624203821656,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+9vzt,Boltz-2,0.0,98.0,636,86.57389937106919,86.57389937106919,High density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9zme,Boltz-2,1.0,98.0,167,79.1377245508982,79.1377245508982,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+9szn,Boltz-2,0.0,95.0,36,93.94444444444444,93.94444444444444,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9zmg,Boltz-2,0.0,96.0,167,78.68263473053892,78.68263473053892,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q3,"Q3
+77.8–83.2"
+9o7r,Boltz-2,0.0,68.0,0,,68.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+9ole,Boltz-2,1.0,94.0,93,90.95698924731182,90.95698924731182,Low density,Protein structure,protein_lddt_max,70.0,100.0,Q5,"Q5
+91.0–98.6"
+9orm,Boltz-2,0.2,98.0,80,74.7125,74.7125,Low density,Protein structure,protein_lddt_max,70.0,20.0,Q2,"Q2
+74.7–77.5"
+9uau,Boltz-2,0.8,86.0,498,76.56827309236948,76.56827309236948,High density,Protein structure,protein_lddt_max,70.0,80.0,Q2,"Q2
+74.7–77.5"
+9y8k,Boltz-2,0.0,96.0,72,87.30555555555556,87.30555555555556,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9ugf,Boltz-2,0.0,92.0,1028,76.23540856031128,76.23540856031128,High density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.7–77.5"
+9y8l,Boltz-2,0.0,96.0,72,87.70833333333333,87.70833333333333,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9zxm,Boltz-2,0.0,94.0,3,94.0,94.0,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9zxn,Boltz-2,0.0,94.0,3,93.66666666666667,93.66666666666667,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9qdy,Boltz-2,0.0,93.0,13,87.92307692307692,87.92307692307692,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9z1l,Boltz-2,0.0,90.0,965,72.939896373057,72.939896373057,High density,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+10kz,Boltz-2,1.0,94.0,1851,79.07995678011885,79.07995678011885,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+22mj,Boltz-2,0.0,43.0,0,,43.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+9q8d,Boltz-2,0.6,97.0,24,92.54166666666667,92.54166666666667,Low density,Protein structure,protein_lddt_max,70.0,60.0,Q5,"Q5
+91.0–98.6"
+9z2s,Boltz-2,0.2,86.0,957,72.95402298850574,72.95402298850574,High density,Protein structure,protein_lddt_max,70.0,20.0,Q1,"Q1
+40.0–74.5"
+9r1c,Boltz-2,0.0,100.0,72,97.06944444444444,97.06944444444444,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9n3l,Boltz-2,0.0,64.0,0,,64.0,No neighbours,Protein structure,protein_lddt_max,70.0,0.0,Q1,"Q1
+40.0–74.5"
+9i9g,Boltz-2,0.0,78.0,14,74.92857142857143,74.92857142857143,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q2,"Q2
+74.7–77.5"
+9r6i,Boltz-2,0.0,94.0,638,87.75078369905957,87.75078369905957,High density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9t08,Boltz-2,1.0,89.0,1678,75.70441001191895,75.70441001191895,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.7–77.5"
+9t0d,Boltz-2,0.4,88.0,1547,75.03102779573368,75.03102779573368,High density,Protein structure,protein_lddt_max,70.0,40.0,Q2,"Q2
+74.7–77.5"
+9ngp,Boltz-2,1.0,98.0,1802,77.83185349611543,77.83185349611543,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+8znn,Boltz-2,1.0,97.0,669,87.101644245142,87.101644245142,High density,Protein structure,protein_lddt_max,70.0,100.0,Q4,"Q4
+83.2–89.7"
+9uzt,Boltz-2,0.2,95.0,170,81.02941176470588,81.02941176470588,Low density,Protein structure,protein_lddt_max,70.0,20.0,Q3,"Q3
+77.8–83.2"
+9i3y,Boltz-2,0.0,96.0,27,89.74074074074075,89.74074074074075,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9s1u,Boltz-2,0.0,95.0,200,94.03,94.03,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9si4,Boltz-2,1.0,99.0,1824,79.0531798245614,79.0531798245614,High density,Protein structure,protein_lddt_max,70.0,100.0,Q3,"Q3
+77.8–83.2"
+9nwx,Boltz-2,1.0,92.0,1862,77.18098818474758,77.18098818474758,High density,Protein structure,protein_lddt_max,70.0,100.0,Q2,"Q2
+74.7–77.5"
+9htr,Boltz-2,0.0,97.0,3,95.33333333333333,95.33333333333333,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q5,"Q5
+91.0–98.6"
+9kly,Boltz-2,0.8,95.0,691,77.00144717800289,77.00144717800289,High density,Protein structure,protein_lddt_max,70.0,80.0,Q2,"Q2
+74.7–77.5"
+9nd3,Boltz-2,1.0,97.0,528,72.19128787878788,72.19128787878788,High density,Protein structure,protein_lddt_max,70.0,100.0,Q1,"Q1
+40.0–74.5"
+9x53,Boltz-2,0.0,88.0,8,85.75,85.75,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9ogw,Boltz-2,0.0,92.0,33,83.72727272727273,83.72727272727273,Low density,Protein structure,protein_lddt_max,70.0,0.0,Q4,"Q4
+83.2–89.7"
+9rv0,Boltz-2,0.0,96.0,313,81.2076677316294,81.2076677316294,High density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+79.0–82.8"
+9tfa,Boltz-2,0.0,94.0,1221,75.34889434889435,75.34889434889435,High density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.7–76.7"
+9y56,Boltz-2,1.0,89.0,198,75.24242424242425,75.24242424242425,Low density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.7–76.7"
+10qv,Boltz-2,0.0,100.0,86,88.55813953488372,88.55813953488372,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.3–91.6"
+9rmf,Boltz-2,0.0,85.0,22,75.9090909090909,75.9090909090909,Low density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.7–76.7"
+9vo8,Boltz-2,0.0,100.0,4910,85.35539714867618,85.35539714867618,High density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.3–91.6"
+21ln,Boltz-2,0.0,97.0,94,88.11702127659575,88.11702127659575,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.3–91.6"
+13lw,Boltz-2,1.0,97.0,2204,76.1401996370236,76.1401996370236,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.7–76.7"
+11ue,Boltz-2,1.0,97.0,729,76.96707818930041,76.96707818930041,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.8–78.8"
+11uc,Boltz-2,1.0,100.0,3562,77.91661987647389,77.91661987647389,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.8–78.8"
+11lj,Boltz-2,0.0,92.0,90,79.5111111111111,79.5111111111111,Low density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+79.0–82.8"
+10pj,Boltz-2,0.0,91.0,1607,75.03858120721841,75.03858120721841,High density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.7–76.7"
+24uh,Boltz-2,0.0,96.0,1853,78.1127900701565,78.1127900701565,High density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+29mo,Boltz-2,0.0,100.0,3629,76.79663819233949,76.79663819233949,High density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+9ymo,Boltz-2,1.0,100.0,2038,91.63248282630029,91.63248282630029,High density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.3–91.6"
+9i9e,Boltz-2,0.0,96.0,47,77.31914893617021,77.31914893617021,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+9rc9,Boltz-2,1.0,80.0,17,73.47058823529412,73.47058823529412,Low density,Pocket,pocket_qcov,70.0,100.0,Q1,"Q1
+6.0–74.6"
+9tk2,Boltz-2,1.0,100.0,37,85.16216216216216,85.16216216216216,Low density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.3–91.6"
+9tku,Boltz-2,1.0,96.0,48,89.0625,89.0625,Low density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.3–91.6"
+9vcz,Boltz-2,0.8,96.0,151,77.29801324503312,77.29801324503312,Low density,Pocket,pocket_qcov,70.0,80.0,Q3,"Q3
+76.8–78.8"
+9vbq,Boltz-2,0.0,87.0,182,74.48351648351648,74.48351648351648,Low density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9t43,Boltz-2,1.0,96.0,69,84.78260869565217,84.78260869565217,Low density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.3–91.6"
+9rfl,Boltz-2,0.4,100.0,357,86.63865546218487,86.63865546218487,High density,Pocket,pocket_qcov,70.0,40.0,Q5,"Q5
+83.3–91.6"
+9p09,Boltz-2,0.0,17.0,0,,17.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9zo9,Boltz-2,1.0,100.0,2124,91.27165725047081,91.27165725047081,High density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.3–91.6"
+31wa,Boltz-2,0.8,100.0,4641,81.83344106873518,81.83344106873518,High density,Pocket,pocket_qcov,70.0,80.0,Q4,"Q4
+79.0–82.8"
+31wb,Boltz-2,0.6,96.0,4225,80.20544378698224,80.20544378698224,High density,Pocket,pocket_qcov,70.0,60.0,Q4,"Q4
+79.0–82.8"
+32pp,Boltz-2,0.0,100.0,820,89.1329268292683,89.1329268292683,High density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.3–91.6"
+35wf,Boltz-2,1.0,100.0,4292,82.82618825722274,82.82618825722274,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+79.0–82.8"
+35wg,Boltz-2,1.0,100.0,3302,79.49485160508783,79.49485160508783,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+79.0–82.8"
+9psq,Boltz-2,0.0,6.0,0,,6.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+31hp,Boltz-2,1.0,100.0,4523,82.35441078929914,82.35441078929914,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+79.0–82.8"
+32ql,Boltz-2,0.0,70.0,2,70.0,70.0,Low density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+32qm,Boltz-2,0.0,68.0,0,,68.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9rzo,Boltz-2,0.0,100.0,319,80.46081504702194,80.46081504702194,High density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+79.0–82.8"
+9rzp,Boltz-2,0.0,100.0,263,79.90494296577947,79.90494296577947,High density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+79.0–82.8"
+9vzg,Boltz-2,0.4,93.0,9,83.44444444444444,83.44444444444444,Low density,Pocket,pocket_qcov,70.0,40.0,Q5,"Q5
+83.3–91.6"
+9hvs,Boltz-2,1.0,97.0,282,82.36170212765957,82.36170212765957,High density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+79.0–82.8"
+9hvt,Boltz-2,1.0,97.0,267,78.76404494382022,78.76404494382022,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.8–78.8"
+9tf9,Boltz-2,0.0,97.0,2351,75.7524457677584,75.7524457677584,High density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.7–76.7"
+9tfb,Boltz-2,0.0,91.0,1301,73.52113758647195,73.52113758647195,High density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9y57,Boltz-2,1.0,92.0,391,75.07161125319693,75.07161125319693,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.7–76.7"
+9y5a,Boltz-2,1.0,90.0,159,76.71698113207547,76.71698113207547,Low density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.7–76.7"
+9hm1,Boltz-2,1.0,100.0,4938,84.81105710814094,84.81105710814094,High density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.3–91.6"
+9rqw,Boltz-2,1.0,100.0,92,82.68478260869566,82.68478260869566,Low density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+79.0–82.8"
+9rqx,Boltz-2,1.0,100.0,121,82.76859504132231,82.76859504132231,Low density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+79.0–82.8"
+9ppl,Boltz-2,0.0,100.0,17,79.05882352941177,79.05882352941177,Low density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+79.0–82.8"
+24wc,Boltz-2,0.0,91.0,494,74.34412955465586,74.34412955465586,High density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+13lx,Boltz-2,0.8,97.0,1742,76.31917336394949,76.31917336394949,High density,Pocket,pocket_qcov,70.0,80.0,Q2,"Q2
+74.7–76.7"
+9suv,Boltz-2,1.0,94.0,635,75.89448818897638,75.89448818897638,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.7–76.7"
+9vzs,Boltz-2,1.0,95.0,235,78.54893617021277,78.54893617021277,Low density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.8–78.8"
+9vzt,Boltz-2,0.0,95.0,242,77.97933884297521,77.97933884297521,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+9zme,Boltz-2,1.0,100.0,79,83.34177215189874,83.34177215189874,Low density,Pocket,pocket_qcov,70.0,100.0,Q5,"Q5
+83.3–91.6"
+9szn,Boltz-2,0.0,87.0,28,77.64285714285714,77.64285714285714,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+9zmg,Boltz-2,0.0,100.0,84,89.76190476190476,89.76190476190476,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.3–91.6"
+9o7r,Boltz-2,0.0,79.0,49,74.0204081632653,74.0204081632653,Low density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9ole,Boltz-2,1.0,89.0,9,78.55555555555556,78.55555555555556,Low density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.8–78.8"
+9orm,Boltz-2,0.2,62.0,0,,62.0,No neighbours,Pocket,pocket_qcov,70.0,20.0,Q1,"Q1
+6.0–74.6"
+9uau,Boltz-2,0.8,97.0,1716,75.37762237762237,75.37762237762237,High density,Pocket,pocket_qcov,70.0,80.0,Q2,"Q2
+74.7–76.7"
+9y8k,Boltz-2,0.0,100.0,56,87.19642857142857,87.19642857142857,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.3–91.6"
+9ugf,Boltz-2,0.0,91.0,982,74.74745417515275,74.74745417515275,High density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.7–76.7"
+9y8l,Boltz-2,0.0,100.0,56,87.19642857142857,87.19642857142857,Low density,Pocket,pocket_qcov,70.0,0.0,Q5,"Q5
+83.3–91.6"
+9zxm,Boltz-2,0.0,44.0,0,,44.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9zxn,Boltz-2,0.0,48.0,0,,48.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9qdy,Boltz-2,0.0,90.0,11,77.72727272727273,77.72727272727273,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+9z1l,Boltz-2,0.0,100.0,4782,79.25805102467586,79.25805102467586,High density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+79.0–82.8"
+10kz,Boltz-2,1.0,92.0,243,75.8641975308642,75.8641975308642,Low density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.7–76.7"
+9q8d,Boltz-2,0.6,97.0,11,90.45454545454545,90.45454545454545,Low density,Pocket,pocket_qcov,70.0,60.0,Q5,"Q5
+83.3–91.6"
+9z2s,Boltz-2,0.2,90.0,1341,73.67188665175243,73.67188665175243,High density,Pocket,pocket_qcov,70.0,20.0,Q1,"Q1
+6.0–74.6"
+9r1c,Boltz-2,0.0,90.0,45,78.97777777777777,78.97777777777777,Low density,Pocket,pocket_qcov,70.0,0.0,Q4,"Q4
+79.0–82.8"
+9n3l,Boltz-2,0.0,78.0,5,73.2,73.2,Low density,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9i9g,Boltz-2,0.0,29.0,0,,29.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9r6i,Boltz-2,0.0,97.0,229,78.46288209606988,78.46288209606988,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+9t08,Boltz-2,1.0,92.0,416,76.4014423076923,76.4014423076923,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.7–76.7"
+9t0d,Boltz-2,0.4,85.0,243,74.31687242798354,74.31687242798354,Low density,Pocket,pocket_qcov,70.0,40.0,Q1,"Q1
+6.0–74.6"
+9ngp,Boltz-2,1.0,97.0,2703,75.06400295967444,75.06400295967444,High density,Pocket,pocket_qcov,70.0,100.0,Q2,"Q2
+74.7–76.7"
+8znn,Boltz-2,1.0,100.0,238,79.10924369747899,79.10924369747899,Low density,Pocket,pocket_qcov,70.0,100.0,Q4,"Q4
+79.0–82.8"
+9uzt,Boltz-2,0.2,91.0,81,80.91358024691358,80.91358024691358,Low density,Pocket,pocket_qcov,70.0,20.0,Q4,"Q4
+79.0–82.8"
+9i3y,Boltz-2,0.0,81.0,11,76.36363636363636,76.36363636363636,Low density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.7–76.7"
+9s1u,Boltz-2,0.0,93.0,46,76.8695652173913,76.8695652173913,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+9si4,Boltz-2,1.0,96.0,484,76.96900826446281,76.96900826446281,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.8–78.8"
+9nwx,Boltz-2,1.0,90.0,703,74.57041251778094,74.57041251778094,High density,Pocket,pocket_qcov,70.0,100.0,Q1,"Q1
+6.0–74.6"
+9htr,Boltz-2,0.0,77.0,3,75.66666666666667,75.66666666666667,Low density,Pocket,pocket_qcov,70.0,0.0,Q2,"Q2
+74.7–76.7"
+9kly,Boltz-2,0.8,100.0,591,83.72927241962775,83.72927241962775,High density,Pocket,pocket_qcov,70.0,80.0,Q5,"Q5
+83.3–91.6"
+9nd3,Boltz-2,1.0,100.0,3689,77.92762266196802,77.92762266196802,High density,Pocket,pocket_qcov,70.0,100.0,Q3,"Q3
+76.8–78.8"
+9x53,Boltz-2,0.0,95.0,12,78.83333333333333,78.83333333333333,Low density,Pocket,pocket_qcov,70.0,0.0,Q3,"Q3
+76.8–78.8"
+9ogw,Boltz-2,0.0,56.0,0,,56.0,No neighbours,Pocket,pocket_qcov,70.0,0.0,Q1,"Q1
+6.0–74.6"
+9rv0,Boltz-2,0.0,100.0,379,62.00527704485488,62.00527704485488,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.2–73.7"
+9tfa,Boltz-2,0.0,75.0,569,51.789103690685415,51.789103690685415,High density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–53.0"
+9y56,Boltz-2,1.0,69.0,326,52.285276073619634,52.285276073619634,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+10qv,Boltz-2,0.0,95.0,100,73.65,73.65,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.2–73.7"
+9rmf,Boltz-2,0.0,64.0,8,54.25,54.25,Low density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.9"
+9vo8,Boltz-2,0.0,100.0,1656,65.42572463768116,65.42572463768116,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.2–73.7"
+21ln,Boltz-2,0.0,50.0,6,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+13lw,Boltz-2,1.0,100.0,1766,56.86409966024915,56.86409966024915,High density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.9"
+11ue,Boltz-2,1.0,73.0,189,56.883597883597886,56.883597883597886,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.9–60.0"
+11uc,Boltz-2,1.0,75.0,220,52.60454545454545,52.60454545454545,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+11lj,Boltz-2,0.0,86.0,15,62.666666666666664,62.666666666666664,Low density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.2–73.7"
+10pj,Boltz-2,0.0,86.0,977,58.50767656090072,58.50767656090072,High density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.9–60.0"
+24uh,Boltz-2,0.0,71.0,305,59.11147540983607,59.11147540983607,High density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.9–60.0"
+29mo,Boltz-2,0.0,73.0,317,56.70347003154574,56.70347003154574,High density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.9"
+9ymo,Boltz-2,1.0,91.0,1894,65.52639915522704,65.52639915522704,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.2–73.7"
+9i9e,Boltz-2,0.0,86.0,13,59.84615384615385,59.84615384615385,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.9–60.0"
+9rc9,Boltz-2,1.0,75.0,104,55.01923076923077,55.01923076923077,High density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.9"
+9tk2,Boltz-2,1.0,83.0,18,62.888888888888886,62.888888888888886,Low density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.2–73.7"
+9tku,Boltz-2,1.0,89.0,30,62.96666666666667,62.96666666666667,Low density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.2–73.7"
+9vcz,Boltz-2,0.8,73.0,21,59.714285714285715,59.714285714285715,Low density,Interaction,pli_qcov,50.0,80.0,Q4,"Q4
+56.9–60.0"
+9vbq,Boltz-2,0.0,46.0,0,,46.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9t43,Boltz-2,1.0,88.0,41,58.609756097560975,58.609756097560975,Low density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.9–60.0"
+9rfl,Boltz-2,0.4,90.0,62,60.16129032258065,60.16129032258065,High density,Interaction,pli_qcov,50.0,40.0,Q5,"Q5
+60.2–73.7"
+9p09,Boltz-2,0.0,0.0,0,,0.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9zo9,Boltz-2,1.0,78.0,1383,57.12219812002892,57.12219812002892,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.9–60.0"
+31wa,Boltz-2,0.8,73.0,446,57.34080717488789,57.34080717488789,High density,Interaction,pli_qcov,50.0,80.0,Q4,"Q4
+56.9–60.0"
+31wb,Boltz-2,0.6,78.0,912,58.834429824561404,58.834429824561404,High density,Interaction,pli_qcov,50.0,60.0,Q4,"Q4
+56.9–60.0"
+32pp,Boltz-2,0.0,82.0,267,63.258426966292134,63.258426966292134,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.2–73.7"
+35wf,Boltz-2,1.0,53.0,1,53.0,53.0,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+35wg,Boltz-2,1.0,53.0,6,53.0,53.0,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+31hp,Boltz-2,1.0,78.0,332,58.0210843373494,58.0210843373494,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.9–60.0"
+32ql,Boltz-2,0.0,14.0,0,,14.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+32qm,Boltz-2,0.0,18.0,0,,18.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9rzo,Boltz-2,0.0,100.0,17,55.94117647058823,55.94117647058823,Low density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.9"
+9rzp,Boltz-2,0.0,69.0,7,57.285714285714285,57.285714285714285,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.9–60.0"
+9vzg,Boltz-2,0.4,57.0,4,53.5,53.5,Low density,Interaction,pli_qcov,50.0,40.0,Q3,"Q3
+53.0–56.9"
+9hvs,Boltz-2,1.0,100.0,229,63.917030567685586,63.917030567685586,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.2–73.7"
+9hvt,Boltz-2,1.0,94.0,239,65.82426778242677,65.82426778242677,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.2–73.7"
+9tf9,Boltz-2,0.0,50.0,10,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9tfb,Boltz-2,0.0,54.0,5,54.0,54.0,Low density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.9"
+9y57,Boltz-2,1.0,56.0,61,50.295081967213115,50.295081967213115,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+9y5a,Boltz-2,1.0,55.0,19,50.26315789473684,50.26315789473684,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+9hm1,Boltz-2,1.0,89.0,640,58.81875,58.81875,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.9–60.0"
+9rqw,Boltz-2,1.0,75.0,23,52.65217391304348,52.65217391304348,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+9rqx,Boltz-2,1.0,75.0,23,52.65217391304348,52.65217391304348,Low density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+9ppl,Boltz-2,0.0,70.0,4,66.5,66.5,Low density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.2–73.7"
+24wc,Boltz-2,0.0,62.0,2,58.0,58.0,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.9–60.0"
+13lx,Boltz-2,0.8,100.0,2436,56.080049261083744,56.080049261083744,High density,Interaction,pli_qcov,50.0,80.0,Q3,"Q3
+53.0–56.9"
+9suv,Boltz-2,1.0,65.0,31,54.935483870967744,54.935483870967744,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.9"
+9vzs,Boltz-2,1.0,73.0,70,57.57142857142857,57.57142857142857,High density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.9–60.0"
+9vzt,Boltz-2,0.0,57.0,11,51.27272727272727,51.27272727272727,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–53.0"
+9zme,Boltz-2,1.0,88.0,80,64.25,64.25,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.2–73.7"
+9szn,Boltz-2,0.0,67.0,5,60.0,60.0,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.9–60.0"
+9zmg,Boltz-2,0.0,72.0,69,56.666666666666664,56.666666666666664,High density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.9"
+9o7r,Boltz-2,0.0,40.0,0,,40.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9ole,Boltz-2,1.0,75.0,10,55.5,55.5,Low density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.9"
+9orm,Boltz-2,0.2,11.0,0,,11.0,No neighbours,Interaction,pli_qcov,50.0,20.0,Q1,"Q1
+0.0–50.0"
+9uau,Boltz-2,0.8,53.0,2,53.0,53.0,Low density,Interaction,pli_qcov,50.0,80.0,Q3,"Q3
+53.0–56.9"
+9y8k,Boltz-2,0.0,50.0,2,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9ugf,Boltz-2,0.0,69.0,38,55.23684210526316,55.23684210526316,Low density,Interaction,pli_qcov,50.0,0.0,Q3,"Q3
+53.0–56.9"
+9y8l,Boltz-2,0.0,50.0,2,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9zxm,Boltz-2,0.0,33.0,0,,33.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9zxn,Boltz-2,0.0,42.0,0,,42.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9qdy,Boltz-2,0.0,60.0,1,60.0,60.0,Low density,Interaction,pli_qcov,50.0,0.0,Q4,"Q4
+56.9–60.0"
+9z1l,Boltz-2,0.0,70.0,328,51.3109756097561,51.3109756097561,High density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–53.0"
+10kz,Boltz-2,1.0,75.0,221,52.66968325791855,52.66968325791855,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+9q8d,Boltz-2,0.6,70.0,14,55.0,55.0,Low density,Interaction,pli_qcov,50.0,60.0,Q3,"Q3
+53.0–56.9"
+9z2s,Boltz-2,0.2,50.0,4,50.0,50.0,Low density,Interaction,pli_qcov,50.0,20.0,Q1,"Q1
+0.0–50.0"
+9r1c,Boltz-2,0.0,52.0,4,52.0,52.0,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–53.0"
+9n3l,Boltz-2,0.0,50.0,1,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9i9g,Boltz-2,0.0,10.0,0,,10.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9r6i,Boltz-2,0.0,50.0,5,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–53.0"
+9t08,Boltz-2,1.0,64.0,125,52.744,52.744,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+9t0d,Boltz-2,0.4,67.0,62,54.693548387096776,54.693548387096776,High density,Interaction,pli_qcov,50.0,40.0,Q3,"Q3
+53.0–56.9"
+9ngp,Boltz-2,1.0,80.0,768,61.822916666666664,61.822916666666664,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.2–73.7"
+8znn,Boltz-2,1.0,100.0,77,68.23376623376623,68.23376623376623,High density,Interaction,pli_qcov,50.0,100.0,Q5,"Q5
+60.2–73.7"
+9uzt,Boltz-2,0.2,60.0,53,53.301886792452834,53.301886792452834,Low density,Interaction,pli_qcov,50.0,20.0,Q3,"Q3
+53.0–56.9"
+9i3y,Boltz-2,0.0,50.0,1,50.0,50.0,Low density,Interaction,pli_qcov,50.0,0.0,Q2,"Q2
+50.0–53.0"
+9s1u,Boltz-2,0.0,73.0,104,61.83653846153846,61.83653846153846,High density,Interaction,pli_qcov,50.0,0.0,Q5,"Q5
+60.2–73.7"
+9si4,Boltz-2,1.0,82.0,32,58.9375,58.9375,Low density,Interaction,pli_qcov,50.0,100.0,Q4,"Q4
+56.9–60.0"
+9nwx,Boltz-2,1.0,80.0,905,53.52486187845304,53.52486187845304,High density,Interaction,pli_qcov,50.0,100.0,Q3,"Q3
+53.0–56.9"
+9htr,Boltz-2,0.0,38.0,0,,38.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9kly,Boltz-2,0.8,100.0,327,61.21406727828746,61.21406727828746,High density,Interaction,pli_qcov,50.0,80.0,Q5,"Q5
+60.2–73.7"
+9nd3,Boltz-2,1.0,75.0,157,52.254777070063696,52.254777070063696,High density,Interaction,pli_qcov,50.0,100.0,Q2,"Q2
+50.0–53.0"
+9x53,Boltz-2,0.0,42.0,0,,42.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9ogw,Boltz-2,0.0,0.0,0,,0.0,No neighbours,Interaction,pli_qcov,50.0,0.0,Q1,"Q1
+0.0–50.0"
+9rv0,Boltz-2,0.0,45.69989442284357,0,,45.69989442284357,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9tfa,Boltz-2,0.0,52.796279896533605,1,52.796279896533605,52.796279896533605,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9y56,Boltz-2,1.0,44.77738933557297,0,,44.77738933557297,No neighbours,Ligand pose,sucos_shape,50.0,100.0,Q1,"Q1
+29.3–48.7"
+10qv,Boltz-2,0.0,92.86527964231317,178,69.97897223413233,69.97897223413233,High density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.2–87.2"
+9rmf,Boltz-2,0.0,60.435462839728785,26,54.124884235982286,54.124884235982286,Low density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+52.9–55.2"
+9vo8,Boltz-2,0.0,63.24892150787693,142,54.11614463756694,54.11614463756694,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+52.9–55.2"
+9vq5,Boltz-2,0.0,29.297109085609947,0,,29.297109085609947,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+21ln,Boltz-2,0.0,67.85597532229475,37,57.789030880560624,57.789030880560624,Low density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.6"
+13lw,Boltz-2,1.0,66.48570827244235,1149,54.60243484423687,54.60243484423687,High density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+52.9–55.2"
+11ue,Boltz-2,1.0,59.89390953025148,57,53.07994305280876,53.07994305280876,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+52.9–55.2"
+11uc,Boltz-2,1.0,74.09583524088399,43,59.59326287105264,59.59326287105264,Low density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.6"
+11lj,Boltz-2,0.0,48.72332223202183,0,,48.72332223202183,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+10pj,Boltz-2,0.0,56.20156735924835,12,52.66224002958575,52.66224002958575,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+24uh,Boltz-2,0.0,75.41361964290626,829,58.72247572438474,58.72247572438474,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.6"
+29mo,Boltz-2,0.0,52.16341326728748,3,51.267929786580986,51.267929786580986,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9ymo,Boltz-2,1.0,98.16517557621216,2268,85.82892776423435,85.82892776423435,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9i9e,Boltz-2,0.0,65.85401037486214,17,52.86096594501841,52.86096594501841,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9rc9,Boltz-2,1.0,88.6851700162262,187,70.6879426875623,70.6879426875623,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9tk2,Boltz-2,1.0,82.33113190410215,22,66.12284968957012,66.12284968957012,Low density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9tku,Boltz-2,1.0,98.33310877832876,439,57.82095734930048,57.82095734930048,High density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.6"
+9vcz,Boltz-2,0.8,55.06430988900315,20,52.75050733686221,52.75050733686221,Low density,Ligand pose,sucos_shape,50.0,80.0,Q2,"Q2
+49.3–52.9"
+9vbq,Boltz-2,0.0,99.8730964467005,1187,55.170784815195255,55.170784815195255,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+52.9–55.2"
+9t43,Boltz-2,1.0,98.70490799319515,833,86.69875208392047,86.69875208392047,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9rfl,Boltz-2,0.4,67.71529324424648,43,55.510350401500226,55.510350401500226,Low density,Ligand pose,sucos_shape,50.0,40.0,Q4,"Q4
+55.3–59.6"
+9p09,Boltz-2,0.0,49.67703246729076,0,,49.67703246729076,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9zo9,Boltz-2,1.0,98.33278696215052,2268,87.19233815556545,87.19233815556545,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9hz3,Boltz-2,0.0,44.212155410862394,0,,44.212155410862394,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+31wa,Boltz-2,0.8,60.30991442676037,326,52.30775634684605,52.30775634684605,High density,Ligand pose,sucos_shape,50.0,80.0,Q2,"Q2
+49.3–52.9"
+31wb,Boltz-2,0.6,57.41428324019768,69,53.30890030476482,53.30890030476482,Low density,Ligand pose,sucos_shape,50.0,60.0,Q3,"Q3
+52.9–55.2"
+32pp,Boltz-2,0.0,66.06442427201074,204,54.445427466147066,54.445427466147066,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+52.9–55.2"
+35wf,Boltz-2,1.0,99.01423877327491,3517,58.4687482234513,58.4687482234513,High density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.6"
+35wg,Boltz-2,1.0,99.34055502098319,5011,56.7099308031754,56.7099308031754,High density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.6"
+9psq,Boltz-2,0.0,40.66508842052193,0,,40.66508842052193,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+31hp,Boltz-2,1.0,85.61327612323004,2114,55.92336955133423,55.92336955133423,High density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.6"
+32ql,Boltz-2,0.0,43.32682804726713,0,,43.32682804726713,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+32qm,Boltz-2,0.0,46.01223695504483,0,,46.01223695504483,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9rzo,Boltz-2,0.0,93.96155439180347,4801,57.547837221793834,57.547837221793834,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.6"
+9rzp,Boltz-2,0.0,93.11106231389546,4895,54.25063281337026,54.25063281337026,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+52.9–55.2"
+9vzg,Boltz-2,0.4,77.42138273210901,4,60.96400294704587,60.96400294704587,Low density,Ligand pose,sucos_shape,50.0,40.0,Q5,"Q5
+60.2–87.2"
+9hvs,Boltz-2,1.0,95.75690258600588,377,79.14032584143742,79.14032584143742,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9hvt,Boltz-2,1.0,93.81904892265884,357,76.2531913301062,76.2531913301062,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9tf9,Boltz-2,0.0,48.09782047938394,0,,48.09782047938394,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9tfb,Boltz-2,0.0,47.63648800708172,0,,47.63648800708172,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9y57,Boltz-2,1.0,44.97245188789258,0,,44.97245188789258,No neighbours,Ligand pose,sucos_shape,50.0,100.0,Q1,"Q1
+29.3–48.7"
+9y5a,Boltz-2,1.0,99.58440201245675,4917,56.67410493875687,56.67410493875687,High density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.6"
+9hm1,Boltz-2,1.0,67.6680405002876,411,53.25480675351949,53.25480675351949,High density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+52.9–55.2"
+9rqw,Boltz-2,1.0,75.10847196253067,266,52.094442139708,52.094442139708,High density,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–52.9"
+9rqx,Boltz-2,1.0,71.09620761040996,282,51.97685940732017,51.97685940732017,High density,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–52.9"
+9ppl,Boltz-2,0.0,92.37836111216251,8,71.62258213385401,71.62258213385401,Low density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.2–87.2"
+24wc,Boltz-2,0.0,78.5968643098329,859,60.16880033387978,60.16880033387978,High density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.2–87.2"
+13lx,Boltz-2,0.8,70.2606535390445,1029,55.8272470181708,55.8272470181708,High density,Ligand pose,sucos_shape,50.0,80.0,Q4,"Q4
+55.3–59.6"
+9suv,Boltz-2,1.0,49.275110399182395,0,,49.275110399182395,No neighbours,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–52.9"
+9vzs,Boltz-2,1.0,67.6816345086884,504,54.89822658094142,54.89822658094142,High density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+52.9–55.2"
+9vzt,Boltz-2,0.0,66.43234779602966,494,55.277115599552765,55.277115599552765,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.6"
+9zme,Boltz-2,1.0,51.92222230324557,8,51.1266169771048,51.1266169771048,Low density,Ligand pose,sucos_shape,50.0,100.0,Q2,"Q2
+49.3–52.9"
+9szn,Boltz-2,0.0,69.98955367681592,6,62.48877275628271,62.48877275628271,Low density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.2–87.2"
+9zmg,Boltz-2,0.0,64.67440975004506,37,56.79076246517853,56.79076246517853,Low density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.6"
+9o7r,Boltz-2,0.0,59.90322003208026,5,54.66975912124637,54.66975912124637,Low density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+52.9–55.2"
+9ole,Boltz-2,1.0,66.8246946163396,1,66.8246946163396,66.8246946163396,Low density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9orm,Boltz-2,0.2,72.6206054982215,75,55.32109313757491,55.32109313757491,Low density,Ligand pose,sucos_shape,50.0,20.0,Q4,"Q4
+55.3–59.6"
+9uau,Boltz-2,0.8,82.64619848538388,85,54.265228489072875,54.265228489072875,High density,Ligand pose,sucos_shape,50.0,80.0,Q3,"Q3
+52.9–55.2"
+9y8k,Boltz-2,0.0,54.39000649402084,11,51.28606119502783,51.28606119502783,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9ugf,Boltz-2,0.0,62.199398531796945,3,54.660102459900166,54.660102459900166,Low density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+52.9–55.2"
+9y8l,Boltz-2,0.0,52.24699603956828,8,51.01059716908523,51.01059716908523,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9zxm,Boltz-2,0.0,52.055443257883915,1,52.055443257883915,52.055443257883915,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9zxn,Boltz-2,0.0,49.31263673649831,0,,49.31263673649831,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9qdy,Boltz-2,0.0,52.75672981936985,2,52.69228885161098,52.69228885161098,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9z1l,Boltz-2,0.0,69.62084621874632,990,54.39613659464364,54.39613659464364,High density,Ligand pose,sucos_shape,50.0,0.0,Q3,"Q3
+52.9–55.2"
+10kz,Boltz-2,1.0,60.932702714342405,5,59.11514194495594,59.11514194495594,Low density,Ligand pose,sucos_shape,50.0,100.0,Q4,"Q4
+55.3–59.6"
+22mj,Boltz-2,0.0,42.19744323899317,0,,42.19744323899317,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9q8d,Boltz-2,0.6,62.95466323811074,29,54.23709069771827,54.23709069771827,Low density,Ligand pose,sucos_shape,50.0,60.0,Q3,"Q3
+52.9–55.2"
+9z2s,Boltz-2,0.2,99.40132495223637,3370,66.25054245852728,66.25054245852728,High density,Ligand pose,sucos_shape,50.0,20.0,Q5,"Q5
+60.2–87.2"
+9r1c,Boltz-2,0.0,95.6515904151664,862,62.73493031303205,62.73493031303205,High density,Ligand pose,sucos_shape,50.0,0.0,Q5,"Q5
+60.2–87.2"
+9n3l,Boltz-2,0.0,46.0036044655863,0,,46.0036044655863,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9i9g,Boltz-2,0.0,44.408952322208236,0,,44.408952322208236,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9r6i,Boltz-2,0.0,90.10278935772574,1768,55.44454891943002,55.44454891943002,High density,Ligand pose,sucos_shape,50.0,0.0,Q4,"Q4
+55.3–59.6"
+9t08,Boltz-2,1.0,72.67578078677103,13,60.89967373311903,60.89967373311903,Low density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9t0d,Boltz-2,0.4,62.08675872444884,8,55.87771951421062,55.87771951421062,Low density,Ligand pose,sucos_shape,50.0,40.0,Q4,"Q4
+55.3–59.6"
+9ngp,Boltz-2,1.0,56.989395480895524,5,52.93914560826897,52.93914560826897,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+52.9–55.2"
+8znn,Boltz-2,1.0,85.92321394317757,97,60.834691173733816,60.834691173733816,High density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9uzt,Boltz-2,0.2,56.97984174605091,7,52.81578420025911,52.81578420025911,Low density,Ligand pose,sucos_shape,50.0,20.0,Q2,"Q2
+49.3–52.9"
+9i3y,Boltz-2,0.0,55.85330218837876,14,52.63211437609311,52.63211437609311,Low density,Ligand pose,sucos_shape,50.0,0.0,Q2,"Q2
+49.3–52.9"
+9s1u,Boltz-2,0.0,44.8429958515372,0,,44.8429958515372,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9si4,Boltz-2,1.0,81.6012348894017,9,76.16566036448744,76.16566036448744,Low density,Ligand pose,sucos_shape,50.0,100.0,Q5,"Q5
+60.2–87.2"
+9nwx,Boltz-2,1.0,61.050084219338196,76,54.32295421122271,54.32295421122271,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+52.9–55.2"
+9htr,Boltz-2,0.0,36.69816063234493,0,,36.69816063234493,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9kly,Boltz-2,0.8,85.31716331689306,184,58.69348943463422,58.69348943463422,High density,Ligand pose,sucos_shape,50.0,80.0,Q4,"Q4
+55.3–59.6"
+9nd3,Boltz-2,1.0,72.05257845557833,48,54.17406307593786,54.17406307593786,Low density,Ligand pose,sucos_shape,50.0,100.0,Q3,"Q3
+52.9–55.2"
+9x53,Boltz-2,0.0,44.83761523275386,0,,44.83761523275386,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9ogw,Boltz-2,0.0,45.29354865559625,0,,45.29354865559625,No neighbours,Ligand pose,sucos_shape,50.0,0.0,Q1,"Q1
+29.3–48.7"
+9rv0,Boltz-2,0.0,18.75,0,,18.75,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9tfa,Boltz-2,0.0,31.76470588235294,0,,31.76470588235294,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9y56,Boltz-2,1.0,25.961538461538463,0,,25.961538461538463,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+10qv,Boltz-2,0.0,100.0,214,73.89339632330287,73.89339632330287,High density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+51.9–93.6"
+9rmf,Boltz-2,0.0,40.38461538461539,0,,40.38461538461539,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9vo8,Boltz-2,0.0,32.97872340425532,0,,32.97872340425532,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9vq5,Boltz-2,0.0,11.578947368421053,0,,11.578947368421053,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+21ln,Boltz-2,0.0,24.444444444444443,0,,24.444444444444443,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+13lw,Boltz-2,1.0,23.52941176470588,0,,23.52941176470588,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+11ue,Boltz-2,1.0,29.47368421052631,0,,29.47368421052631,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+11uc,Boltz-2,1.0,33.33333333333333,0,,33.33333333333333,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+11lj,Boltz-2,0.0,19.101123595505616,0,,19.101123595505616,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+10pj,Boltz-2,0.0,31.25,0,,31.25,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+24uh,Boltz-2,0.0,20.0,0,,20.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+29mo,Boltz-2,0.0,40.0,0,,40.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9ymo,Boltz-2,1.0,100.0,2317,93.09060221461426,93.09060221461426,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9i9e,Boltz-2,0.0,28.000000000000004,0,,28.000000000000004,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9rc9,Boltz-2,1.0,67.64705882352942,65,59.41753277629476,59.41753277629476,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9tk2,Boltz-2,1.0,30.303030303030305,0,,30.303030303030305,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+9tku,Boltz-2,1.0,37.83783783783784,0,,37.83783783783784,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9vcz,Boltz-2,0.8,76.92307692307693,2,76.92307692307693,76.92307692307693,Low density,Ligand chemistry,morgan_tanimoto,50.0,80.0,Q5,"Q5
+51.9–93.6"
+9vbq,Boltz-2,0.0,24.050632911392405,0,,24.050632911392405,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9t43,Boltz-2,1.0,100.0,658,64.53846374246773,64.53846374246773,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9rfl,Boltz-2,0.4,34.0,0,,34.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,40.0,Q3,"Q3
+27.7–34.3"
+9p09,Boltz-2,0.0,17.857142857142858,0,,17.857142857142858,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9zo9,Boltz-2,1.0,100.0,2319,93.05841067833374,93.05841067833374,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9hz3,Boltz-2,0.0,7.766990291262135,0,,7.766990291262135,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+31wa,Boltz-2,0.8,35.36585365853659,0,,35.36585365853659,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,80.0,Q4,"Q4
+35.4–50.0"
+31wb,Boltz-2,0.6,35.714285714285715,0,,35.714285714285715,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,60.0,Q4,"Q4
+35.4–50.0"
+32pp,Boltz-2,0.0,28.30188679245283,0,,28.30188679245283,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+35wf,Boltz-2,1.0,35.714285714285715,0,,35.714285714285715,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+35wg,Boltz-2,1.0,50.0,1,50.0,50.0,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9psq,Boltz-2,0.0,18.75,0,,18.75,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+31hp,Boltz-2,1.0,56.25,8,52.5625,52.5625,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+32ql,Boltz-2,0.0,10.434782608695652,0,,10.434782608695652,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+32qm,Boltz-2,0.0,11.458333333333332,0,,11.458333333333332,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9rzo,Boltz-2,0.0,100.0,67,93.60441020058623,93.60441020058623,High density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+51.9–93.6"
+9rzp,Boltz-2,0.0,53.333333333333336,8,53.333333333333336,53.333333333333336,Low density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+51.9–93.6"
+9vzg,Boltz-2,0.4,24.65753424657534,0,,24.65753424657534,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,40.0,Q2,"Q2
+20.0–27.6"
+9hvs,Boltz-2,1.0,100.0,222,66.92634412416933,66.92634412416933,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9hvt,Boltz-2,1.0,73.07692307692307,222,65.57357578742007,65.57357578742007,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9tf9,Boltz-2,0.0,25.333333333333336,0,,25.333333333333336,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9tfb,Boltz-2,0.0,31.521739130434785,0,,31.521739130434785,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9y57,Boltz-2,1.0,26.666666666666668,0,,26.666666666666668,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+9y5a,Boltz-2,1.0,50.0,1,50.0,50.0,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9hm1,Boltz-2,1.0,46.96969696969697,0,,46.96969696969697,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9rqw,Boltz-2,1.0,56.060606060606055,16,54.85043301519971,54.85043301519971,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9rqx,Boltz-2,1.0,52.112676056338024,12,51.93661971830986,51.93661971830986,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9ppl,Boltz-2,0.0,57.14285714285714,2,57.14285714285714,57.14285714285714,Low density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+51.9–93.6"
+24wc,Boltz-2,0.0,33.80281690140845,0,,33.80281690140845,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+13lx,Boltz-2,0.8,23.52941176470588,0,,23.52941176470588,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,80.0,Q2,"Q2
+20.0–27.6"
+9suv,Boltz-2,1.0,30.097087378640776,0,,30.097087378640776,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+9vzs,Boltz-2,1.0,70.83333333333334,27,68.74791458124793,68.74791458124793,High density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9vzt,Boltz-2,0.0,85.0,23,85.0,85.0,High density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+51.9–93.6"
+9zme,Boltz-2,1.0,33.33333333333333,0,,33.33333333333333,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+9szn,Boltz-2,0.0,34.31372549019608,0,,34.31372549019608,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+9zmg,Boltz-2,0.0,27.55102040816326,0,,27.55102040816326,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9o7r,Boltz-2,0.0,20.77922077922078,0,,20.77922077922078,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9ole,Boltz-2,1.0,42.22222222222222,0,,42.22222222222222,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9orm,Boltz-2,0.2,24.719101123595504,0,,24.719101123595504,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,20.0,Q2,"Q2
+20.0–27.6"
+9uau,Boltz-2,0.8,44.18604651162791,0,,44.18604651162791,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,80.0,Q4,"Q4
+35.4–50.0"
+9y8k,Boltz-2,0.0,21.428571428571427,0,,21.428571428571427,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9ugf,Boltz-2,0.0,38.775510204081634,0,,38.775510204081634,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9y8l,Boltz-2,0.0,23.376623376623375,0,,23.376623376623375,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9zxm,Boltz-2,0.0,20.0,0,,20.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9zxn,Boltz-2,0.0,19.230769230769234,0,,19.230769230769234,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9qdy,Boltz-2,0.0,16.176470588235293,0,,16.176470588235293,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9z1l,Boltz-2,0.0,33.33333333333333,0,,33.33333333333333,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q3,"Q3
+27.7–34.3"
+10kz,Boltz-2,1.0,25.842696629213485,0,,25.842696629213485,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+22mj,Boltz-2,0.0,8.108108108108109,0,,8.108108108108109,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9q8d,Boltz-2,0.6,32.18390804597701,0,,32.18390804597701,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,60.0,Q3,"Q3
+27.7–34.3"
+9z2s,Boltz-2,0.2,39.130434782608695,0,,39.130434782608695,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,20.0,Q4,"Q4
+35.4–50.0"
+9r1c,Boltz-2,0.0,61.29032258064516,6,59.77092099111735,59.77092099111735,Low density,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q5,"Q5
+51.9–93.6"
+9n3l,Boltz-2,0.0,16.483516483516482,0,,16.483516483516482,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9i9g,Boltz-2,0.0,9.090909090909092,0,,9.090909090909092,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9r6i,Boltz-2,0.0,39.682539682539684,0,,39.682539682539684,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q4,"Q4
+35.4–50.0"
+9t08,Boltz-2,1.0,47.474747474747474,0,,47.474747474747474,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9t0d,Boltz-2,0.4,34.234234234234236,0,,34.234234234234236,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,40.0,Q3,"Q3
+27.7–34.3"
+9ngp,Boltz-2,1.0,27.102803738317753,0,,27.102803738317753,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q2,"Q2
+20.0–27.6"
+8znn,Boltz-2,1.0,49.333333333333336,0,,49.333333333333336,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9uzt,Boltz-2,0.2,15.909090909090908,0,,15.909090909090908,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,20.0,Q1,"Q1
+7.8–20.0"
+9i3y,Boltz-2,0.0,26.96629213483146,0,,26.96629213483146,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9s1u,Boltz-2,0.0,20.0,0,,20.0,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q2,"Q2
+20.0–27.6"
+9si4,Boltz-2,1.0,43.47826086956522,0,,43.47826086956522,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q4,"Q4
+35.4–50.0"
+9nwx,Boltz-2,1.0,27.722772277227726,0,,27.722772277227726,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q3,"Q3
+27.7–34.3"
+9htr,Boltz-2,0.0,9.022556390977442,0,,9.022556390977442,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9kly,Boltz-2,0.8,42.3728813559322,0,,42.3728813559322,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,80.0,Q4,"Q4
+35.4–50.0"
+9nd3,Boltz-2,1.0,61.76470588235294,3,61.76470588235295,61.76470588235295,Low density,Ligand chemistry,morgan_tanimoto,50.0,100.0,Q5,"Q5
+51.9–93.6"
+9x53,Boltz-2,0.0,14.285714285714285,0,,14.285714285714285,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"
+9ogw,Boltz-2,0.0,12.941176470588237,0,,12.941176470588237,No neighbours,Ligand chemistry,morgan_tanimoto,50.0,0.0,Q1,"Q1
+7.8–20.0"

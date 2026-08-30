@@ -1,0 +1,121 @@
+model,metric,similarity_quantile,density_group,mean_success_percent,n_queries
+Boltz-1,Interaction,Q1,Low density,20.0,5
+Boltz-1,Interaction,Q1,No neighbours,20.0,13
+Boltz-1,Interaction,Q2,High density,82.85714285714285,7
+Boltz-1,Interaction,Q2,Low density,46.0,10
+Boltz-1,Interaction,Q3,High density,36.0,5
+Boltz-1,Interaction,Q3,Low density,71.66666666666667,12
+Boltz-1,Interaction,Q4,High density,43.63636363636363,11
+Boltz-1,Interaction,Q4,Low density,33.33333333333333,6
+Boltz-1,Interaction,Q5,High density,47.69230769230769,13
+Boltz-1,Interaction,Q5,Low density,0.0,4
+Boltz-1,Ligand chemistry,Q1,No neighbours,5.555555555555555,18
+Boltz-1,Ligand chemistry,Q2,No neighbours,35.55555555555556,18
+Boltz-1,Ligand chemistry,Q3,No neighbours,44.44444444444444,18
+Boltz-1,Ligand chemistry,Q4,Low density,100.0,1
+Boltz-1,Ligand chemistry,Q4,No neighbours,62.35294117647059,17
+Boltz-1,Ligand chemistry,Q5,High density,64.44444444444444,9
+Boltz-1,Ligand chemistry,Q5,Low density,51.11111111111111,9
+Boltz-1,Ligand pose,Q1,No neighbours,16.666666666666664,18
+Boltz-1,Ligand pose,Q2,High density,100.0,3
+Boltz-1,Ligand pose,Q2,Low density,16.666666666666664,12
+Boltz-1,Ligand pose,Q2,No neighbours,33.33333333333333,3
+Boltz-1,Ligand pose,Q3,High density,44.44444444444444,9
+Boltz-1,Ligand pose,Q3,Low density,73.33333333333333,9
+Boltz-1,Ligand pose,Q4,High density,43.63636363636363,11
+Boltz-1,Ligand pose,Q4,Low density,57.14285714285714,7
+Boltz-1,Ligand pose,Q5,High density,65.45454545454545,11
+Boltz-1,Ligand pose,Q5,Low density,25.71428571428572,7
+Boltz-1,Pocket,Q1,High density,50.0,4
+Boltz-1,Pocket,Q1,Low density,32.0,5
+Boltz-1,Pocket,Q1,No neighbours,11.11111111111111,9
+Boltz-1,Pocket,Q2,High density,63.33333333333333,12
+Boltz-1,Pocket,Q2,Low density,60.0,5
+Boltz-1,Pocket,Q3,High density,71.42857142857143,7
+Boltz-1,Pocket,Q3,Low density,20.0,10
+Boltz-1,Pocket,Q4,High density,71.11111111111111,9
+Boltz-1,Pocket,Q4,Low density,45.0,8
+Boltz-1,Pocket,Q5,High density,31.428571428571434,7
+Boltz-1,Pocket,Q5,Low density,27.27272727272727,11
+Boltz-1,Protein sequence,Q1,High density,62.5,8
+Boltz-1,Protein sequence,Q1,Low density,0.0,1
+Boltz-1,Protein sequence,Q1,No neighbours,6.666666666666667,9
+Boltz-1,Protein sequence,Q2,High density,55.99999999999999,10
+Boltz-1,Protein sequence,Q2,Low density,37.5,8
+Boltz-1,Protein sequence,Q3,High density,34.54545454545455,11
+Boltz-1,Protein sequence,Q3,Low density,51.42857142857142,7
+Boltz-1,Protein sequence,Q4,High density,80.0,5
+Boltz-1,Protein sequence,Q4,Low density,46.15384615384615,13
+Boltz-1,Protein sequence,Q5,High density,20.0,5
+Boltz-1,Protein sequence,Q5,Low density,36.92307692307692,13
+Boltz-1,Protein structure,Q1,High density,75.0,8
+Boltz-1,Protein structure,Q1,Low density,60.0,3
+Boltz-1,Protein structure,Q1,No neighbours,8.571428571428571,7
+Boltz-1,Protein structure,Q2,High density,52.307692307692314,13
+Boltz-1,Protein structure,Q2,Low density,20.0,5
+Boltz-1,Protein structure,Q3,High density,60.0,12
+Boltz-1,Protein structure,Q3,Low density,30.0,6
+Boltz-1,Protein structure,Q4,High density,66.66666666666666,6
+Boltz-1,Protein structure,Q4,Low density,0.0,12
+Boltz-1,Protein structure,Q5,High density,60.0,2
+Boltz-1,Protein structure,Q5,Low density,43.75,16
+Boltz-2,Interaction,Q1,Low density,3.3333333333333335,6
+Boltz-2,Interaction,Q1,No neighbours,1.6666666666666667,12
+Boltz-2,Interaction,Q2,High density,75.0,8
+Boltz-2,Interaction,Q2,Low density,55.55555555555556,9
+Boltz-2,Interaction,Q3,High density,59.999999999999986,7
+Boltz-2,Interaction,Q3,Low density,40.0,10
+Boltz-2,Interaction,Q4,High density,71.11111111111111,9
+Boltz-2,Interaction,Q4,Low density,35.0,8
+Boltz-2,Interaction,Q5,High density,55.38461538461539,13
+Boltz-2,Interaction,Q5,Low density,50.0,4
+Boltz-2,Ligand chemistry,Q1,No neighbours,1.1111111111111112,18
+Boltz-2,Ligand chemistry,Q2,No neighbours,35.55555555555556,18
+Boltz-2,Ligand chemistry,Q3,No neighbours,41.111111111111114,18
+Boltz-2,Ligand chemistry,Q4,Low density,100.0,2
+Boltz-2,Ligand chemistry,Q4,No neighbours,63.74999999999999,16
+Boltz-2,Ligand chemistry,Q5,High density,70.0,10
+Boltz-2,Ligand chemistry,Q5,Low density,60.0,8
+Boltz-2,Ligand pose,Q1,No neighbours,11.11111111111111,18
+Boltz-2,Ligand pose,Q2,High density,93.33333333333333,3
+Boltz-2,Ligand pose,Q2,Low density,16.666666666666664,12
+Boltz-2,Ligand pose,Q2,No neighbours,33.33333333333333,3
+Boltz-2,Ligand pose,Q3,High density,42.22222222222222,9
+Boltz-2,Ligand pose,Q3,Low density,57.777777777777786,9
+Boltz-2,Ligand pose,Q4,High density,60.0,11
+Boltz-2,Ligand pose,Q4,Low density,42.85714285714285,7
+Boltz-2,Ligand pose,Q5,High density,65.45454545454545,11
+Boltz-2,Ligand pose,Q5,Low density,62.85714285714287,7
+Boltz-2,Pocket,Q1,High density,30.0,4
+Boltz-2,Pocket,Q1,Low density,23.333333333333332,6
+Boltz-2,Pocket,Q1,No neighbours,2.5,8
+Boltz-2,Pocket,Q2,High density,60.0,11
+Boltz-2,Pocket,Q2,Low density,50.0,6
+Boltz-2,Pocket,Q3,High density,71.42857142857143,7
+Boltz-2,Pocket,Q3,Low density,27.999999999999996,10
+Boltz-2,Pocket,Q4,High density,54.0,10
+Boltz-2,Pocket,Q4,Low density,45.714285714285715,7
+Boltz-2,Pocket,Q5,High density,60.0,7
+Boltz-2,Pocket,Q5,Low density,45.45454545454545,11
+Boltz-2,Protein sequence,Q1,High density,27.500000000000004,8
+Boltz-2,Protein sequence,Q1,Low density,0.0,1
+Boltz-2,Protein sequence,Q1,No neighbours,0.0,9
+Boltz-2,Protein sequence,Q2,High density,74.0,10
+Boltz-2,Protein sequence,Q2,Low density,27.500000000000004,8
+Boltz-2,Protein sequence,Q3,High density,50.90909090909091,11
+Boltz-2,Protein sequence,Q3,Low density,54.285714285714285,7
+Boltz-2,Protein sequence,Q4,High density,75.0,4
+Boltz-2,Protein sequence,Q4,Low density,55.714285714285715,14
+Boltz-2,Protein sequence,Q5,High density,50.0,6
+Boltz-2,Protein sequence,Q5,Low density,25.0,12
+Boltz-2,Protein structure,Q1,High density,46.666666666666664,9
+Boltz-2,Protein structure,Q1,Low density,90.0,2
+Boltz-2,Protein structure,Q1,No neighbours,0.0,7
+Boltz-2,Protein structure,Q2,High density,66.66666666666666,12
+Boltz-2,Protein structure,Q2,Low density,26.666666666666668,6
+Boltz-2,Protein structure,Q3,High density,74.0,10
+Boltz-2,Protein structure,Q3,Low density,40.0,8
+Boltz-2,Protein structure,Q4,High density,72.5,8
+Boltz-2,Protein structure,Q4,Low density,4.0,10
+Boltz-2,Protein structure,Q5,High density,0.0,2
+Boltz-2,Protein structure,Q5,Low density,35.0,16
