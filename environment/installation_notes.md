@@ -13,3 +13,4 @@ and similarity analysis.
 conda create -n boltz-inference python=3.11
 conda activate boltz-inference
 python -m pip install "boltz==2.2.1"
+```
