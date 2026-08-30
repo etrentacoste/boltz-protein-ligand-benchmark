@@ -1,0 +1,99 @@
+{
+  "query": {
+    "type": "group",
+    "logical_operator": "and",
+    "nodes": [
+      {
+        "type": "terminal",
+        "service": "text",
+        "parameters": {
+          "attribute": "rcsb_accession_info.initial_release_date",
+          "operator": "range",
+          "negation": false,
+          "value": {
+            "from": "2025-01-10",
+            "to": "2026-08-06",
+            "include_lower": true,
+            "include_upper": true
+          }
+        }
+      },
+      {
+        "type": "terminal",
+        "service": "text",
+        "parameters": {
+          "attribute": "exptl.method",
+          "operator": "exact_match",
+          "negation": false,
+          "value": "X-RAY DIFFRACTION"
+        }
+      },
+      {
+        "type": "terminal",
+        "service": "text",
+        "parameters": {
+          "attribute": "rcsb_entry_info.resolution_combined",
+          "operator": "less_or_equal",
+          "negation": false,
+          "value": 2.5
+        }
+      },
+      {
+        "type": "terminal",
+        "service": "text",
+        "parameters": {
+          "attribute": "rcsb_entry_info.polymer_entity_count_protein",
+          "operator": "greater_or_equal",
+          "negation": false,
+          "value": 1
+        }
+      },
+      {
+        "type": "terminal",
+        "service": "text",
+        "parameters": {
+          "attribute": "rcsb_entry_info.nonpolymer_entity_count",
+          "operator": "greater_or_equal",
+          "negation": false,
+          "value": 1
+        }
+      },
+      {
+        "type": "terminal",
+        "service": "text",
+        "parameters": {
+          "attribute": "rcsb_entity_source_organism.ncbi_scientific_name",
+          "operator": "exact_match",
+          "negation": false,
+          "value": "Homo sapiens"
+        }
+      },
+      {
+        "type": "terminal",
+        "service": "text",
+        "parameters": {
+          "attribute": "entity_poly.rcsb_entity_polymer_type",
+          "operator": "exact_match",
+          "negation": false,
+          "value": "Protein"
+        }
+      }
+    ]
+  },
+  "return_type": "entry",
+  "request_options": {
+    "paginate": {
+      "start": 0,
+      "rows": 10000
+    },
+    "results_content_type": [
+      "experimental"
+    ],
+    "sort": [
+      {
+        "sort_by": "rcsb_accession_info.initial_release_date",
+        "direction": "desc"
+      }
+    ]
+  }
+}
