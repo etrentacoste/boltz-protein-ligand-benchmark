@@ -169,3 +169,4 @@ notebooks/    PLINDER similarity preparation and analysis notebooks
 results/      Boltz-1 and Boltz-2 benchmark summary tables
 scripts/      Inference, evaluation, and benchmark-processing scripts
 similarity/   Processed PLINDER similarity, threshold, and density tables
+environment/  Software versions and installation notes
