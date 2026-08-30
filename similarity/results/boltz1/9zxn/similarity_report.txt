@@ -1,0 +1,52 @@
+PDB ID: 9ZXN
+Training systems: 167,997
+
+Protein sequence
+Threshold: informative only
+Systems calculated: 2,066 (1.230%)
+Minimum: 7.00%
+Median: 10.00%
+Maximum: 97.00%
+
+Protein structure
+Threshold: informative only
+Systems calculated: 2,066 (1.230%)
+Minimum: 19.00%
+Median: 26.00%
+Maximum: 94.00%
+
+Pocket coverage
+Threshold: 70%
+Systems calculated: 156 (0.093% of training systems)
+Minimum calculated: 3.00%
+Median calculated: 6.00%
+Maximum calculated: 48.00%
+Systems above threshold: 0 (0.000% of calculated systems; 0.000% of training systems)
+Passing-system statistics: no systems passed the threshold
+
+Protein-ligand interaction coverage
+Threshold: 50%
+Systems calculated: 55 (0.033% of training systems)
+Minimum calculated: 0.00%
+Median calculated: 17.00%
+Maximum calculated: 42.00%
+Systems above threshold: 0 (0.000% of calculated systems; 0.000% of training systems)
+Passing-system statistics: no systems passed the threshold
+
+Ligand pose (SuCOS shape)
+Threshold: 50%
+Systems calculated: 2,088 (1.243% of training systems)
+Minimum calculated: 0.00%
+Median calculated: 25.94%
+Maximum calculated: 49.31%
+Systems above threshold: 0 (0.000% of calculated systems; 0.000% of training systems)
+Passing-system statistics: no systems passed the threshold
+
+Ligand chemistry (Morgan Tanimoto)
+Threshold: 50%
+Systems calculated: 2,095 (1.247% of training systems)
+Minimum calculated: 1.18%
+Median calculated: 7.89%
+Maximum calculated: 19.23%
+Systems above threshold: 0 (0.000% of calculated systems; 0.000% of training systems)
+Passing-system statistics: no systems passed the threshold

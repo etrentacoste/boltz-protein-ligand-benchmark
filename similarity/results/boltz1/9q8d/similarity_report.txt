@@ -1,0 +1,58 @@
+PDB ID: 9Q8D
+Training systems: 167,997
+
+Protein sequence
+Threshold: informative only
+Systems calculated: 5,303 (3.157%)
+Minimum: 10.00%
+Median: 15.00%
+Maximum: 100.00%
+
+Protein structure
+Threshold: informative only
+Systems calculated: 5,303 (3.157%)
+Minimum: 30.00%
+Median: 41.00%
+Maximum: 97.00%
+
+Pocket coverage
+Threshold: 70%
+Systems calculated: 1,686 (1.004% of training systems)
+Minimum calculated: 3.00%
+Median calculated: 24.00%
+Maximum calculated: 97.00%
+Systems above threshold: 11 (0.652% of calculated systems; 0.007% of training systems)
+Minimum among passing systems: 79.00%
+Median among passing systems: 91.00%
+Maximum among passing systems: 97.00%
+
+Protein-ligand interaction coverage
+Threshold: 50%
+Systems calculated: 915 (0.545% of training systems)
+Minimum calculated: 0.00%
+Median calculated: 20.00%
+Maximum calculated: 70.00%
+Systems above threshold: 14 (1.530% of calculated systems; 0.008% of training systems)
+Minimum among passing systems: 50.00%
+Median among passing systems: 50.00%
+Maximum among passing systems: 70.00%
+
+Ligand pose (SuCOS shape)
+Threshold: 50%
+Systems calculated: 5,304 (3.157% of training systems)
+Minimum calculated: 0.00%
+Median calculated: 28.21%
+Maximum calculated: 62.95%
+Systems above threshold: 19 (0.358% of calculated systems; 0.011% of training systems)
+Minimum among passing systems: 50.37%
+Median among passing systems: 54.49%
+Maximum among passing systems: 62.95%
+
+Ligand chemistry (Morgan Tanimoto)
+Threshold: 50%
+Systems calculated: 5,304 (3.157% of training systems)
+Minimum calculated: 0.00%
+Median calculated: 8.75%
+Maximum calculated: 32.18%
+Systems above threshold: 0 (0.000% of calculated systems; 0.000% of training systems)
+Passing-system statistics: no systems passed the threshold

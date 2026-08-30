@@ -1,0 +1,7 @@
+pdb_id,metric,metric_column,threshold,training_systems,systems_calculated,percent_training_calculated,minimum_calculated,median_calculated,maximum_calculated,systems_above_threshold,percent_calculated_above_threshold,percent_training_above_threshold,minimum_passing,median_passing,maximum_passing
+9zme,Protein sequence,protein_fident_max,,167997,159,0.09464454722405757,15.0,38.0,100.0,,,,,,
+9zme,Protein structure,protein_lddt_max,,167997,159,0.09464454722405757,36.0,75.0,98.0,,,,,,
+9zme,Pocket coverage,pocket_qcov,70.0,167997,136,0.0809538265564266,5.0,73.0,100.0,78.0,57.35294117647059,0.04642940052500937,73.0,82.0,100.0
+9zme,Protein-ligand interaction coverage,pli_qcov,50.0,167997,113,0.06726310588879564,0.0,62.0,88.0,77.0,68.14159292035399,0.045834151800329764,50.0,62.0,88.0
+9zme,Ligand pose (SuCOS shape),sucos_shape,50.0,167997,161,0.09583504467341679,26.62792276422841,39.292984451871604,51.92222230324557,7.0,4.3478260869565215,0.0041667410727572515,50.673062906461766,50.808784730362724,51.92222230324557
+9zme,Ligand chemistry (Morgan Tanimoto),morgan_tanimoto,50.0,167997,161,0.09583504467341679,3.508771929824561,12.5,33.33333333333333,0.0,0.0,0.0,,,
