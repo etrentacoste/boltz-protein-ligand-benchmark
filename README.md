@@ -163,12 +163,9 @@ under `scripts/similarity/` and `notebooks/`.
 ## Repository structure
 
 ```text
-benchmark/     Benchmark composition and selection tables
-configs/       Curated system configurations
-inputs/        Boltz-1 and Boltz-2 YAML inputs
-scripts/       Selection, preparation, inference and evaluation code
-results/       Processed pose-level and model-level results
-notebooks/     Final analysis notebooks
-figures/       Figures used in the report
-environments/  Software environment specifications
-docs/          Extended methodological documentation
+benchmark/    Benchmark composition and system metadata
+inputs/       Example Boltz-1 and Boltz-2 input files
+notebooks/    PLINDER similarity preparation and analysis notebooks
+results/      Boltz-1 and Boltz-2 benchmark summary tables
+scripts/      Inference, evaluation, and benchmark-processing scripts
+similarity/   Processed PLINDER similarity, threshold, and density tables
