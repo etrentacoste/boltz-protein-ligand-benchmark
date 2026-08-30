@@ -1,19 +1,32 @@
-# Benchmark composition
+# Benchmark dataset
 
-This directory contains the composition and selection metadata of the
-100-complex protein–ligand benchmark.
+This directory contains the final 100-complex protein–ligand benchmark and the
+intermediate tables generated during benchmark construction.
 
-Available files include:
+## Final benchmark
 
-- `benchmark_100_systems.csv`: one row per benchmark complex;
-- `benchmark_selection_summary.csv`: summary of the filtering stages;
-- `benchmark_exclusions.csv`: excluded or manually reviewed candidates and
-  their exclusion reasons;
-- `benchmark_batches.csv`: assignment of the 100 systems to simulation
-  batches.
+`benchmark_100_systems.csv` contains the 100 experimentally determined
+protein–ligand complexes evaluated with Boltz-1 and Boltz-2.
 
-The benchmark combines 30 initially curated systems and 70 systems obtained
-from the expanded automated selection workflow.
+The benchmark combines:
 
-Experimental structures are identified using RCSB PDB accession codes.
-Original RCSB coordinate files are not redistributed in this directory.
+- 30 manually curated pilot systems;
+- 70 systems obtained using the automated RCSB selection pipeline.
+
+## Selection workflow
+
+The complete selection history, intermediate classification tables and detailed
+selection criteria are provided in [`selection/`](selection/).
+
+The workflow included:
+
+1. RCSB candidate retrieval;
+2. metadata-based screening;
+3. target-redundancy control;
+4. coordinate-level inspection;
+5. ligand validation assessment;
+6. manual review of ambiguous systems;
+7. construction of the final benchmark.
+
+For the exact filtering criteria and counts remaining after each stage, see
+[`selection/README.md`](selection/README.md).
