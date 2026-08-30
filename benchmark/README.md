@@ -3,7 +3,7 @@
 This directory contains the composition and selection metadata of the
 100-complex protein–ligand benchmark.
 
-Planned files include:
+Available files include:
 
 - `benchmark_100_systems.csv`: one row per benchmark complex;
 - `benchmark_selection_summary.csv`: summary of the filtering stages;
