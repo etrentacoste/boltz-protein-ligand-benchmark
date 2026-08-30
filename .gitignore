@@ -29,7 +29,6 @@ checkpoints/
 # Large Boltz outputs
 **/boltz_results_*/
 **/predictions/
-**/processed/
 **/msa/
 **/msa_cache/
 **/tmp/
