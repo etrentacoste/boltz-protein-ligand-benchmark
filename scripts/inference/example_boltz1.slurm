@@ -1,0 +1,39 @@
+#!/bin/bash
+#SBATCH --job-name=prod_b1_31WA
+#SBATCH --partition=batch
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=8
+#SBATCH --mem=48G
+#SBATCH --time=04:00:00
+#SBATCH --chdir=/home/et3n25/boltz_benchmark
+#SBATCH --output=/home/et3n25/boltz_benchmark/logs/production/b1_31WA_%j.out
+#SBATCH --error=/home/et3n25/boltz_benchmark/logs/production/b1_31WA_%j.err
+
+set -euo pipefail
+
+module purge
+module load conda/python3
+eval "$(conda shell.bash hook)"
+conda activate /home/et3n25/envs/boltz2-conda
+
+echo "Node: $(hostname)"
+echo "Start: $(date)"
+echo "Job ID: $SLURM_JOB_ID"
+which python
+which boltz
+python --version
+
+boltz predict /home/et3n25/boltz_benchmark/inputs/boltz1/31WA.yaml \
+    --model boltz1 \
+    --accelerator cpu \
+    --devices 1 \
+    --recycling_steps 3 \
+    --sampling_steps 200 \
+    --diffusion_samples 5 \
+    --max_parallel_samples 1 \
+    --seed 12345 \
+    --override \
+    --out_dir /home/et3n25/boltz_benchmark/results/production/boltz1/31WA
+
+echo "Finish: $(date)"
