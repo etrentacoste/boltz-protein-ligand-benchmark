@@ -11,3 +11,4 @@ inference/       Boltz-1 and Boltz-2 execution and Slurm submission
 evaluation/      OpenStructure evaluation and success classification
 similarity/      PLINDER similarity and training-set-density analysis
 visualization/   PyMOL figures and statistical visualisations
+```
