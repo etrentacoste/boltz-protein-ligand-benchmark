@@ -3,7 +3,7 @@
 This directory contains processed outputs from the Boltz-1 and Boltz-2
 benchmark.
 
-Planned files include:
+Available files include:
 
 - `benchmark_100_model_summary.csv`: one row per model and complex;
 - `benchmark_100_pose_results.csv`: one row per predicted pose;
