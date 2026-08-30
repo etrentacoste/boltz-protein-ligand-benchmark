@@ -85,6 +85,11 @@ computing cluster at the University of Southampton.
 Example inference scripts and input YAML files are provided under
 `scripts/inference/` and `inputs/`.
 
+Representative production commands are available in
+[`scripts/inference/`](scripts/inference/), with example input YAML files
+provided under [`inputs/boltz1/`](inputs/boltz1/) and
+[`inputs/boltz2/`](inputs/boltz2/).
+
 ## Structural evaluation
 
 Predicted complexes were evaluated against their experimentally
