@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Boltz protein–ligand benchmark: prediction, structural evaluation and training-set similarity analysis"
+type: software
+authors:
+  - family-names: "Trentacoste"
+    given-names: "Emilia"
+repository-code: "https://github.com/etrentacoste/boltz-protein-ligand-benchmark"
+url: "https://github.com/etrentacoste/boltz-protein-ligand-benchmark"
+license: MIT
+version: 0.1.0
+date-released: 2026-08-30
+keywords:
+  - Boltz-1
+  - Boltz-2
+  - protein-ligand complex prediction
+  - structural bioinformatics
+  - ligand RMSD
+  - lDDT-PLI
+  - PLINDER
+  - training-set similarity
+  - molecular cofolding
+abstract: >
+  Code, configurations and processed results used to construct and analyse
+  a 100-complex benchmark for protein-ligand structure prediction with
+  Boltz-1 and Boltz-2. The repository includes structural evaluation using
+  ligand RMSD and lDDT-PLI and PLINDER-based analyses of protein, pocket,
+  interaction and ligand similarity to training-set systems.
