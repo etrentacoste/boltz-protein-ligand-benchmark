@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9RZP",
+  "system": "Recombinant human butyrylcholinesterase in complex with 2-(3-(1H-indol-3-yl)propyl)-1,2,3,4-tetrahydroisoquinoline",
+  "resolution_angstrom": 2.39,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "EDDIIIATKNGKVRGMQLTVFGGTVTAFLGIPYAQPPLGRLRFKKPQSLTKWSDIWNATKYANSCCQNIDQSFPGFHGSEMWNPNTDLSEDCLYLNVWIPAPKPKNATVLIWIYGGGFQTGTSSLHVYDGKFLARVERVIVVSMNYRVGALGFLALPGNPEAPGNMGLFDQQLALQWVQKNIAAFGGNPKSVTLFGESAGAASVSLHLLSPGSHSLFTRAILQSGSFNAPWAVTSLYEARNRTLNLAKLTGCSRENETEIIKCLRNKDPQEILLNEAFVVPYGTPLSVNFGPTVDGDFLTDMPDILLELGQFKKTQILVGVNKDEGTAFLVYGAPGFSKDNNSIITRKEFQEGLKIFFPGVSEFGKESILFHYTDWVDDQRPENYREALGDVVGDYNFICPALEFTKKFSEWGNNAFFYYFEHRSSKLPWPEWMGVMHGYEIEFVFGLPLERRDQYTKAEEILSRSIVKRWANFAKYGNPQETQNQSTSWPVFKSTEQKYLTLNTESTRIMTKLRAQQCRFWTSFFPKVA",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/2be5c6af85d276eb.csv",
+      "sequence_hash": "2be5c6af85d276eb",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JJ9",
+      "smiles": "c1ccc2c(c1)CCN(C2)CCCc3c[nH]c4c3cccc4",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JJ9",
+    "ligand_author_chain": "A",
+    "ligand_residue": "603",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2541,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.921,
+    "ligand_rsr": 0.149,
+    "contact_residue_count": 21,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "c1ccc2c(c1)CCN(CCCc1c[nH]c3ccccc13)C2",
+    "heavy_atoms": 22
+  },
+  "status": "automatically_prepared"
+}

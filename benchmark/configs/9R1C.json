@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9R1C",
+  "system": "Keap1 - inhibitor complex - 1",
+  "resolution_angstrom": 1.69,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MAMGSSHHHHHHHHSSGLVPRGSHMASMSDSEVNQEAKPEVKPEVKPETHINLKVSDGSSEIFFKIKKTTPLRRLMEAFAKRQGKEMDSLRFLYDGIRIQADQTPEDLDMEDNDIIEAHREQIGGAPKVGRLIYTAGGYFRQSLSYLEAYNPSDGTWLRLADLQVPRSGLAGCVVGGLLYAVGGRNNSPDGNTDSSALDCYNPMTNQWSPCAPMSVPRNRIGVGVIDGHIYAVGGSHGCIHHNSVERYEPERDEWHLVAPMLTRRIGVGVAVLNRLLYAVGGFDGTNRLNSAECYYPERNEWRMITAMNTIRSGAGVCVLHNCIYAAGGYDGQDQLNSVERYDVETETWTFVAPMKHRRSALGITVHQGRIYVLGGYDGHTFLDSVECYDPDTDTWSEVTRMTSGRSGVGVAVT",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/22b86a689e956456.csv",
+      "sequence_hash": "22b86a689e956456",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JB1",
+      "smiles": "COc1ccc(cc1)S(=O)(=O)N(Cc2[nH]nnn2)c3ccc(c4c3cccc4)N(CC(=O)O)S(=O)(=O)c5ccc(cc5)OC",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JB1",
+    "ligand_author_chain": "A",
+    "ligand_residue": "703",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2017,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.965,
+    "ligand_rsr": 0.075,
+    "contact_residue_count": 20,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "COc1ccc(S(=O)(=O)N(CC(=O)O)c2ccc(N(Cc3nnn[nH]3)S(=O)(=O)c3ccc(OC)cc3)c3ccccc23)cc1",
+    "heavy_atoms": 44
+  },
+  "status": "automatically_prepared"
+}

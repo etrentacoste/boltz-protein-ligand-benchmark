@@ -1,0 +1,37 @@
+{
+  "pdb_id": "21LN",
+  "system": "NNMT in complex with inhibitor A1MC9",
+  "resolution_angstrom": 2.01,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MGSSHHHHHHSSGLVPRGSGFTSKDTYLSHFNPRDYLEKYYKFGSRHSAESQILKHLLKNLFKIFCLDGVKGDLLIDIGSGPTIYQLLSACESFKEIVVTDYSDQNLQELEKWLKKEPAAFDWSPVVTYVCDLEGNRVKGPEKEEKLRQAVKQVLKCDVTQSQPLGAVPLPPADCVLSTLCLDAACPDLPTYCRALRNLGSLLKPGGFLVIMDALKSSYYMIGEQKFSSLPLGREAVEAAVKEAGYTIEWFEVISQSYSSTMANNEGLFSLVARKL",
+      "msa": "/home/et3n25/boltz_benchmark/msa/21LN.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1MC9",
+      "smiles": "c1cnc(cc1C(=O)N)CCN2CCC[C@@H](C2)C(=O)Nc3nccs3",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1MC9",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Chain A selected from two equivalent crystal copies",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 40
+  },
+  "status": "input_curated"
+}

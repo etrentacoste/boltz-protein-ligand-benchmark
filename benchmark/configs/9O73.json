@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9O73",
+  "system": "Crystal Structure of Human DAPK1 Catalytic Subunit Complexed with Compound MW01-30-035SRM",
+  "resolution_angstrom": 1.49,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "TVFRQENVDDYYDTGEELGSGQFAVVKKCREKSTGLQYAAKFIKKRRTKSSRRGVSREDIEREVSILKEIQHPNVITLHEVYENKTDVILILELVAGGELFDFLAEKESLTEEEATEFLKQILNGVYYLHSLQIAHFDLKPENIMLLDRNVPKPRIKIIDFGLAHKIDFGNEFKNIFGTPEFVAPEIVNYEPLGLEADMWSIGVITYILLSGASPFLGDTKQETLANVSAVNYEFEDEYFSNTSALAKDFIRRLLVKDPKKRMTIQDSLQHPWIKPKDTQQALSSAWSHPQFEK",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/8ea62d90bdcad157.csv",
+      "sequence_hash": "8ea62d90bdcad157",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "86Q",
+      "smiles": "c1ccc-2c(c1)CCc3c2nnc(c3)N",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "86Q",
+    "ligand_author_chain": "A",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.1909,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.915,
+    "ligand_rsr": 0.091,
+    "contact_residue_count": 15,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "Nc1cc2c(nn1)-c1ccccc1CC2",
+    "heavy_atoms": 15
+  },
+  "status": "automatically_prepared"
+}

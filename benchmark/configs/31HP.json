@@ -1,0 +1,51 @@
+{
+  "pdb_id": "31HP",
+  "system": "Crystal structure of tau tubulin kinase 2 (TTBK2) in complex with compound 62",
+  "resolution_angstrom": 1.5,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "SMSGGGEQPDILSVGILVKERWKVLRKIGGGGFGEIYDALDMLTRENVALKVESAQQPKQVLKMEVAVLKKLQGKDHVCRFIGCGRNDRFNYVVMQLQGRNLADLRRSQSRGTFTISTTLRLGRQILESIESIHSVGFLHRDIKPSNFAMGRFPSTCRKCYMLDFGLARQFTNSCGDVRPPRAVAGFRGTVRYASINAHRNREMGRHDDLWSLFYMLVEFVVGQLPWRKIKDKEQVGSIKERYDHRLMLKHLPPEFSIFLDHISSLDYFTKPDYQLLTSVFDNSIKTFGVIESDPFDWEK",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/34154f5e3fdc5e57.csv",
+      "sequence_hash": "34154f5e3fdc5e57",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1J95",
+      "smiles": "c1cc(oc1)c2ccc(cc2)Nc3c4cc[nH]c4ncn3",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1J95",
+    "ligand_author_chain": "A",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.186964775621,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.968,
+    "ligand_rsr": 0.064,
+    "contact_residue_count": 15,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "c1coc(-c2ccc(Nc3ncnc4[nH]ccc34)cc2)c1",
+    "heavy_atoms": 21
+  },
+  "status": "automatically_prepared"
+}

@@ -1,0 +1,38 @@
+{
+  "pdb_id": "9TK2",
+  "system": "SOS1 in complex with compound 3",
+  "resolution_angstrom": 1.92,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GAMAEEQMRLPSADVYRFAEPDSEENIIFEENMQPKAGIPIIKAGTVIKLIERLTYHMYADPNFVRTFLTTYRSFCKPQELLSLIIERFEIPEPEPTEADRIAIENGDQPLSAELKRFRKEYIQPVQLRVLNVCRHWVEHHFYDFERDAYLLQRMEEFIGTVRGKAMKKWVESITKIIQRKKIARDNGPGHNITFQSSPPTVEWHISRPGHIETFDLLTLHPIEIARQLTLLESDLYRAVQPSELVGSVWTKEDKEINSPNLLKMIRHTTNLTLWFEKCIVETENLEERVAVVSRIIEILQVFQELNNFNGVLEVVSAMNSSPVYRLDHTFEQIPSRQKKILEEAHELSEDHYKKYLAKLRSINPPCVPFFGIYLTNILKTEEGNPEVLKRHGKELINFSKRRKVAEITGEIQQYQNQPYCLRVESDIKRFFENLNPMGNSMEKEFTDYLFNKSLEIEPRNPKPLPRFPKKYSYPLKSPGVRPSNPRPGT",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9TK2.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JWK",
+      "smiles": "C[C@H](c1ccccc1)NC(=O)c2cccc(n2)C(=O)NC",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JWK",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "biological_assembly": "monomer",
+  "mutations_reported": 4,
+  "status": "input_curated",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 40
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9VZG",
+  "system": "Harnessing Noncovalent Dimerization Enables an Orally Active STING Agonist for Respiratory Syncytial Virus Therapy",
+  "resolution_angstrom": 1.74,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "KGNFNVAHGLAWSYYIGYLRLILPELQARIRTYNQHYNNLLRGAVSQRLYILLPLDCGVPDNLSMADPNIRFLDKLPQQTGDHAGIKDRVYSNSIYELLENGQRAGTCVLEYATPLQTLFAMSQYSQAGFSREDRLEQAKLFCRTLEDILADAPESQNNCRLIAYQEPADDSSFSLSQEVLRHLRQEEKE",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/3b42ecc14bec69b1.csv",
+      "sequence_hash": "3b42ecc14bec69b1",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1EUO",
+      "smiles": "COc1cc2c(cc1OC)[se]c(c2F)C(=O)[C@H]3CC[C@H]3C(=O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1EUO",
+    "ligand_author_chain": "A",
+    "ligand_residue": "201",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2356,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.984,
+    "ligand_rsr": 0.056,
+    "contact_residue_count": 10,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "COc1cc2[se]c(C(=O)[C@H]3CC[C@H]3C(=O)O)c(F)c2cc1OC",
+    "heavy_atoms": 23
+  },
+  "status": "automatically_prepared"
+}

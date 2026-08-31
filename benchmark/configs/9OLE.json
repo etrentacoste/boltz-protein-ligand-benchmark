@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9OLE",
+  "system": "Crystal Structure of PI5P4KIIAlpha complex with 066ATZ",
+  "resolution_angstrom": 2.404,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GSHMASDPLLSVLMWGVNHSINELSHVQIPVMLMPDDFKAYSKIKVDNHLFNKENMPSHFKFKEYCPMVFRNLRERFGIDDQDFQNSLTRSAPLPNDSQARSGARFHTSYDKRYIIKTITSEDVAEMHNILKKYHQYIVECHGITLLPQFLGMYRLNVDGVEIYVIVTRNVFSHRLSVYRKYDLKGSTVAREASDKEKAKELPTLKDNDFINEGQKIYIDDNNKKVFLEKLKKDVEFLAQLKLMDYSLLVGIHDVERAEQEEVECEENDGEEEGESDGTHPVGTPPDSPGNTLNSSPPLAPGEFDPNIDVYGIKCHENSPRKEVYFMAIIDILTHYDAKKKAAHAAKTVKHGAGAEISTVNPEQYSKRFLDFIGHIL",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/dbeb3f19fb11b504.csv",
+      "sequence_hash": "dbeb3f19fb11b504",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1CCL",
+      "smiles": "CN1c2cnc(nc2N([C@@H](C1=O)Cc3ccccn3)C4CCCC4)Nc5ncc(s5)c6[nH]nnn6",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1CCL",
+    "ligand_author_chain": "A",
+    "ligand_residue": "504",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2429,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.96,
+    "ligand_rsr": 0.081,
+    "contact_residue_count": 20,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CN1C(=O)[C@@H](Cc2ccccn2)N(C2CCCC2)c2nc(Nc3ncc(-c4nnn[nH]4)s3)ncc21",
+    "heavy_atoms": 35
+  },
+  "status": "automatically_prepared"
+}

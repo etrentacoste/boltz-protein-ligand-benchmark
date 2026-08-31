@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9I9E",
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1I1S",
+      "role": "primary_ligand"
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1I1S",
+    "ligand_author_chain": "E",
+    "remove_waters": true
+  }
+}

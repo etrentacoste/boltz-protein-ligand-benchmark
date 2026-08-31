@@ -1,0 +1,43 @@
+{
+  "pdb_id": "7EDQ",
+  "system": "MIF trimer in complex with HFC",
+  "resolution_angstrom": 1.266,
+  "proteins": [
+    {
+      "id": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sequence": "PMFIVNTNVPRASVPDGFLSELTQQLAQATGKPPQYIAVHVVPDQLMAFGGSSEPCALCSLHSIGKIGGAQNRSYSKLLCGLLAERLRISPDRVYINYYDMNAANVGWNNSTFA",
+      "msa": "/home/et3n25/boltz_benchmark/msa/7EDQ.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "HFC",
+      "smiles": "c1c2c(cc(c1O)O)OC(=O)C=C2",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ligand_ccd": "HFC",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "The ligand-binding site spans chains A and C; the complete MIF trimer was retained. Chloride ions were excluded",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 64
+  },
+  "status": "input_curated"
+}

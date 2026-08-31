@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9VO8",
+  "system": "HPK1 in complex with compound 15",
+  "resolution_angstrom": 2.46,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MDVVDPDIFNRDPRDHYDLLQRLGGGTYGEVFKARDKVSGDLVALKMVKMEPDDDVSTLQKEILILKTCRHANIVAYHGSYLWLQKLWICMEFCGAGSLQDIYQVTGSLSELQISYVCREVLQGLAYLHSQKKIHRDIKGANILINDAGEVRLADFGISAQIGATLARRLSFIGTPYWMAPEVAAVALKGGYNELCDIWSLGITAIELAELQPPLFDVHPLRVLFLMTKSGYQPPRLKEKGKWSAAFHNFIKVTLTKSPKKRPSATKMLSHQLVSQPGLNRGLILDLLDKLKN",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9VO8.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1EUJ",
+      "smiles": "Cn1cc(c2c1ccc(c2)Nc3ncc(c(n3)Nc4ccc5c(c4NS(=O)(=O)C)nccn5)Cl)CN(C)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1EUJ",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Chain A selected from two equivalent crystal copies",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 40
+  },
+  "status": "input_curated"
+}

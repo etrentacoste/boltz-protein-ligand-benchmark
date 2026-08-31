@@ -1,0 +1,37 @@
+{
+  "pdb_id": "11UE",
+  "system": "PDGFRB in complex with inhibitor A1DA1",
+  "resolution_angstrom": 2.32,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GAMDQKKPRYEIRWKVIESVSSDGHEYIYVDPMQLPYDSTWELPRDQLVLGRTLGSGAFGQVVEATAHGLSHSQATMKVAVKMLKSTARSSEKQALMSELKIMSHLGPHLNVVNLLGACTKGGPIYIITEYCRYGDLVDYLHRNKHTFLQHHSDKRRPPSAELYSNALPVGLPLPSHVSLTGESDGGYMDMSKDESVDYVPMLDMKGDVKYADIESSNYMAPYDNYVPSAPERTCRATLINESPVLSYMDLVGFSYQVANGMEFLASKNCVHRDLAARNVLICEGKLVKICDFGLARDIMRDSNYISKGSTFLPLKWMAPESIFNSLYTTLSDVWSFGILLWEIFTLGGTPYPELPMNEQFYNAIKRGYRMAQPAHASDEIYEIMQKCWEEKFEIRPPFSQLVLLLERLLGEGYKKKYQQVDEEFLRSD",
+      "msa": "/home/et3n25/boltz_benchmark/msa/11UE.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1DA1",
+      "smiles": "Cc1c(cc(cn1)C(=O)NCCN2CCCC2(C)C)Nc3c4cnc(nc4n(n3)C)Nc5cnn(c5)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1DA1",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Experimental chain A; no cofactors retained",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 48
+  },
+  "status": "input_curated"
+}

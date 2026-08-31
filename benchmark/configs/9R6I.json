@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9R6I",
+  "system": "Crystal structure of PPARgamma in complex with the bisphenol derivative BPS4BE",
+  "resolution_angstrom": 1.7,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GSHMQLNPESADLRALAKHLYDSYIKSFPLTKAKARAILTGKTTDKSPFVIYDMNSLMMGEDKIKFKHITPLQEQSKEVAIRIFQGCQFRSVEAVQEITEYAKSIPGFVNLDLNDQVTLLKYGVHEIIYTMLASLMNKDGVLISEGQGFMTREFLKSLRKPFGDFMEPKFEFAVKFNALELDDSDLAIFIAVIILSGDRPGLLNVKPIEDIQDNLLQALELQLKLNHPESSQLFAKLLQKMTDLRQIVTEHVQLLQVIKKTETDMSLHPLLQEIYKDLY",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/ed1654f843ab5b38.csv",
+      "sequence_hash": "ed1654f843ab5b38",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JDE",
+      "smiles": "c1ccc(cc1)COc2ccc(cc2)S(=O)(=O)c3ccc(cc3)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JDE",
+    "ligand_author_chain": "A",
+    "ligand_residue": "501",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2288,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.944,
+    "ligand_rsr": 0.084,
+    "contact_residue_count": 21,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=S(=O)(c1ccc(O)cc1)c1ccc(OCc2ccccc2)cc1",
+    "heavy_atoms": 24
+  },
+  "status": "automatically_prepared"
+}

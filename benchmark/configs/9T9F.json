@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9T9F",
+  "system": "Crystal structure of human CHD1 tandem chromodomain in complex with the ethoxyquinoline-based inhibitor 2l",
+  "resolution_angstrom": 1.35,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "EFETIERFMDCRIGRKGATGATTTIYAVEADGDPNAGFEKNKEPGEIQYLIKWKGWSHIHNTWETEETLKQQNVRGMKKLDNYKKKDQETKRWLKNASPEDVEYYNCQQELTDDLHKQYQIVERIIAHSNQKSAAGYPDYYCKWQGLPYSECSWEDGALISKKFQACIDEYFSR",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/1b8b8d4bcdadc8dc.csv",
+      "sequence_hash": "1b8b8d4bcdadc8dc",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JUR",
+      "smiles": "CCOc1ccc2c(c1)nc(cc2NC3CCN(CC3)Cc4ccccc4)N5CCC(CC5)N(C)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JUR",
+    "ligand_author_chain": "A",
+    "ligand_residue": "502",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2078,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.9,
+    "ligand_rsr": 0.097,
+    "contact_residue_count": 11,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CCOc1ccc2c(NC3CCN(Cc4ccccc4)CC3)cc(N3CCC(N(C)C)CC3)nc2c1",
+    "heavy_atoms": 36
+  },
+  "status": "automatically_prepared"
+}

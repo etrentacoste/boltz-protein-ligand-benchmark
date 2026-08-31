@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9RZO",
+  "system": "Recombinant human butyrylcholinesterase in complex with 3-(1H-indol-3-yl)-N-methyl-N-phenethylpropan-1-amine",
+  "resolution_angstrom": 2.5,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "EDDIIIATKNGKVRGMQLTVFGGTVTAFLGIPYAQPPLGRLRFKKPQSLTKWSDIWNATKYANSCCQNIDQSFPGFHGSEMWNPNTDLSEDCLYLNVWIPAPKPKNATVLIWIYGGGFQTGTSSLHVYDGKFLARVERVIVVSMNYRVGALGFLALPGNPEAPGNMGLFDQQLALQWVQKNIAAFGGNPKSVTLFGESAGAASVSLHLLSPGSHSLFTRAILQSGSFNAPWAVTSLYEARNRTLNLAKLTGCSRENETEIIKCLRNKDPQEILLNEAFVVPYGTPLSVNFGPTVDGDFLTDMPDILLELGQFKKTQILVGVNKDEGTAFLVYGAPGFSKDNNSIITRKEFQEGLKIFFPGVSEFGKESILFHYTDWVDDQRPENYREALGDVVGDYNFICPALEFTKKFSEWGNNAFFYYFEHRSSKLPWPEWMGVMHGYEIEFVFGLPLERRDQYTKAEEILSRSIVKRWANFAKYGNPQETQNQSTSWPVFKSTEQKYLTLNTESTRIMTKLRAQQCRFWTSFFPKV",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/7aff9d4ba950ca8b.csv",
+      "sequence_hash": "7aff9d4ba950ca8b",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JKA",
+      "smiles": "CN(CCCc1c[nH]c2c1cccc2)CCc3ccccc3",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JKA",
+    "ligand_author_chain": "A",
+    "ligand_residue": "612",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2124,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.937,
+    "ligand_rsr": 0.109,
+    "contact_residue_count": 21,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CN(CCCc1c[nH]c2ccccc12)CCc1ccccc1",
+    "heavy_atoms": 22
+  },
+  "status": "automatically_prepared"
+}

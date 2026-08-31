@@ -1,0 +1,51 @@
+{
+  "pdb_id": "32PP",
+  "system": "CRYSTAL STRUCTURE OF BRD4 BD1 IN COMPLEX WITH Compound 9",
+  "resolution_angstrom": 1.44,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "SMNPPPPETSNPNKPKRQTNQLQYLLRVVLKTLWKHQFAWPFQQPVDAVKLNLPDYYKIIKTPMDMGTIKKRLENNYYWNAQECIQDFNTMFTNCYIYNKPGDDIVLMAEALEKLFLQKINELPTEE",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/fbf3f5c695a3b8c4.csv",
+      "sequence_hash": "fbf3f5c695a3b8c4",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1KEP",
+      "smiles": "Cc1cc(nn2c1nnc2C)N(C)Cc3ccccn3",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1KEP",
+    "ligand_author_chain": "A",
+    "ligand_residue": "201",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.237,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.925,
+    "ligand_rsr": 0.077,
+    "contact_residue_count": 13,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "Cc1cc(N(C)Cc2ccccn2)nn2c(C)nnc12",
+    "heavy_atoms": 20
+  },
+  "status": "automatically_prepared"
+}

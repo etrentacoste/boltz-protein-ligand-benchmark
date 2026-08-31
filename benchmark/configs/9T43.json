@@ -1,0 +1,45 @@
+{
+  "pdb_id": "9T43",
+  "system": "PRMT5 with AZD3470 and MTA",
+  "resolution_angstrom": 2.18,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MAAMAVGGAGGSRVSSGRDLNCVPEIADTLGAVAKQGFDFLCMPVFHPRFKREFIQEPAKNRPGPQTRSDLLLSGRDWNTLIVGKLSPWIRPDSKVEKIRRNSEAAMLQELNFGAYLGLPAFLLPLNQEDNTNLARVLTNHIHTGHHSSMFWMRVPLVAPEDLRDDIIENAPTTHTEEYSGEEKTWMWWHNFRTLCDYSKRIAVALEIGADLPSNHVIDRWLGEPIKAAILPTSIFLTNKKGFPVLSKMHQRLIFRLLKLEVQFIITGTNHHSEKEFCSYLQYLEYLSQNRPPPNAYELFAKGYEDYLQSPLQPLMDNLESQTYEVFEKDPIKYSQYQQAIYKCLLDRVPEEEKDTNVQVLMVLGAGRGPLVNASLRAAKQADRRIKLYAVEKNPNAVVTLENWQFEEWGSQVTVVSSDMREWVAPEKADIIVSELLGSFADNELSPECLDGAQHFLKDDGVSIPGEYTSFLAPISSSKLYNEVRACREKDRDPEAQFEMPYVVRLHNFHQLSAPQPCFTFSHPNRDPMIDNNRYCTLEFPVEVNTVLHGFAGYFETVLYQDITLSIRPETHSPGMFSWFPILFPIKQPITVREGQTICVRFWRCSNSKKVWYEWAVTAPVCSAIHNPTGRSYTIGL",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9T43.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JTI",
+      "smiles": "CC#CCN1CC[C@@]2(C1=O)c3ccc(cc3C(=O)N2Cc4cc5c([nH]4)cc(c(n5)N)F)F",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    },
+    {
+      "id": "T",
+      "ccd": "MTA",
+      "role": "cofactor",
+      "affinity_binder": false
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JTI",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [
+    "MTA"
+  ],
+  "metals": [],
+  "assembly_note": "MTA retained at 3.251 Angstrom from the target ligand. MEP50 chain B and sulfate excluded because they do not contact the target pocket",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 96
+  },
+  "status": "input_curated"
+}

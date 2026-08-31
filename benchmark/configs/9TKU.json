@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9TKU",
+  "system": "SHP2 with allosteric inhibitor 17g",
+  "resolution_angstrom": 1.87,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "TSRRWFHPNITGVEAENLLLTRGVDGSFLARPSKSNPGDFTLSVRRNGAVTHIKIQNTGDYYDLYGGEKFATLAELVQYYMEHHGQLKEKNGDVIELKYPLNCADPTSERWFHGHLSGKEAEKLLTEKGKHGSFLVRESQSHPGDFVLSVRTGDDKGESNDGKSKVTHVMIRCQELKYDVGGGERFDSLTDLVEHYKKNPMVETLGTVLQLKQPLNTTRINAAEIESRVRELSKLAETTDKVKQGFWEEFETLQQQECKLLYSRKEGQRQENKNKNRYKNILPFDHTRVVLHDGDPNEPVSDYINANIIMPEFETKCNNSKPKKSYIATQGCLQNTVNDFWRMVFQENSRVIVMTTKEVERGKSKCVKYWPDEYALKEYGVMRVRNVKESAAHDYTLRELKLSKVGQGNTERTVWQYHFRTWPDHGVPSDPGGVLDFLEEVHHKQESIMDAGPVVVHCSAGIGRTGTFIVIDILIDIIREKGVDCDIDVPKTIQMVRSQRSGMVQTEAQYRFIYMAVQHYIETL",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9TKU.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JWM",
+      "smiles": "c1ccc2c(c1)CC3([C@@H]2N)CCN(CC3)c4cnc5c(n(nc5n4)c6cccc(c6Cl)Cl)N",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JWM",
+    "ligand_residue": "601",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Experimental monomer",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 40
+  },
+  "status": "input_curated"
+}

@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9HTR",
+  "system": "Structure of CypD in complex with an inhibitor.",
+  "resolution_angstrom": 2.25,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MGNPLVYLDVDANGKPLGRVVLELKADVVPKTAENFRALCTGEKGFGYKGSTFHRVIPSFMCQAGDFTNHNGTGGKSIYGSRFPDENFTLKHVGPGVLSMANAGPNTNGSQFFICTIKTDWLDGKHVVFGHVIEGMDVVKKIESFGSKSGRTSKKIVITDCGQLS",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/3e035ba4adf72c1a.csv",
+      "sequence_hash": "3e035ba4adf72c1a",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1IU3",
+      "smiles": "c1ccc(cc1)[C@@H](C(=O)N2CCCN2c3ccccc3Br)NC(=O)NCc4ccc5c(c4)[C@H]6C[C@@H](N5)[C@@H](CO6)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1IU3",
+    "ligand_author_chain": "A",
+    "ligand_residue": "201",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.1848,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.986,
+    "ligand_rsr": 0.059,
+    "contact_residue_count": 24,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=C(NCc1ccc2c(c1)[C@H]1C[C@@H](N2)[C@H](O)CO1)N[C@H](C(=O)N1CCCN1c1ccccc1Br)c1ccccc1",
+    "heavy_atoms": 40
+  },
+  "status": "automatically_prepared"
+}

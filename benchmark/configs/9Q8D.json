@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9Q8D",
+  "system": "CRYSTAL STRUCTURE OF HUMAN MONOGLYCERIDE LIPASE WITH LIGAND",
+  "resolution_angstrom": 1.54,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MGSSHHHHHHSSGENLYFQGMPEESSPRRTPQSIPYQDLPHLVNADGQYLFCRYWAPTGTPKALIFVSHGAGEHSGRYEELARMLMGLDLLVFAHDHVGHGQSEGERMVVSDFHVFVRDVLQHVDSMQKDYPGLPVFLLGHSMGGAIAILTAAERPGHFAGMVLISPLVLANPESATTFKVLAAKVLNSVLPNLSSGPIDSSVLSRNKTEVDIYNSDPLICRAGLKVCFGIQLLNAVSRVERALPKLTVPFLLLQGSADRLCDSKGAYLLMELAKSQDKTLKIYEGAYHVLHKELPEVTNSVFHEINMWVSQRTATAGTASPP",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/d876c3e71dd7e232.csv",
+      "sequence_hash": "d876c3e71dd7e232",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1I4L",
+      "smiles": "c1cc(c(cc1F)F)CC2CC3(C2)CN(C3)C(=O)N4CC[C@H]5[C@@H](C4)NC(=O)CO5",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1I4L",
+    "ligand_author_chain": "A",
+    "ligand_residue": "401",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2185,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.953,
+    "ligand_rsr": 0.088,
+    "contact_residue_count": 28,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=C1CO[C@H]2CCN(C(=O)N3CC4(CC(Cc5ccc(F)cc5F)C4)C3)C[C@H]2N1",
+    "heavy_atoms": 29
+  },
+  "status": "automatically_prepared"
+}

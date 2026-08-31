@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9MAW",
+  "system": "Crystal structure of TOPBP1BRCT7-8 domain in complex with 1-Adamantaneacetic acid",
+  "resolution_angstrom": 2.45,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GHMLKKQYIFQLSSLNPQERIDYCHLIEKLGGLVIEKQCFDPTCTHIVVGHPLRNEKYLASVAAGKWVLHRSYLEACRTAGHFVQEEDYEWGSSSILDVLTGINVQQRRLALAAMRWRKKIQQRQESGIVEGAFSGWKVILHVDQSREAGFKRLLQSGGAKVLPGHSVPLFKEATHLFSDLNKLKPDDSGVNIAEAAAQNVYCLRTEYIADYLMQESPPHVENYCLPEAIS",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/c09fef0359471f40.csv",
+      "sequence_hash": "c09fef0359471f40",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1ENP",
+      "smiles": "C1C2CC3CC1CC(C2)(C3)CC(=O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1ENP",
+    "ligand_author_chain": "A",
+    "ligand_residue": "1501",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2368,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.862,
+    "ligand_rsr": 0.148,
+    "contact_residue_count": 9,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=C(O)CC12CC3CC(CC(C3)C1)C2",
+    "heavy_atoms": 14
+  },
+  "status": "automatically_prepared"
+}

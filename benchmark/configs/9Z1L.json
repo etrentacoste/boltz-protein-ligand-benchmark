@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9Z1L",
+  "system": "Structure of KIT V654A mutant with Compound 1",
+  "resolution_angstrom": 1.543,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MSYYHHHHHHDYDIPTTENLYFQGPTYKYLQKPMYEVQWKVVEEINGNNYVYIDPTQLPYDHKWEFPRNRLSFGKTLGAGAFGKVVEATAYGLIKSDAAMTVAVKMLKPSAHLTEREALMSELKVLSYLGNHMNIANLLGACTIGGPTLVITEYCCYGDLLNFLRRKRDSFICSKTSPAIMEDDELALDLEDLLSFSYQVAKGMAFLASKNCIHRDLAARNILLTHGRITKICDFGLARDIKNDSNYVVKGNARLPVKWMAPESIFNCVYTFESDVWSYGIFLWELFSLGSSPYPGMPVDSKFYKMIKEGFRMLSPEHAPAEMYDIMKTCWDADPLKRPTFKQIVQLIEKQISESTNHI",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/9d7511f96c7ba78e.csv",
+      "sequence_hash": "9d7511f96c7ba78e",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1CZZ",
+      "smiles": "CC(C)Oc1cc(ncc1c2cnn(c2)C)Nc3ccnc(n3)NC",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1CZZ",
+    "ligand_author_chain": "A",
+    "ligand_residue": "1002",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2062,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.968,
+    "ligand_rsr": 0.056,
+    "contact_residue_count": 20,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CNc1nccc(Nc2cc(OC(C)C)c(-c3cnn(C)c3)cn2)n1",
+    "heavy_atoms": 25
+  },
+  "status": "automatically_prepared"
+}

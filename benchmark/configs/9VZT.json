@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9VZT",
+  "system": "X-ray structure of human PPARalpha ligand binding domain-10-oxostearic acid (10-oxoSA) co-crystals obtained by cross-seeding",
+  "resolution_angstrom": 1.475,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GSHMTADLKSLAKRIYEAYLKNFNMNKVKARVILSGKASNNPPFVIHDMETLCMAEKTLVAKLVANGIQNKEAEVRIFHCCQCTSVETVTELTEFAKAIPGFANLDLNDQVTLLKYGVYEAIFAMLSSVMNKDGMLVAYGNGFITREFLKSLRKPFCDIMEPKFDFAMKFNALELDDSDISLFVAAIICCGDRPGLLNVGHIEKMQEGIVHVLRLHLQSNHPDDIFLFPKLLQKMADLRQLVTEHAQLVQIIKKTESDAALHPLLQEIYRDMY",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/92087d2435e9ebbd.csv",
+      "sequence_hash": "92087d2435e9ebbd",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "KTC",
+      "smiles": "CCCCCCCCC(=O)CCCCCCCCC(=O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "KTC",
+    "ligand_author_chain": "A",
+    "ligand_residue": "502",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2019,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.91,
+    "ligand_rsr": 0.113,
+    "contact_residue_count": 27,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CCCCCCCCC(=O)CCCCCCCCC(=O)O",
+    "heavy_atoms": 21
+  },
+  "status": "automatically_prepared"
+}

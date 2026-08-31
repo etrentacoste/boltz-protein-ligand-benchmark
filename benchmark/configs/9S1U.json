@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9S1U",
+  "system": "Crystal structure of human IDO1 in complex with iDeg-3",
+  "resolution_angstrom": 2.0,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GPLGSGIQMENSWTISKEYHIDEEVGFALPNPQENLPDFYNDWMFIAKHLPDLIESGQLRERVEKLNMLSIDHLTDHKSQRLARLVLGCITMAYVWGKGHGDVRKVLPRNIAVPYCQLSKKLELPPILVYADCVLANWKKKDPNKPLTYENMDVLFSFRDGDCSKGFFLVSLLVEIAAASAIKVIPTVFKAMQMQERDTLLKALLEIASCLEKALQVFHQIHDHVNPKAFFSVLRIYLSGWKGNPQLSDGLVYEGFWEDPKEFAGGSAGQSSVFQCFDVLLGIQQTAGGGHAAQFLQDMRRYMPPAHRNFLCSLESNPSVREFVLSKGDAGLREAYDACVKALVSLRSYHLQIVTKYILIPASQQPKENKTSEDPSKLEAKGTGGTDLMNFLKTVRSTTEKSLL",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/c4716fd15c8edc4e.csv",
+      "sequence_hash": "c4716fd15c8edc4e",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JLE",
+      "smiles": "CC1([C@H]2C[C@@H]3CN(C[C@@]3([C@@H]1C2)COC(=O)Nc4ccc(cc4)C#C)S(=O)(=O)c5ccc(cc5)C(C)(C)C)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JLE",
+    "ligand_author_chain": "A",
+    "ligand_residue": "501",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2291,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.965,
+    "ligand_rsr": 0.072,
+    "contact_residue_count": 27,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "C#Cc1ccc(NC(=O)OC[C@]23CN(S(=O)(=O)c4ccc(C(C)(C)C)cc4)C[C@H]2C[C@H]2C[C@@H]3C2(C)C)cc1",
+    "heavy_atoms": 38
+  },
+  "status": "automatically_prepared"
+}

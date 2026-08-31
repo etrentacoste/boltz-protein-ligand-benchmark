@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9RC9",
+  "system": "Danio rerio vitamin D receptor in complex with boron analogue",
+  "resolution_angstrom": 2.09,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GSHMLSDEQMQIINSLVEAHHKTYDDSYSDFVRFRPPVREGPVTRSASRAASLHSLSDASSDSFNHSPESVDTKLNFSNLLMMYQDSGSPDSSEEDQQSRLSMLPHLADLVSYSIQKVIGFAKMIPGFRDLTAEDQIALLKSSAIEIIMLRSNQSFSLEDMSWSCGGPDFKYCINDVTKAGHTLELLEPLVKFQVGLKKLKLHEEEHVLLMAICLLSPDRPGVQDHVRIEALQDRLCDVLQAYIRIQHPGGRLLYAKMIQKLADLRSLNEEHSKQYRSLSFQPEHSMQLTPLVLEVFGSEVS",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9RC9.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JD7",
+      "smiles": "B1(OC(C(O1)(C)C)(C)C)/C=C/C[C@@H](C)[C@H]2CC[C@@H]\\3[C@@]2(CCC/C3=C\\C=C/4\\C[C@H](C[C@@H](C4=C)O)O)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JD7",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "The NCOA2 peptide was excluded because its minimum distance from the target ligand was 12.545 Angstrom",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 64
+  },
+  "status": "input_curated"
+}

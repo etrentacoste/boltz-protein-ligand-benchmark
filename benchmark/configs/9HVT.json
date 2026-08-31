@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9HVT",
+  "system": "Orotidine 5'-monophosphate decarboxylase-domain of human UMPS in complex with 6-isopropyl-UMP",
+  "resolution_angstrom": 1.3,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MELSFGARAELPRIHPVASKLLRLMQKKETNLCLSADVSLARELLQLADALGPSICMLKTHVDILNDFTLDVMKELITLAKCHEFLIFEDRKFADIGNTVKKQYEGGIFKIASWADLVNAHVVPGSGVVKGLQEVGLPLHRGCLLIAEMSSTGSLATGDYTRAAVRMAEEHSEFVVGFISGSRVSMKPEFLHLTPGVQLEAGGDNLGQQYNSPQEVIGKRGSDIIIVGRGIISAADRLEAAEMYRKAAWEAYLSRLGV",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/98c5eeb7fda6cb7d.csv",
+      "sequence_hash": "98c5eeb7fda6cb7d",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1IXW",
+      "smiles": "CC(C)C1=CC(=O)NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1IXW",
+    "ligand_author_chain": "A",
+    "ligand_residue": "501",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.17298,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.989,
+    "ligand_rsr": 0.039,
+    "contact_residue_count": 24,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CC(C)c1cc(=O)[nH]c(=O)n1[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O",
+    "heavy_atoms": 24
+  },
+  "status": "automatically_prepared"
+}

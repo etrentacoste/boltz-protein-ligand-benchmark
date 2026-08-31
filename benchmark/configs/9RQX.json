@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9RQX",
+  "system": "Galectin-3 with a bound inhibitor",
+  "resolution_angstrom": 1.398,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "PLIVPYNLPLPGGVVPRMLITILGTVKPNANRIALDFQRGNDVAFHFNPRFNENNRRVIVCNTKLDNNWGREERQSVFPFESGKPFKIQVLVEPDHFKVAVNDAHLLQYNHRVKKLNEISKLGISGDIDLTSASYTMI",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/4f6fb808c4a82020.csv",
+      "sequence_hash": "4f6fb808c4a82020",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JII",
+      "smiles": "CCN(C)C(=O)CS[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)n2cc(nn2)c3cc(c(c(c3)F)F)F)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JII",
+    "ligand_author_chain": "A",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2028,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.906,
+    "ligand_rsr": 0.121,
+    "contact_residue_count": 13,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CCN(C)C(=O)CS[C@@H]1O[C@H](CO)[C@H](O)[C@H](n2cc(-c3cc(F)c(F)c(F)c3)nn2)[C@H]1O",
+    "heavy_atoms": 32
+  },
+  "status": "automatically_prepared"
+}

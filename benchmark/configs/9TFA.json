@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9TFA",
+  "system": "PDGFRA-G680R in complex with compound 43",
+  "resolution_angstrom": 2.2,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GGRKQKPRYEIRWRVIESISPDGHEYIYVDPMQLPYDSRWEFPRDGLVLGRVLGSGAFGKVVEGTAYGLSRSQPVMKVAVKMLKPTARSSEKQALMSELKIMTHLGPHLNIVNLLGACTKSGPIYIITEYCFYRDLVNYLHKNRDSFLSHKKKSMLDSEVKNLLSDDNSEGLTLLDLLSFTYQVARGMEFLASKNCVHRDLAARNVLLAQGKIVKICDFGLARDIMHDSNYVSKGSTFLPVKWMAPESIFDNLYTTLSDVWSYGILLWEIFSLGGTPYPGMMVDSTFYNKIKSGYRMAKPDHATSEVYEIMVKCWNSEPEKRPSFYHLSEIVENLLPGQYKKSYEKIHLDFLKSD",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9TFA.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JVO",
+      "smiles": "C[C@](c1ccc(cc1)F)(c2cnc(nc2)N3CCN(CC3)c4c5cc(c(cc5ncn4)OC)OC)N",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JVO",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Experimental monomer; chain A selected",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 48
+  },
+  "status": "input_curated"
+}

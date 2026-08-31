@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9TFB",
+  "system": "PDGFRA-G680R mutant kinase domain in complex with a 6,7-bis(2-methoxyethoxy)quinazoline-based compound (44)",
+  "resolution_angstrom": 2.0,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GGRKQKPRYEIRWRVIESISPDGHEYIYVDPMQLPYDSRWEFPRDGLVLGRVLGSGAFGKVVEGTAYGLSRSQPVMKVAVKMLKPTARSSEKQALMSELKIMTHLGPHLNIVNLLGACTKSGPIYIITEYCFYRDLVNYLHKNRDSFLSHKKKSMLDSEVKNLLSDDNSEGLTLLDLLSFTYQVARGMEFLASKNCVHRDLAARNVLLAQGKIVKICDFGLARDIMHDSNYVSKGSTFLPVKWMAPESIFDNLYTTLSDVWSYGILLWEIFSLGGTPYPGMMVDSTFYNKIKSGYRMAKPDHATSEVYEIMVKCWNSEPEKRPSFYHLSEIVENLLPGQYKKSYEKIHLDFLKSD",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/2a02a0e7e2707102.csv",
+      "sequence_hash": "2a02a0e7e2707102",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JVS",
+      "smiles": "C[C@](c1ccc(cc1)F)(c2cnc(nc2)N3CCN(CC3)c4c5cc(c(cc5ncn4)OCCOC)OCCOC)N",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JVS",
+    "ligand_author_chain": "A",
+    "ligand_residue": "1001",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2169,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.958,
+    "ligand_rsr": 0.074,
+    "contact_residue_count": 26,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "COCCOc1cc2ncnc(N3CCN(c4ncc([C@@](C)(N)c5ccc(F)cc5)cn4)CC3)c2cc1OCCOC",
+    "heavy_atoms": 42
+  },
+  "status": "automatically_prepared"
+}

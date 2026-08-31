@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9RMF",
+  "system": "Soluble epoxide hydrolase with AK188",
+  "resolution_angstrom": 2.0,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MGSSHHHHHHSSGLVPRGSHMASMLNTPAPLPTSCNPSDMSHGYVTVKPRVRLHFVELGSGPAVCLCHGFPESWYSWRYQIPALAQAGYRVLAMDMKGYGESSAPPEIEEYCMEVLCKEMVTFLDKLGLSQAVFIGHDWGGMLVWYMALFYPERVRAVASLNTPFIPANPNMSPLESIKANPVFDYQLYFQEPGVAEAELEQNLSRTFKSLFRASDESVLSMHKVCEAGGLFVNSPEEPSLSRMVTEEEIQFYVQQFKKSGFRGPLNWYRNMERNWKWACKSLGRKILIPALMVTAEKDFVLVPQMSQHMEDWIPHLKRGHIEDCGHWTQMDKPTEVNQILIKWLDSDARNPPVVSKMLLEHHHHHH",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9RMF.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JPF",
+      "smiles": "CC(=O)N1CCC(CC1)NC(=O)Nc2ccc(cc2)C34CC5CC(C3)CC(C5)C4",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JPF",
+    "ligand_residue": "408",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Chain A monomer extracted from the experimental C2 homodimer",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 40
+  },
+  "status": "input_curated"
+}

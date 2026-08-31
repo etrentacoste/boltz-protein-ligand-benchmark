@@ -1,0 +1,51 @@
+{
+  "pdb_id": "35WF",
+  "system": "Crystal structure of CHK1 in complex with prexasertib",
+  "resolution_angstrom": 1.68,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MAVPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKRAVDCPENIKKEICINKMLNHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLHGIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRREFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALLHKILVENPSARITIPDIKKDRWYNKPLKKGAKENLYFQ",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/8eb42573cd54f43c.csv",
+      "sequence_hash": "8eb42573cd54f43c",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1DNH",
+      "smiles": "COc1cccc(c1c2cc(n[nH]2)Nc3cnc(cn3)C#N)OCCCN",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1DNH",
+    "ligand_author_chain": "A",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2043,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.972,
+    "ligand_rsr": 0.05,
+    "contact_residue_count": 22,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "COc1cccc(OCCCN)c1-c1cc(Nc2cnc(C#N)cn2)n[nH]1",
+    "heavy_atoms": 27
+  },
+  "status": "automatically_prepared"
+}

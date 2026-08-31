@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9T08",
+  "system": "Crystal structure of wild-type c-MET bound by sitravatinib.",
+  "resolution_angstrom": 1.462,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GHIDLSALNPELVQAVQHVVIGPSSLIVHFNEVIGRGHFGCVYHGTLLDNDGKKIHCAVKSLNRITDIGEVSQFLTEGIIMKDFSHPNVLSLLGICLRSEGSPLVVLPYMKHGDLRNFIRNETHNPTVKDLIGFGLQVAKGMKYLASKKFVHRDLAARNCMLDEKFTVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMALESLQTQKFTTKSDVWSFGVLLWELMTRGAPPYPDVNTFDITVYLLQGRRLLQPEYCPDPLYEVMLKCWHPKAEMRPSFSELVSRISAIFSTFIG",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/cb33b314e8609842.csv",
+      "sequence_hash": "cb33b314e8609842",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JSO",
+      "smiles": "COCCNCc1ccc(nc1)c2cc3c(s2)c(ccn3)Oc4ccc(cc4F)NC(=O)C5(CC5)C(=O)Nc6ccc(cc6)F",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JSO",
+    "ligand_author_chain": "A",
+    "ligand_residue": "1401",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2425,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.919,
+    "ligand_rsr": 0.091,
+    "contact_residue_count": 28,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "COCCNCc1ccc(-c2cc3nccc(Oc4ccc(NC(=O)C5(C(=O)Nc6ccc(F)cc6)CC5)cc4F)c3s2)nc1",
+    "heavy_atoms": 45
+  },
+  "status": "automatically_prepared"
+}

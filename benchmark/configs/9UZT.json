@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9UZT",
+  "system": "Crystal structure of human PTPN2 with inhibitor K-38",
+  "resolution_angstrom": 2.17,
+  "proteins": [
+    {
+      "id": "B",
+      "sequence": "PLGSPWGSIEREFEELDTQRRWQPLYLEIRNESHDYPHRVAKFPENRNRNRYRDVSPYDHSRVKLQNAENDYINASLVDIEEAQRSYILTQGPLPNTCCHFWLMVWQQKTKAVVMLNRIVEKESVKCAQYWPTDDQEMLFKETGFSVKLLSEDVKSYYTVHLLQLENINSGETRTISHFHYTTWPDFGVPESPASFLNFLFKVRESGSLNPDHGPAVIHCSAGIGRSGTFSLVDTCLVLMEKGDDINIKQVLLNMRKYRMGLIQTPDQLRFSYMAIIEGAKCIKGDSSIQKRWKELSKED",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/dcc3d2e4ef0c1137.csv",
+      "sequence_hash": "dcc3d2e4ef0c1137",
+      "source_chains": [
+        "B"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1EQR",
+      "smiles": "c1c(cc(c(c1O)N2CC(=O)NS2(=O)=O)F)c3c[nH]c(n3)C(=O)NC4CCCCCC4",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "B"
+    ],
+    "ligand_ccd": "A1EQR",
+    "ligand_author_chain": "B",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2126,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.977,
+    "ligand_rsr": 0.065,
+    "contact_residue_count": 17,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=C1CN(c2c(O)cc(-c3c[nH]c(C(=O)NC4CCCCCC4)n3)cc2F)S(=O)(=O)N1",
+    "heavy_atoms": 31
+  },
+  "status": "automatically_prepared"
+}

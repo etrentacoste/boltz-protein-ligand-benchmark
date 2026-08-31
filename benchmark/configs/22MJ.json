@@ -1,0 +1,51 @@
+{
+  "pdb_id": "22MJ",
+  "system": "Crystal structure of human INPP5K with an allosteric inhibitor reveals the structural basis for species specific potency",
+  "resolution_angstrom": 1.9,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MSSRKLSGPKGRRLSIHVVTWNVASAAPPLDLSDLLQLNNRNLNLDIYVIGLQELNSGIISLLSDAAFNDSWSSFLMDVLSPLSFIKVSHVRMQGILLLVFAKYQHLPYIQILSTKSTPTGLFGYWGNKGGVNICLKLYGYYVSIINCHLPPHISNNYQRLEHFDRILEMQNCEGRDIPNILDHDLIIWFGDMNFRIEDFGLHFVRESIKNRCYGGLWEKDQLSIAKKHDPLLREFQEGRLLFPPTYKFDRNSNDYDTSEKKRKPAWTDRILWRLKRQPAKANPSGFLLTQKDYSSHMTYGISDHKPVSGTFDLELKPLVSA",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/e4bcba4c230bb042.csv",
+      "sequence_hash": "e4bcba4c230bb042",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1MDP",
+      "smiles": "CC(C)c1c(c(c(s1)NC(=O)c2ccccc2)C(=O)O)c3ccccc3",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1MDP",
+    "ligand_author_chain": "A",
+    "ligand_residue": "407",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2462,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.961,
+    "ligand_rsr": 0.077,
+    "contact_residue_count": 23,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CC(C)c1sc(NC(=O)c2ccccc2)c(C(=O)O)c1-c1ccccc1",
+    "heavy_atoms": 26
+  },
+  "status": "automatically_prepared"
+}

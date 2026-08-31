@@ -1,0 +1,37 @@
+{
+  "pdb_id": "13LW",
+  "system": "PKMYT1 in complex with inhibitor P32-(S)",
+  "resolution_angstrom": 1.95,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GPGSMHQLQPRRVSFRGEASETLQSPGYDPSRPESFFQQSFQRLSRLGHGSYGEVFKVRSKEDGRLYAVKRSMSPFRGPKDRARKLAEVGSHEKVGQHPCCVRLEQAWEEGGILYLQTELCGPSLQQHCEAWGASLPEAQVWGYLRDTLLALAHLHSQGLVHLDVKPANIFLGPRGRCKLGDFGLLVELGTAGAGEVQEGDPRYMAPELLQGSYGTAADVFSLGLTILEVACNMELPHGGEGWQQLRQGYLPPEFTAGLSSELRSVLVMMLEPDPKLRATAEALLALPVLRQP",
+      "msa": "/home/et3n25/boltz_benchmark/msa/13LW.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1DG6",
+      "smiles": "c1cc(cc(c1)O)[C@@H]2CC(=O)Nc3c2cnn3C4CCCC4",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1DG6",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Experimental monomer; chain A selected",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 40
+  },
+  "status": "input_curated"
+}

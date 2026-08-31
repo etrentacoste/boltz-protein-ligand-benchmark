@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9SI4",
+  "system": "Structure of human neutrophil elastase in complex with a 5,8-dihydro[1,2,4]triazolo[4,3-a]pyrimidin-3(2H)-one inhibitor",
+  "resolution_angstrom": 1.14,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "IVGGRRARPHAWPFMVSLQLRGGHFCGATLIAPNFVMSAAHCVANVNVRAVRVVLGAHNLSRREPTRQVFAVQRIFENGYDPVNLLNDIVILQLNGSATINANVQVAQLPAQGRRLGNGVQCLAMGWGLLGRNRGIASVLQELNVTVVTSLCRRSNVCTLVRGRQAGVCFGDSGSPLVCNGLIHGIASFVRGGCASGLYPDAFAPVAQFVNWIDSIIQ",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/81b5ef036db7a745.csv",
+      "sequence_hash": "81b5ef036db7a745",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JN2",
+      "smiles": "CC1=C([C@H](N2C(=O)NN=C2N1c3cccc(c3)C(F)(F)F)c4ccc(cc4CC[N+](C)(C)C)C#N)C(=O)OC",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JN2",
+    "ligand_author_chain": "A",
+    "ligand_residue": "305",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.1549,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.979,
+    "ligand_rsr": 0.053,
+    "contact_residue_count": 20,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "COC(=O)C1=C(C)N(c2cccc(C(F)(F)F)c2)c2n[nH]c(=O)n2[C@@H]1c1ccc(C#N)cc1CC[N+](C)(C)C",
+    "heavy_atoms": 39
+  },
+  "status": "automatically_prepared"
+}

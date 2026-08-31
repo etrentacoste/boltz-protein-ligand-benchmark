@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9SZN",
+  "system": "Crystal structure of the catalytic domain of USP7 in complex with Compound 43",
+  "resolution_angstrom": 1.99,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "KKHTGYVGLKNQGATCYMNSLLQTLFFTNQLRKAVYMMPTEGDDSSKSVPLALQRVFYELQHSDKPVGTKKLTKSFGWETLDSFMQHDVQELCRVLLDNVENKMKGTCVEGTIPKLFRGKMVSYIQCKEVDYRSDRREDYYDIQLSIKGKKNIFESFVDYVAVEQLDGDNKYDAGEHGLQEAEKGVKFLTLPPVLHLQLMRFMYDPQTDQNIKINDRFEFPEQLPLDEFLQKTDPKDPANYILHAVLVHSGDNHGGHYVVYLNPKGDGKWCKFDDDVVSRCTKEEAIEHNYGGHDDDLSVRHCTNAYMLVYIRESKLSEVLQAVTDHDIPQQLVERLQEEKRIEAQKRKERQE",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/458b91e56d650576.csv",
+      "sequence_hash": "458b91e56d650576",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JSJ",
+      "smiles": "Cc1cc(nc(c1C(=O)N2CC[C@@H](C2)N)c3ccnc4c3sc(c4)CN5C(=O)C6C(C5=O)C6(C)C)C(F)(F)F",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JSJ",
+    "ligand_author_chain": "A",
+    "ligand_residue": "601",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2263,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.955,
+    "ligand_rsr": 0.082,
+    "contact_residue_count": 23,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "Cc1cc(C(F)(F)F)nc(-c2ccnc3cc(CN4C(=O)C5C(C4=O)C5(C)C)sc23)c1C(=O)N1CC[C@H](N)C1",
+    "heavy_atoms": 39
+  },
+  "status": "automatically_prepared"
+}

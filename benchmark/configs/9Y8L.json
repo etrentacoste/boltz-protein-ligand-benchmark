@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9Y8L",
+  "system": "Crystal structure of the Kelch domain of human KLHL12 with compound 8e",
+  "resolution_angstrom": 1.27,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GSHMGSANEVLLVVGGFGSQQSPIDVVEKYDPKTQEWSFLPSITRKRRYVASVSLHDRIYVIGGYDGRSRLSSVECLDYTADEDGVWYSVAPMNVRRGLAGATTLGDMIYVSGGFDGSRRHTSMERYDPNIDQWSMLGDMQTAREGAGLVVASGVIYCLGGYDGLNILNSVEKYDPHTGHWTNVTPMATKRSGAGVALLNDHIYVVGGFDGTAHLSSVEAYNIRTDSWTTVTSMTTPRCYVGATVLRGRLYAIAGYDGNSLLSSIECYDPIIDSWEVVTSMGTQRCDAGVCVLRE",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/7218328fbc3bffbd.csv",
+      "sequence_hash": "7218328fbc3bffbd",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1CTQ",
+      "smiles": "Cc1cc2c(cc1C)n(c(n2)N)CC(=O)Nc3c(cc(cc3Cl)Cl)Cl",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1CTQ",
+    "ligand_author_chain": "A",
+    "ligand_residue": "601",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.1927,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.95,
+    "ligand_rsr": 0.078,
+    "contact_residue_count": 14,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "Cc1cc2nc(N)n(CC(=O)Nc3c(Cl)cc(Cl)cc3Cl)c2cc1C",
+    "heavy_atoms": 25
+  },
+  "status": "automatically_prepared"
+}

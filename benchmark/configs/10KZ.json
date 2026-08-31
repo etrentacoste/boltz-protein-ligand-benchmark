@@ -1,0 +1,51 @@
+{
+  "pdb_id": "10KZ",
+  "system": "N-Alkyl & N-Aryl Aminopyrazole Spirocarbamates: A Two-Pronged Lead Optimization Strategy to Identify Orally Bioavailable Plasma Kallikrein Inhibitors",
+  "resolution_angstrom": 1.78,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MLLVNDSHQGFNKEHTSKMVSAIVLYVLLAAAAHSAFANTGDNSVSTTKTSTRIVGGTESSWGEWPWQVSLQVKLTAQRHLCGGSLIGHQWVLTAAHCFDGLPLQDVWRIYSGILELSDITKDTPFSQIKEIIIHQNYKVSEGNHDIALIKLQAPLEYTEFQKPISLPSKGDTSTIYTNCWVTGWGFSKEKGEIQNILQKVNIPLVTNEECQKRYQDYKITQRMVCAGYKEGGKDACKGDSGGPLVCKHNGMWRLVGITSWGEGCARREQPGVYTKVAEYMDWILEKTQSSDGKAQMQSPAHHHHHH",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/cf5592d1396e1c10.csv",
+      "sequence_hash": "cf5592d1396e1c10",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1C6O",
+      "smiles": "c1ccc(cc1)Cn2cc(cn2)C(=O)N3CCC[C@]4(C3)c5c(ccc(c5F)Cl)NC(=O)O4",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1C6O",
+    "ligand_author_chain": "A",
+    "ligand_residue": "801",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.197,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.963,
+    "ligand_rsr": 0.072,
+    "contact_residue_count": 23,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=C1Nc2ccc(Cl)c(F)c2[C@@]2(CCCN(C(=O)c3cnn(Cc4ccccc4)c3)C2)O1",
+    "heavy_atoms": 32
+  },
+  "status": "automatically_prepared"
+}

@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9I9G",
+  "system": "Crystal structure of human eIF4A1 C-terminal domain in complex with hippuristanol",
+  "resolution_angstrom": 1.7,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GSEELTLEGIRQFYINVEREEWKLDTLCDLYETLTITQAVIFINTRRKVDWLTEKMHARDFTVSAMHGDMDQKERDVIMREFRSGSSRVLITTDLLARGIDVQQVSLVINYDLPTNRENYIHRIGRGGRFGRKGVAINMVTEEDKRTLRDIETFYNTSIEEMPLNVADLI",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/a2e4d91cf756bd49.csv",
+      "sequence_hash": "a2e4d91cf756bd49",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1I1L",
+      "smiles": "C[C@H]1C[C@]2([C@]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(C[C@@H]([C@H]5[C@H]4CC[C@@H]6[C@@]5(CC[C@H](C6)O)C)O)C)(C)O)OC1(C)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1I1L",
+    "ligand_author_chain": "A",
+    "ligand_residue": "501",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.1896,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.964,
+    "ligand_rsr": 0.045,
+    "contact_residue_count": 29,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "C[C@H]1C[C@@]2(O[C@H]3C[C@H]4[C@@H]5CC[C@H]6C[C@H](O)CC[C@]6(C)[C@H]5[C@@H](O)C[C@]4(C)[C@H]3[C@@]2(C)O)OC1(C)C",
+    "heavy_atoms": 33
+  },
+  "status": "automatically_prepared"
+}

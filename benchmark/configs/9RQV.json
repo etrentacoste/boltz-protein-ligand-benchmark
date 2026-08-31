@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9RQV",
+  "system": "Galectin-3 with inhibitor",
+  "resolution_angstrom": 1.54,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "PLIVPYNLPLPGGVVPRMLITILGTVKPNANRIALDFQRGNDVAFHFNPRFNENNRRVIVCNTKLDNNWGREERQSVFPFESGKPFKIQVLVEPDHFKVAVNDAHLLQYNHRVKKLNEISKLGISGDIDLTSASYTMI",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9RQV.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JIG",
+      "smiles": "c1c(cc(c(c1F)F)F)c2cn(nn2)[C@H]3[C@H]([C@H](O[C@H]([C@@H]3O)SCCO)CO)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JIG",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Experimental monomer",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 32
+  },
+  "status": "input_curated"
+}

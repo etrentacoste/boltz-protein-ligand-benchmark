@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9QDY",
+  "system": "GID4 in complex with Compound 9",
+  "resolution_angstrom": 2.1,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "SGSKFRGHQKSKGNSYDVEVVLQHVDTGNSYLCGYLKIKGLTEEYPTLTTFFEGEIISKKHPFLTRKWDADEDVDRKHWGKFLAFYQYAKSFNSDDFDYEELKNGDYVFMRWKEQFLVPDHTIKDISGASFAGFYYICFQKSAASIEGYYYHRSSEWYQSLNLTHV",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/42253a857138ba30.csv",
+      "sequence_hash": "42253a857138ba30",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1I6B",
+      "smiles": "[H]/N=C(\\Nc1cc(cc(c1)F)c2ccc(o2)C)/N3CCC(CC3)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1I6B",
+    "ligand_author_chain": "A",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.25414,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.94,
+    "ligand_rsr": 0.077,
+    "contact_residue_count": 17,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "[H]/N=C(\\Nc1cc(F)cc(-c2ccc(C)o2)c1)N1CCC(C)CC1",
+    "heavy_atoms": 23
+  },
+  "status": "automatically_prepared"
+}

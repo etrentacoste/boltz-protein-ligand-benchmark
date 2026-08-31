@@ -1,0 +1,55 @@
+{
+  "pdb_id": "10QV",
+  "system": "NQO1 dimer with S-warfarin and FAD",
+  "resolution_angstrom": 1.9,
+  "proteins": [
+    {
+      "id": [
+        "A",
+        "D"
+      ],
+      "sequence": "MGSSHHHHHHSSGLVPRGSHMVGRRALIVLAHSERTSFNYAMKEAAAAALKKKGWEVVESDLYAMNFNPIISRKDITGKLKDPANFQYPAESVLAYKEGHLSPDIVAEQKKLEAADLVIFQFPLQWFGVPAILKGWFERVFIGEFAYTYAAMYDKGPFRSKKAVLSITTGGSGSMYSLQGIHGDMNVILWPIQSGILHFCGFQVLEPQLTYSIGHTPADARIQILEGWKKRLENIWDETPLYFAPSSLFDLNFQAGFLMKKEVQDEEKNKKFGLSVGHHLGKSIPTDNQIKARK",
+      "msa": "/home/et3n25/boltz_benchmark/msa/10QV.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "SWF",
+      "smiles": "CC(=O)C[C@@H](c1ccccc1)C2=C(c3ccccc3OC2=O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    },
+    {
+      "id": "F1",
+      "ccd": "FAD",
+      "role": "cofactor",
+      "affinity_binder": false
+    },
+    {
+      "id": "F2",
+      "ccd": "FAD",
+      "role": "cofactor",
+      "affinity_binder": false
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A",
+      "D"
+    ],
+    "ligand_ccd": "SWF",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [
+    "FAD"
+  ],
+  "metals": [],
+  "assembly_note": "Chains A and D retained because both contact the warfarin binding site. One FAD was included per retained protein chain",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 96
+  },
+  "status": "input_curated"
+}

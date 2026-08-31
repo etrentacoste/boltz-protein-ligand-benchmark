@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9TF9",
+  "system": "PDGFRA-G680R mutant kinase domain in complex with avapritinib",
+  "resolution_angstrom": 2.2,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GGRKQKPRYEIRWRVIESISPDGHEYIYVDPMQLPYDSRWEFPRDGLVLGRVLGSGAFGKVVEGTAYGLSRSQPVMKVAVKMLKPTARSSEKQALMSELKIMTHLGPHLNIVNLLGACTKSGPIYIITEYCFYRDLVNYLHKNRDSFLSHKKKSMLDSEVKNLLSDDNSEGLTLLDLLSFTYQVARGMEFLASKNCVHRDLAARNVLLAQGKIVKICDFGLARDIMHDSNYVSKGSTFLPVKWMAPESIFDNLYTTLSDVWSYGILLWEIFSLGGTPYPGMMVDSTFYNKIKSGYRMAKPDHATSEVYEIMVKCWNSEPEKRPSFYHLSEIVENLLPGQYKKSYEKIHLDFLKSD",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/2a02a0e7e2707102.csv",
+      "sequence_hash": "2a02a0e7e2707102",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "9JI",
+      "smiles": "C[C@](c1ccc(cc1)F)(c2cnc(nc2)N3CCN(CC3)c4c5cc(cn5ncn4)c6cnn(c6)C)N",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "9JI",
+    "ligand_author_chain": "A",
+    "ligand_residue": "1001",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2398,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.935,
+    "ligand_rsr": 0.104,
+    "contact_residue_count": 24,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "Cn1cc(-c2cc3c(N4CCN(c5ncc([C@@](C)(N)c6ccc(F)cc6)cn5)CC4)ncnn3c2)cn1",
+    "heavy_atoms": 37
+  },
+  "status": "automatically_prepared"
+}

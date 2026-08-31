@@ -1,0 +1,53 @@
+{
+  "pdb_id": "9YMO",
+  "system": "KRAS in complex with inhibitor A1AG3, GDP and magnesium",
+  "resolution_angstrom": 1.25,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MKHHHHHHHLVPRGSMTEYKLVVVGADGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKADLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEK",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9YMO.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1AG3",
+      "smiles": "CCc1c(ccc2c1c(cc(c2)O)c3c(c4c(cn3)c(nc(n4)OC[C@@]56CCCN5C[C@@H](C6)F)N7CCC[C@@](C7)(C)O)F)F",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    },
+    {
+      "id": "G",
+      "ccd": "GDP",
+      "role": "cofactor",
+      "affinity_binder": false
+    },
+    {
+      "id": "M",
+      "ccd": "MG",
+      "role": "metal",
+      "affinity_binder": false
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1AG3",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [
+    "GDP"
+  ],
+  "metals": [
+    "MG"
+  ],
+  "assembly_note": "GDP and Mg were retained to represent the nucleotide-bound KRAS state. EDO and sulfate were excluded",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 48
+  },
+  "status": "input_curated"
+}

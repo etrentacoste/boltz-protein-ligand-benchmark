@@ -1,0 +1,37 @@
+{
+  "pdb_id": "24UH",
+  "system": "Haspin kinase in complex with inhibitor A1MFS",
+  "resolution_angstrom": 1.73,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "ASDAEKVYGECSQKGPVPFSHCLPTEKLQRCEKIGEGVFGEVFQTIADHTPVAIKIIAIEGPDLVNGSHQKTFEEILPEIIISKELSLLSGEVCNRTEGFIGLNSVHCVQGSYPPLLLKAWDHYNSTKGSANDRPDFFKDDQLFIVLEFEFGGIDLEQMRTKLSSLATAKSILHQLTASLAVAEASLRFEHRDLHWGNVLLKKTSLKKLHYTLNGKSSTIPSCGLQVSIIDYTLSRLERDGIVVFCDVSMDEDLFTGDGDYQFDIYRLMKKENNNRWGEYHPYSNVLWLHYLTDKMLKQMTFKTKCNTPAMKQIKRKIQEFHRTMLNFSSATDLLCQHSLFK",
+      "msa": "/home/et3n25/boltz_benchmark/msa/24UH.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1MFS",
+      "smiles": "c1c(c2c(cn1)n(cc2C#N)[C@H]3[C@@H]([C@@H]([C@H](S3)CN=[N+]=N)O)O)N",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1MFS",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Experimental monomer; chain A selected",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 40
+  },
+  "status": "input_curated"
+}

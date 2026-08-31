@@ -1,0 +1,51 @@
+{
+  "pdb_id": "8ZNN",
+  "system": "X-ray structure of human PPAR delta ligand binding domain in complex with a synthetic agonist 16a",
+  "resolution_angstrom": 1.95,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "VADLKAFSKHIYNAYLKNFNMTKKKARSILTGKASHTAPFVIHDIETLWQAEKGLVWKQLVNGLPPYKEISVHVFYRCQCTTVETVRELTEFAKSIPSFSSLFLNDQVTLLKYGVHEAIFAMLASIVNKDGLLVANGSGFVTREFLRSLRKPFSDIIEPKFEFAVKFNALELDDSDLALFIAAIILCGDRPGLMNVPRVEAIQDTILRALEFHLQANHPDAQYLFPKLLQKMADLRQLVTEHAQMMQRIKKTETETSLHPLLQEIYKDMY",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/f00c05f72367d9cf.csv",
+      "sequence_hash": "f00c05f72367d9cf",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1D86",
+      "smiles": "c1ccc(c(c1)Cn2c3ccccc3nc2c4ccc(cc4)OC(F)(F)F)OCCCCCC(=O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1D86",
+    "ligand_author_chain": "A",
+    "ligand_residue": "501",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.227,
+    "ligand_mean_occupancy": 0.91,
+    "ligand_rscc": 0.955,
+    "ligand_rsr": 0.058,
+    "contact_residue_count": 30,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=C(O)CCCCCOc1ccccc1Cn1c(-c2ccc(OC(F)(F)F)cc2)nc2ccccc21",
+    "heavy_atoms": 36
+  },
+  "status": "automatically_prepared"
+}

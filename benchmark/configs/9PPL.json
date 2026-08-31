@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9PPL",
+  "system": "Structure of STING in complex with MK-2118",
+  "resolution_angstrom": 2.01,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "NVAHGLAWSYYIGYLRLILPELQARIRTYNQHYNNLLRGAVSQRLYILLPLDCGVPDNLSMADPNIRFLDKLPQQTADRAGIKDRVYSNSIYELLENGQRAGTCVLEYATPLQTLFAMSQYSQAGFSREDRLEQAKLFCQTLEDILADAPESQNNCRLIAYQEPADDSSFSLSQEVLRHLRQEEKEEV",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/af2f086510df3b49.csv",
+      "sequence_hash": "af2f086510df3b49",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1CIY",
+      "smiles": "C[C@@H](CC(=O)c1cc2cc(c(cc2s1)OC)OC)C(=O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1CIY",
+    "ligand_author_chain": "A",
+    "ligand_residue": "401",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.1857,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.979,
+    "ligand_rsr": 0.046,
+    "contact_residue_count": 10,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "COc1cc2cc(C(=O)C[C@H](C)C(=O)O)sc2cc1OC",
+    "heavy_atoms": 21
+  },
+  "status": "automatically_prepared"
+}

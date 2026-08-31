@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9NWX",
+  "system": "Discovery of a Small Molecule ITK and Pan-TRK Kinase Inhibitor (PF-07245303) for the Potential Topical Treatment of Atopic Dermatitis",
+  "resolution_angstrom": 1.348,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GSGKWVIDPSELTFVQEIGSGQFGLVHLGYWLNKDKVAIKTIREGAMSEEDFIEEAEVMMKLSHPKLVQLYGVCLEQAPICLVFEFMEHGCLSDYLRTQRGLFAAETLLGMCLDVCEGMAYLEEACVIHRDLAARNCLVGENQVIKVSDFGMTRFVLDDQYTSSTGTKFPVKWASPEVFSFSRYSSKSDVWSFGVLMWEVFSEGKIPYENRSNSEVVEDISTGFRLYKPRLASTHVYQIMNHCWRERPEDRPAFSRLLRQLAEIAESGL",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/59aa413429dd397f.csv",
+      "sequence_hash": "59aa413429dd397f",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1B66",
+      "smiles": "Cc1cc2c(cc1N(C)C(=O)[C@H](C)N3CCOCC3)nc([nH]2)c4c5c([nH]n4)C[C@]6(C[C@H]6C5)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1B66",
+    "ligand_author_chain": "A",
+    "ligand_residue": "4000",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2274,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.961,
+    "ligand_rsr": 0.064,
+    "contact_residue_count": 18,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "Cc1cc2[nH]c(-c3n[nH]c4c3C[C@@H]3C[C@]3(C)C4)nc2cc1N(C)C(=O)[C@H](C)N1CCOCC1",
+    "heavy_atoms": 33
+  },
+  "status": "automatically_prepared"
+}

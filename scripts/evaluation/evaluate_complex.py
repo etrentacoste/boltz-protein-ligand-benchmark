@@ -128,12 +128,27 @@ def main():
         type=Path,
         default=Path.home() / "boltz_visualization",
     )
+    parser.add_argument(
+	"--config-dir",
+	type=Path,
+	default=None,
+	help=(
+	    "Directory containing published <PDB_ID>.json "
+	    "configuration files. If omitted, uses "
+	    "<root>/<PDB_ID>/config.json."
+	),
+    )
     args = parser.parse_args()
 
     pdb_id = args.pdb_id.upper()
     root = args.root
     complex_dir = root / pdb_id
-    config_path = complex_dir / "config.json"
+    script_dir = Path(__file__).resolve().parent
+
+    if args.config_dir is None:
+        config_path = complex_dir / "config.json"
+    else:
+        config_path = args.config_dir / f"{pdb_id}.json"
 
     if not config_path.is_file():
         raise FileNotFoundError(config_path)
@@ -173,7 +188,7 @@ def main():
         retained_nonpolymers,
     )
 
-    sdf_generator = root / "make_boltz_ligand_sdf.py"
+    sdf_generator = script_dir / "make_boltz_ligand_sdf.py"
 
     for model in ["boltz1", "boltz2"]:
         run([
@@ -183,6 +198,8 @@ def main():
             pdb_id,
             "--model",
             model,
+	    "--root",
+	    root,
         ])
 
     metrics_dir = complex_dir / "metrics"
@@ -251,9 +268,11 @@ def main():
 
     run([
         sys.executable,
-        root / "summarize_boltz_results.py",
+        script_dir / "summarize_boltz_results.py",
         "--pdb-id",
         pdb_id,
+	"--root",
+	root,
     ])
 
     print()

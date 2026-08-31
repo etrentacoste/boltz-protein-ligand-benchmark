@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9VCZ",
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1ERJ",
+      "role": "primary_ligand"
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1ERJ",
+    "ligand_author_chain": "C",
+    "remove_waters": true
+  }
+}

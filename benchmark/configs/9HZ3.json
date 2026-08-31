@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9HZ3",
+  "system": "PCSK9 in complex with laroprovstat/AZD0780",
+  "resolution_angstrom": 1.432,
+  "proteins": [
+    {
+      "id": "B",
+      "sequence": "SIPWNLERITPPRYRADEYQPPDGGSLVEVYLLDTSIQSDHREIEGRVMVTDFENVPEEDGTRFHRQASKCDSHGTHLAGVVSGRDAGVAKGASMRSLRVLNCQGKGTVSGTLIGLEFIRKSQLVQPVGPLVVLLPLAGGYSRVLNAACQRLARAGVVLVTAAGNFRDDACLYSPASAPEVITVGATNAQDQPVTLGTLGTNFGRCVDLFAPGEDIIGASSDCSTCFVSQSGTSQAAAHVAGIAAMMLSAEPELTLAELRQRLIHFSAKDVINEAWFPEDQRVLTPNLVAALPPSTHGAGWQLFCRTVWSAHSGPTRMATAIARCAPDEELLSCSSFSRSGKRRGERMEAQGGKLVCRAHNAFGGEGVYAIARCCLLPQANCSVHTAPPAEASMGTRVHCHQQGHVLTGCSSHWEVEDLGTHKPPVLRPRGQPNQCVGHREASIHASCCHAPGLECKVKEHGIPAPQEQVTVACEEGWTLTGCSALPGTSHVLGAYAVDNTCVVRSRDVSTTGSTSEEAVTAVAICCRSRHLAQASQELQENLYFQGHHHHHH",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9HZ3.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1IYR",
+      "smiles": "c1cc(ncc1N2C=CC=CC2=O)N[C@H]3CC[C@@H](C3)Nc4ncc(cn4)OC(F)F",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "B"
+    ],
+    "ligand_ccd": "A1IYR",
+    "ligand_author_chain": "B",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Only chain B was retained; chain A was 36.365 Angstrom from the target ligand",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 96
+  },
+  "status": "input_curated"
+}

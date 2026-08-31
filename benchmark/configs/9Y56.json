@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9Y56",
+  "system": "BTK kinase domain with HBC-12551",
+  "resolution_angstrom": 1.6,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "KNAPSTAGLGYGSWEIDPKDLTFLKELGTGQFGVVKYGKWRGQYDVAIKMIKEGSMSEDEFIEEAKVMMNLSHEKLVQLYGVCTKQRPIFIITEYMANGCLLNYLREMRHRFQTQQLLEMCKDVCEAMEYLESKQFLHRDLAARNCLVNDQGVVKVSDFGLSRYVLDDEYTSSVGSKFPVRWSPPEVLMYSKFSSKSDIWAFGVLMWEIYSLGKMPYERFTNSETAEHIAQGLRLYRPHLASEKVYTIMYSCWHEKADERPTFKILLSNILDVMDEES",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9Y56.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1CSI",
+      "smiles": "C[C@@H](c1c(ccc(n1)Nc2cnn(c2C(=O)N)c3ccc(cc3)CNC(=O)c4cc(ccc4OC)F)N5CCN(CC5)CCOC)OC",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1CSI",
+    "ligand_residue": "702",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Experimental monomer",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 32
+  },
+  "status": "input_curated"
+}

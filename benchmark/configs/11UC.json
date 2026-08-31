@@ -1,0 +1,37 @@
+{
+  "pdb_id": "11UC",
+  "system": "CK2 alpha in complex with inhibitor A1DAS",
+  "resolution_angstrom": 1.962,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MSGPVPSRARVYTDVNTHRPREYWDYESHVVEWGNQDDYQLVRKLGRGKYSEVFEAINITNNEKVVVKILKPVKKKKIKREIKILENLRGGPNIITLADIVKDPVSRTPALVFEHVNNTDFKQLYQTLTDYDIRFYMYEILKALDYCHSMGIMHRDVKPHNVMIDHEHRKLRLIDWGLAEFYHPGQEYNVRVASRYFKGPELLVDYQMYDYSLDMWSLGCMLASMIFRKEPFFHGHDNYDQLVRIAKVLGTEDLYDYIDKYNIELDPRFNDILGRHSRKRWERFVHSENQHLVSPEALDFLDKLLRYDHQSRLTAREAMEHPYFYTVVKDQARMG",
+      "msa": "/home/et3n25/boltz_benchmark/msa/11UC.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1DAS",
+      "smiles": "CN1CCN(CC1)c2cc(cc(c2Cl)Nc3cc(c4ncc(n4n3)C#N)NC5CC5)NC(=O)OC",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1DAS",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Mn and chloride excluded; minimum ligand distances were 40.246 and 22.167 Angstrom, respectively",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 40
+  },
+  "status": "input_curated"
+}

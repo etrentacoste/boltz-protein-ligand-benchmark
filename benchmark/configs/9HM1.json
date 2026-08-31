@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9HM1",
+  "system": "Crystal structure of GSK3b in complex with N-(4-{5-[(2-aminoethyl)sulfamoyl]thiophen-2-yl}pyridin-2-yl)cyclopropanecarboxamide inhibitor",
+  "resolution_angstrom": 2.45,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MKVSRDKDGSKVTTVVATPGQGPDRPQEVSYTDTKVIGNGSFGVVYQAKLCDSGELVAIKKVLQDKRFKNRELQIMRKLDHCNIVRLRYFFYSSGEKKDEVYLNLVLDYVPETVYRVARHYSRAKQTLPVIYVKLYMYQLFRSLAYIHSFGICHRDIKPQNLLLDPDTAVLKLCDFGSAKQLVRGEPNVSYICSRYYRAPELIFGATDYTSSIDVWSAGCVLAELLLGQPIFPGDSGVDQLVEIIKVLGTPTREQIREMNPNYTEFKFPQIKAHPWTKVFRPRTPPEAIALCSRLLEYTPTARLTPLEACAHSFFDELRDPNVKLPNGRDTPALFNFTTQELSSNPPLATILIPPHARENLYFQ",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/99adbc0e78a2347f.csv",
+      "sequence_hash": "99adbc0e78a2347f",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1IV9",
+      "smiles": "c1cc(sc1c2ccnc(c2)NC(=O)C3CC3)S(=O)(=O)NCCN",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1IV9",
+    "ligand_author_chain": "A",
+    "ligand_residue": "401",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2628,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.916,
+    "ligand_rsr": 0.112,
+    "contact_residue_count": 19,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "NCCNS(=O)(=O)c1ccc(-c2ccnc(NC(=O)C3CC3)c2)s1",
+    "heavy_atoms": 24
+  },
+  "status": "automatically_prepared"
+}

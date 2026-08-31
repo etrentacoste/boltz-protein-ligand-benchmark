@@ -1,0 +1,38 @@
+{
+  "pdb_id": "10PJ",
+  "system": "JAK2 in complex with inhibitor A1C68",
+  "resolution_angstrom": 1.59,
+  "proteins": [
+    {
+      "id": "B",
+      "sequence": "MHHHHHHSSGVDLGTENLYFQSMDPTQFEERHLKFLQQLGKGNFGSVEMCRYDPLQDNTGEVVAVKKLQHSTEEHLRDFEREIEILKSLQHDNIVKYKGVCYSAGRRNLKLIMEYLPYGSLRDYLQKHKERIDHIKLLQYTSQICKGMEYLGTKRYIHRDLATRNILVENENRVKIGDFGLTKVLPQDKEYYKVKEPGESPIFWYAPESLTESKFSVASDVWSFGVVLYELFTYIEKSKSPPAEFMRMIGNDKQGQMIVFHLIELLKNNGRLPRPDGCPDEIYMIMTECWNNNVNQRPSFRDLALRVDQIRDNMAG",
+      "msa": "/home/et3n25/boltz_benchmark/msa/10PJ.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1C68",
+      "smiles": "Cc1c(c(n[nH]1)C)c2cnn(c2)C3(CN(C3)c4cc(c(cc4F)C(=O)N[C@@H](C)C(F)(F)F)F)CC#N",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "B"
+    ],
+    "ligand_ccd": "A1C68",
+    "ligand_author_chain": "B",
+    "remove_waters": true,
+    "ligand_residue": "2001"
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Crystal chain B selected; malonic acid excluded. PTR1007 and PTR1008 were not explicitly represented because their minimum ligand distances were 18.591 and 12.129 Angstrom, respectively",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 48
+  },
+  "status": "input_curated"
+}

@@ -1,0 +1,51 @@
+{
+  "pdb_id": "31WA",
+  "system": "Crystal structure of the HPK1 kinase domain in complex with inhibitor 5b",
+  "resolution_angstrom": 1.42,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GSDVVDPDIFNRDPRDHYDLLQRLGGGTYGEVFKARDKVSGDLVALKMVKMEPDDDVSTLQKEILILKTCRHANIVAYHGSYLWLQKLWICMEFCGAGSLQDIYQVTGSLSELQISYVCREVLQGLAYLHSQKKIHRDIKGANILINDAGEVRLADFGISAQIGAELARRLEFIGTPYWMAPEVAAVALKGGYNELCDIWSLGITAIELAELQPPLFDVHPLRVLFLMTKSGYQPPRLKEKGKWSAAFHNFIKVTLTKSPKKRPSATKMLSHQLVSQPGLNRGLILDLLDKLKN",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/04f0b71f189c72d0.csv",
+      "sequence_hash": "04f0b71f189c72d0",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1KCT",
+      "smiles": "Cn1cnc2c1cncc2c3cc4c(c(cnc4N)c5ccc(cc5)N6CCOCC6)nc3OC",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1KCT",
+    "ligand_author_chain": "A",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.226,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.906,
+    "ligand_rsr": 0.103,
+    "contact_residue_count": 24,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "COc1nc2c(-c3ccc(N4CCOCC4)cc3)cnc(N)c2cc1-c1cncc2c1ncn2C",
+    "heavy_atoms": 35
+  },
+  "status": "automatically_prepared"
+}

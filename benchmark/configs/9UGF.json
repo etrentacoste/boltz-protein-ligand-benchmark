@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9UGF",
+  "system": "CDK2 small molecule F05",
+  "resolution_angstrom": 1.64,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GPLGSMENFQKVEKIGEGTYGVVYKARNKLTGEVVALKKIRLDTETEGVPSTAIREISLLKELNHPNIVKLLDVIHTENKLYLVFEFLHQDLKKFMDASALTGIPLPLIKSYLFQLLQGLAFCHSHRVLHRDLKPQNLLINTEGAIKLADFGLARAFGVPVRTYTHEVVTLWYRAPEILLGCKYYSTAVDIWSLGCIFAEMVTRRALFPGDSEIDQLFRIFRTLGTPDEVVWPGVTSMPDYKPSFPKWARQDFSKVVPPLDEDGRSLLSQMLHYDPNKRISAKAALAHPFFQDVTKPVPHLRL",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/9f7273d45fc46046.csv",
+      "sequence_hash": "9f7273d45fc46046",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1EO5",
+      "smiles": "CS(=O)(=O)N1CCC(CC1)Nc2ncc3c(n2)N(C(=O)C=C3)C4CCN(CC4)Cc5cn(nn5)[C@H](CO)c6ccccc6",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1EO5",
+    "ligand_author_chain": "A",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2523,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.941,
+    "ligand_rsr": 0.095,
+    "contact_residue_count": 20,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CS(=O)(=O)N1CCC(Nc2ncc3ccc(=O)n(C4CCN(Cc5cn([C@H](CO)c6ccccc6)nn5)CC4)c3n2)CC1",
+    "heavy_atoms": 43
+  },
+  "status": "automatically_prepared"
+}

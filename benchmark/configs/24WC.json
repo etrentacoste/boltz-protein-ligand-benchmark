@@ -1,0 +1,51 @@
+{
+  "pdb_id": "24WC",
+  "system": "Crystal structure of Haspin (GSG2) with an ATP-mimicking inhibitor LJ-5242",
+  "resolution_angstrom": 1.88,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "ASDAEKVYGECSQKGPVPFSHCLPTEKLQRCEKIGEGVFGEVFQTIADHTPVAIKIIAIEGPDLVNGSHQKTFEEILPEIIISKELSLLSGEVCNRTEGFIGLNSVHCVQGSYPPLLLKAWDHYNSTKGSANDRPDFFKDDQLFIVLEFEFGGIDLEQMRTKLSSLATAKSILHQLTASLAVAEASLRFEHRDLHWGNVLLKKTSLKKLHYTLNGKSSTIPSCGLQVSIIDYTLSRLERDGIVVFCDVSMDEDLFTGDGDYQFDIYRLMKKENNNRWGEYHPYSNVLWLHYLTDKMLKQMTFKTKCNTPAMKQIKRKIQEFHRTMLNFSSATDLLCQHSLFK",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/c7e5aa77cfb6e30f.csv",
+      "sequence_hash": "c7e5aa77cfb6e30f",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1MFT",
+      "smiles": "C#Cc1cn(c2c1c(ncn2)N)[C@H]3[C@@H]([C@@H]([C@H](S3)CNS(=O)(=O)N)O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1MFT",
+    "ligand_author_chain": "A",
+    "ligand_residue": "801",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2071,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.927,
+    "ligand_rsr": 0.104,
+    "contact_residue_count": 20,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "C#Cc1cn([C@@H]2S[C@H](CNS(N)(=O)=O)[C@@H](O)[C@H]2O)c2ncnc(N)c12",
+    "heavy_atoms": 25
+  },
+  "status": "automatically_prepared"
+}

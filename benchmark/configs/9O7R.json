@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9O7R",
+  "system": "Crystal structure of human adenosine kinase (ADK) in complex with inhibitor BKI-1553",
+  "resolution_angstrom": 2.41,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MAHHHHHHMKSDSEVNQEAKPEVKPEVKPETHINLKVSDGSSEIFFKIKKTTPLRRLMEAFAKRQGKEMDSLRFLYDGIRIQADQTPEDLDMEDNDIIEAHREQIGGTLEAQTQGPGAAAMTSVRENILFGMGNPLLDISAVVDKDFLDKYSLKPNDQILAEDKHKELFDELVKKFKVEYHAGGSTQNSIKVAQWMIQQPHKAATFFGCIGIDKFGEILKRKAAEAHVDAHYYEQNEQPTGTCAACITGDNRSLIANLAAANCYKKEKHLDLEKNWMLVEKARVCYIAGFFLTVSPESVLKVAHHASENNRIFTLNLSAPFISQFYKESLMKVMPYVDILFGNETEAATFAREQGFETKDIKEIAKKTQALPKMNSKRQRIVIFTQGRDDTIMATESEVTAFAVLDQDQKEIIDTNGAGDAFVGGFLSQLVSDKPLTECIRAGHYAASIIIRRTGCTFPEKPDFH",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/d1ad38e4193fe857.csv",
+      "sequence_hash": "d1ad38e4193fe857",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "UW5",
+      "smiles": "CC(C)(Cn1c2c(c(n1)c3ccc4cc(ccc4c3)OC5CC5)c(ncn2)N)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "UW5",
+    "ligand_author_chain": "A",
+    "ligand_residue": "406",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2584,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.946,
+    "ligand_rsr": 0.115,
+    "contact_residue_count": 12,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CC(C)(O)Cn1nc(-c2ccc3cc(OC4CC4)ccc3c2)c2c(N)ncnc21",
+    "heavy_atoms": 29
+  },
+  "status": "automatically_prepared"
+}

@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9SUV",
+  "system": "Structure of an inhibitor of Human TGF-beta Type I Receptor",
+  "resolution_angstrom": 1.5,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GGTIARTIVLQESIGKGRFGEVWRGKWRGEEVAVKIFSSREERSWFREAEIYQTVMLRHENILGFIAADNKDNGTWTQLWLVSDYHEHGSLFDYLNRYTVTVEGMIKLALSTASGLAHLHMEIVGTQGKPAIAHRDLKSKNILVKKNGTCCIADLGLAVRHDSATDTIDIAPNHRVGTKRYMAPEVLDDSINMKHFESFKRADIYAMGLVFWEIARRCSIGGIHEDYQLPYYDLVPSDPSVEEMRKVVCEQKLRPNIPNRWQSCEALRVMAKIMRECWYANGAARLTALRIKKTLSQLSQQEGIKM",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/702b98333ea2ae36.csv",
+      "sequence_hash": "702b98333ea2ae36",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JQO",
+      "smiles": "CN1CCN(CC1)CCC(=O)Nc2cc(ccn2)Nc3cc(nnc3SCCO)c4cc(ccc4F)Cl",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1JQO",
+    "ligand_author_chain": "A",
+    "ligand_residue": "601",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.211,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.975,
+    "ligand_rsr": 0.058,
+    "contact_residue_count": 27,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "CN1CCN(CCC(=O)Nc2cc(Nc3cc(-c4cc(Cl)ccc4F)nnc3SCCO)ccn2)CC1",
+    "heavy_atoms": 37
+  },
+  "status": "automatically_prepared"
+}

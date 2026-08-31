@@ -1,0 +1,45 @@
+{
+  "pdb_id": "9RV0",
+  "system": "Carbonic anhydrase I with aprocitentan-related inhibitor and zinc",
+  "resolution_angstrom": 1.69,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MASPDWGYDDKNGPEQWSKLYPIANGNNQSPVDIKTSETKHDTSLKPISVSYNPATAKEIINVGHSFHVNFEDNDNRSVLKGGPFSDSYRLFQFHFHWGSTNEHGSEHTVDGVKYSAELHVAHWNSAKYSSLAEAASKADGLAVIGVLMKVGEANPKLQKVLDALQAIKTKGKRAPFTNFDPSTLLPSSLDFWTYPGSLTHPPLYESVTWIICKESISVSSEQLAQFRSLLSNVEGDNAVPMQHNNRPTQPLKGRTVRASF",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9RV0.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1JJR",
+      "smiles": "c1cc(ccc1c2c(ncnc2OCCOc3ncc(cn3)Br)NS(=O)(=O)N)Br",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    },
+    {
+      "id": "Z",
+      "ccd": "ZN",
+      "role": "metal",
+      "affinity_binder": false
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "AAA"
+    ],
+    "ligand_ccd": "A1JJR",
+    "ligand_author_chain": "AAA",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [
+    "ZN"
+  ],
+  "assembly_note": "Author chain AAA selected; BBB is an equivalent crystal copy. Zinc retained at 1.804 Angstrom from the ligand",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 48
+  },
+  "status": "input_curated"
+}

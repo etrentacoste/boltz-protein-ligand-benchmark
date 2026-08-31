@@ -1,0 +1,43 @@
+{
+  "pdb_id": "11LJ",
+  "system": "OGA split construct in complex with inhibitor A1DE3",
+  "resolution_angstrom": 2.325,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "EERESELSSNPAASAGASLEPPAAPAPGEDNPAGAGGAAVAGAAGGARRFLCGVVEGFYGRPWVMEQRKELFRRLQKWELNTYLYAPKDDYKHRMFWREMYSVEEAEQLMTLISAAREYEIEFIYAISPGLDITFSNPKEVSTLKRKLDQVSQFGCRSFALLFDDIDHNMCAADKEVFSSFAHAQVSITNEIYQYLGEPETFLFCPTEYCGTFCYPNVSQSPYLRTVGEKLLPGIEVLWTGPKVVSKEIPVESIEEVSKIIKRAPVIWDNIHANDYDQKRLFLGPYKGRSTELIPRLKGVLTNPNCEFEANYVAIHTLATWYKSNMNGVRKDVVMTDSEDSTVSIQIKLENEGSDEDIETDVLYSPQMALKLALTEWLQEFGVPHQ",
+      "msa": "/home/et3n25/boltz_benchmark/msa/11LJ_A.csv"
+    },
+    {
+      "id": "D",
+      "sequence": "KEQFVPGPNEKPLYTAEPVTLEDLQLLADLFYLPYEHGPKGAQMLREFQWLRANSSVVSVNCKGKDSEKIEEWRSRAAKFEEMCGLVMGMFTRLSNCANRTILYDMYSYVWDIKSIMSMVKSFVQWLGCRSHSSAQFLIGDQEPWAFRGGLAGEFQRLLPIDGANDLFFQ",
+      "msa": "/home/et3n25/boltz_benchmark/msa/11LJ_D.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1DE3",
+      "smiles": "Cc1ccnc(c1Nc2c3ccn(c3ccn2)CC(=O)N(C)C)C(C)C",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A",
+      "D"
+    ],
+    "ligand_ccd": "A1DE3",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "Chains A and D retained because the chain-A ligand contacts residues from both fragments. Calcium excluded at 27.539 Angstrom from the ligand",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 96
+  },
+  "status": "input_curated"
+}

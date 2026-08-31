@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9X53",
+  "system": "Crystal structure of RhoGDI2 in complex with Compound HR3119",
+  "resolution_angstrom": 1.85,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "DPKAPNVVVTRLTLVCESAPGPITMDLTGDLEALKKETIVLKEGSEYRVKIHFKVNRDIVSGLKYVQHTYRTGVKVDKATFMVGSYGPRPEEYEFLTPVEEAPKGMLARGTYHNKSFFTDDDKQDHLSWEWNLSIKKEWTE",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/006cdb19fb661b51.csv",
+      "sequence_hash": "006cdb19fb661b51",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1EY6",
+      "smiles": "c1ccc(c(c1)c2ccc(cc2)[C@H](c3cccs3)NC(=O)CNC(=O)[C@@H]4CCNC4)F",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1EY6",
+    "ligand_author_chain": "A",
+    "ligand_residue": "301",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2452,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.915,
+    "ligand_rsr": 0.097,
+    "contact_residue_count": 19,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=C(CNC(=O)[C@@H]1CCNC1)N[C@H](c1ccc(-c2ccccc2F)cc1)c1cccs1",
+    "heavy_atoms": 31
+  },
+  "status": "automatically_prepared"
+}

@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9I3Y",
+  "system": "CRYSTAL STRUCTURE OF HUMAN MONOACYLGLYCEROL LIPASE WITH COMPOUND 17",
+  "resolution_angstrom": 1.45,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MGSSHHHHHHSSGENLYFQGMPEESSPRRTPQSIPYQDLPHLVNADGQYLFCRYWAPTGTPKALIFVSHGAGEHSGRYEELARMLMGLDLLVFAHDHVGHGQSEGERMVVSDFHVFVRDVLQHVDSMQKDYPGLPVFLLGHSMGGAIAILTAAERPGHFAGMVLISPLVLANPESATTFKVLAAKVLNSVLPNLSSGPIDSSVLSRNKTEVDIYNSDPLICRAGLKVCFGIQLLNAVSRVERALPKLTVPFLLLQGSADRLCDSKGAYLLMELAKSQDKTLKIYEGAYHVLHKELPEVTNSVFHEINMWVSQRTATAGTASPP",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/d876c3e71dd7e232.csv",
+      "sequence_hash": "d876c3e71dd7e232",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1IZ6",
+      "smiles": "c1ccc2c(c1)C(=O)NC(=N2)N3CCN(CC3)C(=O)c4ccc5c(c4)oc(n5)c6cccnc6",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1IZ6",
+    "ligand_author_chain": "A",
+    "ligand_residue": "401",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.2131,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.972,
+    "ligand_rsr": 0.069,
+    "contact_residue_count": 29,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "O=C(c1ccc2nc(-c3cccnc3)oc2c1)N1CCN(c2nc3ccccc3c(=O)[nH]2)CC1",
+    "heavy_atoms": 34
+  },
+  "status": "automatically_prepared"
+}

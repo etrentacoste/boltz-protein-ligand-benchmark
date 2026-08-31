@@ -1,0 +1,51 @@
+{
+  "pdb_id": "9QZR",
+  "system": "Room temperature fragment screening of soluble epoxide hydrolase by serial crystallography",
+  "resolution_angstrom": 1.85,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "GMTLRAAVFDLDGVLALPAVFGVLGRTEEALALPRGLLNDAFQKGGPEGATTRLMKGEITLSQWIPLMEENCRKCSETAKVCLPKNFSIKEIFDKAISARKINRPMLQAALMLRKKGFTTAILTNTWLDDRAERDGLAQLMCELKMHFDFLIESCQVGMVKPEPQIYKFLLDTLKASPSEVVFLDDIGANLKPARDLGMVTILVQDTDTALKELEKVTGIQLLNTPAPLPTSCNPSDMSHGYVTVKPRVRLHFVELGSGPAVCLCHGFPESWYSWRYQIPALAQAGYRVLAMDMKGYGESSAPPEIEEYCMEVLCKEMVTFLDKLGLSQAVFIGHDWGGMLVWYMALFYPERVRAVASLNTPFIPANPNMSPLESIKANPVFDYQLYFQEPGVAEAELEQNLSRTFKSLFRASDESVLSMHKVCEAGGLFVNSPEEPSLSRMVTEEEIQFYVQQFKKSGFRGPLNWYRNMERNWKWACKSLGRKILIPALMVTAEKDFVLVPQMSQHMEDWIPHLKRGHIEDCGHWTQMDKPTEVNQILIKWLDSDARN",
+      "msa": "/home/et3n25/boltz_benchmark/msa/by_sequence/85c9f0b6dc76d17d.csv",
+      "sequence_hash": "85c9f0b6dc76d17d",
+      "source_chains": [
+        "A"
+      ]
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "X8D",
+      "smiles": "CC1=CC2=NNC(=O)N2c3c1cccc3",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "X8D",
+    "ligand_author_chain": "A",
+    "ligand_residue": "601",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "selection_quality": {
+    "r_free": 0.213,
+    "ligand_mean_occupancy": 1.0,
+    "ligand_rscc": 0.874,
+    "ligand_rsr": 0.111,
+    "contact_residue_count": 14,
+    "validation_decision": "INCLUDE"
+  },
+  "smiles_source": {
+    "type": "SMILES_CANONICAL",
+    "program": "OpenEye OEToolkits",
+    "canonical_rdkit": "Cc1cc2n[nH]c(=O)n2c2ccccc12",
+    "heavy_atoms": 15
+  },
+  "status": "automatically_prepared"
+}

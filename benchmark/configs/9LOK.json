@@ -1,0 +1,41 @@
+{
+  "pdb_id": "9LOK",
+  "system": "PTP1B dimer with fumosorinone A1L7F",
+  "resolution_angstrom": 2.5,
+  "proteins": [
+    {
+      "id": [
+        "A",
+        "B"
+      ],
+      "sequence": "MEMEKEFEQIDRSGSWAAIYQDIRHEASDFPCRVAKLPKNKNRNRYRDVSPFDHSRIKLHQEDNDYINASLIKMEEAQRSYILTQGPLPNTCGHFWEMVWEQKSRGVVMLNRVMEKGSLKCAQYWPQKEEKEMIFEDTNLKLTLISEDIKSYYTVRQLELENLTTQETREILHFHYTTWPDFGVPESPASFLNFLFKVRESGSLSPEHGPVVVHCSAGIGRSGTFCLADTCLLLMDKRKDPSSVDIKKVLLEMRKFRMGLIQTADQLRFSYLAVIEGAKFIMGDSSVQDQWKELSHEDL",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9LOK.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1L7F",
+      "smiles": "CC[C@@H](C)C[C@@H](C)/C=C(\\C)/C=C\\C=C\\C=C(/C)\\C(=O)C1=C(C(=CN(C1=O)O)c2ccc(cc2)O)O",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A",
+      "B"
+    ],
+    "ligand_ccd": "A1L7F",
+    "ligand_author_chain": "B",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "The crystal contains two equivalent A1L7F sites in the PTP1B dimer. One ligand was predicted and assigned to the closest symmetry-equivalent experimental site",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 80
+  },
+  "status": "input_curated"
+}

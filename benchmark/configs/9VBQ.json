@@ -1,0 +1,37 @@
+{
+  "pdb_id": "9VBQ",
+  "system": "FXR in complex with agonist A1ERH",
+  "resolution_angstrom": 2.303,
+  "proteins": [
+    {
+      "id": "A",
+      "sequence": "MGHHHHHHGSTELTPDQQTLLHFIMDSYNKQRMPQEITNKILKEAFSAEENFLILTEMATNHVQVLVEFTKKLPGFQTLDHEDQIALLKGSAVEAMFLRSAEIFNKKLPSGHSDLLEARIRNSGISDEYITPMFSFYKSIGELKMTQEEYALLTAIVILSPDRQYIKDREAVEKLQEPLLDVLQKLCKIHQPENPQHFACLLGRLTELRTFNHHHAEMLMSWRVNDHKFTPLLCEIWDVQ",
+      "msa": "/home/et3n25/boltz_benchmark/msa/9VBQ.csv"
+    }
+  ],
+  "ligands": [
+    {
+      "id": "L",
+      "ccd": "A1ERH",
+      "smiles": "C[C@@H]1C[C@H](c2ccccc2N1C(=O)[C@@H](C)N3C(=O)[C@@H]4CCCC[C@@H]4C3=O)Nc5ccccc5",
+      "role": "primary_ligand",
+      "affinity_binder": true
+    }
+  ],
+  "reference": {
+    "protein_chains": [
+      "A"
+    ],
+    "ligand_ccd": "A1ERH",
+    "ligand_author_chain": "A",
+    "remove_waters": true
+  },
+  "cofactors": [],
+  "metals": [],
+  "assembly_note": "The NCOA1 peptide was excluded because it was 14.190 Angstrom from the ligand. Formate molecules were treated as crystallization additives and excluded",
+  "resources": {
+    "cpus": 8,
+    "memory_gb": 48
+  },
+  "status": "input_curated"
+}
