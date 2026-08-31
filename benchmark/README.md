@@ -11,7 +11,8 @@ protein–ligand complexes evaluated with Boltz-1 and Boltz-2.
 The benchmark combines:
 
 - 30 manually curated pilot systems;
-- 70 systems obtained using the automated RCSB selection pipeline.
+- 70 systems in the final automated cohort, recorded in
+  [`selection/stage7_final_automatic_70.csv`](selection/stage7_final_automatic_70.csv).
 
 ## Selection workflow
 

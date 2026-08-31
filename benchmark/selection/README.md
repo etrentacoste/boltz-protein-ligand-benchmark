@@ -29,7 +29,8 @@ The complete machine-readable RCSB query is provided in `stage0_query.json`.
 | Stage 3 | Target-diversity filtering, with at most two entries per target signature | 121 |
 | Stage 4 | Coordinate-level screening of the experimental complexes | 98 |
 | Stage 5 | Experimental ligand validation screening | 89 |
-| Stage 6 | Automatic cohort selected for prediction | 70 |
+| Stage 6 | Initial automatic cohort selected for prediction | 70 |
+| Stage 7 | Final automatic cohort actually predicted after ten replacements | 70 |
 | Final benchmark | Automatic cohort plus 30 previously manually curated systems | 100 |
 
 ### Stage 2 classifications
@@ -106,15 +107,29 @@ The 89 `INCLUDE` entries passed the final automated ligand-quality criteria. The
 
 - `scripts/selection/classify_ligand_validation.py`
 
-### Stage 6 and final benchmark
+### Stages 6 and 7 and final benchmark
 
-`stage6_final_clean_candidates.csv` contains the 89 candidates that passed the complete automated selection workflow.
+`stage6_final_clean_candidates.csv` contains the 89 candidates that passed the
+complete automated selection workflow.
 
-`stage6_core_70.csv` contains the 70 systems selected from this pool for Boltz-1 and Boltz-2 prediction. These systems formed seven prediction batches of ten complexes.
+`stage6_initial_core_70.csv` records the **initial** 70-system automatic
+cohort selected from this pool. Ten of these systems were subsequently
+replaced before inference.
+
+`stage7_final_automatic_70.csv` is the authoritative 70-system automatic
+cohort actually simulated with Boltz-1 and Boltz-2. It was derived from the
+`automatic_70` cohort in the prediction-result table and preserves the seven
+actual prediction batches of ten complexes.
+
+`stage7_automatic_70_substitution_log.csv` documents the ten systems removed
+from the initial cohort and the ten systems added as replacements. Its rows
+record membership changes; they do not assert a one-to-one pairing between an
+individual removed system and an individual replacement.
 
 The final benchmark contained **100 complexes**:
 
-- 70 complexes from the automated selection workflow;
+- 70 complexes from the final automated cohort in
+  `stage7_final_automatic_70.csv`;
 - 30 complexes from the preceding manually curated cohort.
 
 ## Files
@@ -128,7 +143,9 @@ The final benchmark contained **100 complexes**:
 | `stage4_clean_coordinates_1_2000.csv` | Coordinate-level classifications |
 | `stage5_ligand_validation_1_2000.csv` | Ligand-validation classifications |
 | `stage6_final_clean_candidates.csv` | 89 candidates passing all automated filters |
-| `stage6_core_70.csv` | 70 automatically selected benchmark systems |
+| `stage6_initial_core_70.csv` | Initial 70-system automatic cohort before later substitutions |
+| `stage7_final_automatic_70.csv` | Authoritative 70-system automatic cohort actually simulated |
+| `stage7_automatic_70_substitution_log.csv` | Ten removals and ten additions between the initial and final automatic cohorts |
 
 ## Data not included
 
