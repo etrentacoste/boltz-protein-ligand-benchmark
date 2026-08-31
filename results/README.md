@@ -77,8 +77,8 @@ The principal structural metrics were:
 A pose was classified as successful only when both conditions were met:
 
 ```text
-BiSyRMSD <= 2.0 Å
-lDDT-PLI >= 0.8
+BiSyRMSD < 2.0 Å
+lDDT-PLI > 0.8
 ```
 A complex was classified as:
 - top-1 successful when its model-ranked first pose satisfied both

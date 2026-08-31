@@ -71,8 +71,8 @@ This preserves compatibility with the original local runtime layout.
 A pose was considered successful only when both conditions were satisfied:
 
 ```text
-BiSyRMSD <= 2.0 Å
-lDDT-PLI >= 0.8
+BiSyRMSD < 2.0 Å
+lDDT-PLI > 0.8
 ```
 
 For each model and complex, `top-1` refers to the model-ranked first pose and

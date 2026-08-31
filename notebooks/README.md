@@ -18,8 +18,8 @@ The notebook:
 
 A predicted pose was classified as successful when:
 
-- symmetry-aware ligand RMSD (BiSyRMSD) was below 2 Å; and
-- lDDT-PLI was greater than or equal to 0.8.
+- BiSyRMSD < 2 Å; and
+- lDDT-PLI > 0.8.
 
 ## Inputs
 
