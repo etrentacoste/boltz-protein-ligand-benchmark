@@ -53,9 +53,19 @@ Complete per-target similarity reports were produced for:
 | Boltz-2 | 90 | 10 |
 
 The missing ten complexes did not produce a final eligible PLINDER query
-system and therefore could not be assigned complete similarity reports.
-They remain part of the structural prediction benchmark and are explicitly
-recorded in `benchmark_similarity_status.csv`.
+system and therefore do not have per-target similarity reports. They remain
+part of the structural prediction benchmark and are explicitly recorded in
+`benchmark_similarity_status.csv`.
+
+### Metric-level coverage
+
+The 90 per-target reports for each reference set do not all contain values for
+all six similarity metrics. `22MJ`, `9HZ3` and `9VQ5` have no Pocket or
+Interaction similarity values. `9PSQ` has no Interaction similarity value.
+
+These missing values reflect unavailable metric-specific comparisons, not
+missing per-target report directories. Downstream analyses retain only the
+available values for the relevant metric.
 
 Absence of a report must not be interpreted as zero similarity.
 
@@ -83,9 +93,7 @@ similarity/
 ### `benchmark_similarity_status.csv`
 
 Records the similarity-analysis status of all 100 benchmark complexes for
-each temporal reference universe. It identifies complexes with complete
-reports and complexes for which no eligible final PLINDER system was
-available.
+each temporal reference universe. It identifies complexes with per-target reports and complexes for which no eligible final PLINDER system was available.
 
 ### `benchmark_similarity_summary.csv`
 

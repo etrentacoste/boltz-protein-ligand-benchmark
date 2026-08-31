@@ -23,9 +23,9 @@ The project includes:
 - bootstrap estimation of uncertainty;
 - molecular visualisation with PyMOL.
 
-The repository is being organised alongside the final project report.
-Additional scripts, processed tables and documentation will be added
-progressively.
+The repository contains the scripts, configurations, processed tables and
+documentation required to reproduce the benchmark construction, inference,
+structural evaluation and similarity analyses.
 
 ## Benchmark composition
 
@@ -157,8 +157,9 @@ neighbour count for each similarity representation.
 Uncertainty was estimated using 2,000 query-level bootstrap replicates
 with random seed 42.
 
-The similarity-processing and statistical-analysis code will be provided
-under `scripts/similarity/` and `notebooks/`.
+The similarity-processing and statistical-analysis code is provided under
+[`scripts/similarity/`](scripts/similarity/) and
+[`notebooks/`](notebooks/).
 
 ## Repository structure
 

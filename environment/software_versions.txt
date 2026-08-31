@@ -13,9 +13,6 @@ Gemmi: 0.6.5
 Boltz installation method:
 Python package installed in a Conda environment.
 
-Boltz installation location:
-$HOME/envs/boltz2-conda/lib/python3.11/site-packages/boltz
-
 The same Boltz 2.2.1 installation was used for both models:
 - Boltz-1 was selected with --model boltz1
 - Boltz-2 was selected with --model boltz2
@@ -33,6 +30,26 @@ NumPy: 1.26.4
 SciPy: 1.15.3
 PyArrow: 22.0.0
 Matplotlib: 3.10.9
+
+Similarity-search and ligand-comparison tools
+----------------------------------------------
+Foldseek: 10.941cd33
+MMseqs2: 18.8cc5c
+DuckDB: 1.5.5
+SuCOS: in-repository implementation in
+scripts/similarity/calculate_validate_sucos_shape.py
+RDKit in the local similarity environment: 2024.9.6
+
+Visualisation
+-------------
+PyMOL: 3.1.0
+
+HPC execution tools
+-------------------
+Apptainer: required for the PLINDER workflow on Iridis; exact module version
+was not recorded.
+Slurm: used for Iridis batch scheduling; exact cluster version was not
+recorded.
 
 OpenStructure evaluation environment
 ------------------------------------
