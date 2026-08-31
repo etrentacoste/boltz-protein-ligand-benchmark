@@ -71,6 +71,12 @@ Tanimoto coefficient.
 Calculates three-dimensional ligand similarity using SuCOS shape and
 feature-overlap scores.
 
+### `calculate_validate_sucos_shape.py`
+
+Implements the SuCOS molecular alignment, shape-overlap and feature-overlap
+functions used by `calculate_sucos_array.py`. Both scripts must remain in the
+same directory because the array script imports this module directly.
+
 ### `consolidate_similarity_report.py`
 
 Combines PLINDER, Morgan and SuCOS results into the per-complex files:
